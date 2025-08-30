@@ -1,0 +1,17 @@
+name: Utopia - Future City Project
+description: A visionary project showcasing a futuristic all-inclusive city with sustainable technology and inclusive community design.
+theme: jekyll-theme-minimal
+url: https://stephanzlatarev.github.io/utopia
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+github_username: stephanzlatarev
+
+title: "Utopia - The Future City"
+tagline: "Building sustainable, inclusive urban communities for tomorrow"
+keywords: "smart city, sustainable development, urban planning, future technology, inclusive community"
