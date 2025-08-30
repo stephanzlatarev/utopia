@@ -1,0 +1,80 @@
+name: Daily City Design Improvement
+
+on:
+  schedule:
+    # Runs at 09:00 UTC every day
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+env:
+  GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+jobs:
+  improve-city-design:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install @google/generative-ai
+      
+      - name: Generate city improvement
+        id: generate_improvement
+        run: |
+          node .github/scripts/generate-improvement.js
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create Pull Request
+        if: steps.generate_improvement.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🤖 AI-Generated City Improvement: ${{ steps.generate_improvement.outputs.improvement_title }}"
+          title: "🏙️ Daily City Design Improvement: ${{ steps.generate_improvement.outputs.improvement_title }}"
+          body: |
+            ## 🤖 AI-Generated City Improvement
+            
+            **Perspective**: ${{ steps.generate_improvement.outputs.perspective }}
+            **Thinking Method**: ${{ steps.generate_improvement.outputs.thinking_method }}
+            **Focus Area**: ${{ steps.generate_improvement.outputs.focus_area }}
+            
+            ### 📝 Description of Changes
+            ${{ steps.generate_improvement.outputs.description }}
+            
+            ### 🎯 Rationale
+            ${{ steps.generate_improvement.outputs.rationale }}
+            
+            ### 📊 Expected Impact
+            ${{ steps.generate_improvement.outputs.impact }}
+            
+            ---
+            
+            *This improvement was generated using Google's Gemini 2.5 Pro model as part of our daily city design enhancement process.*
+            
+            **Generated on**: ${{ steps.generate_improvement.outputs.generation_date }}
+            **Model Used**: Gemini 2.5 Pro
+            **Automation**: Daily GitHub Action
+          branch: ai-improvement-${{ steps.generate_improvement.outputs.branch_suffix }}
+          delete-branch: true
+          assignees: stephanzlatarev
+          labels: |
+            ai-generated
+            enhancement
+            city-design
+            daily-improvement
