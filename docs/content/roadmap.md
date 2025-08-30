@@ -43,6 +43,11 @@ Develop educational institutions, healthcare facilities, and recreational areas.
 
 #### Deliverables:
 - 🎓 Education Systems
+
+#### Citizen Energy Innovation Labs
+- **Objective**: Foster citizen-led energy innovation within the Education Campus.
+- **Activities**: Provide dedicated lab spaces with equipment for energy-related research, development, and testing. Offer workshops and mentorship from energy experts. Host competitions and showcases to highlight citizen innovations.
+- **Integration**: Partner with the Innovation Quarter to provide access to advanced resources and potential commercialization pathways for successful projects. Integrate lab activities into the curriculum at all levels of education.
 - 🏥 Healthcare Infrastructure
 - 🚗 Autonomous Transit
 - 🎨 Cultural Facilities
