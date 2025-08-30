@@ -4,14 +4,29 @@ This GitHub Action uses Google's Gemini 2.5 Pro AI model to automatically genera
 
 ## 🔧 Setup Instructions
 
-### 1. Get Google AI API Key (Free Tier)
+### 1. Enable GitHub Actions Permissions (REQUIRED)
+
+**This step is crucial to avoid the "GitHub Actions is not permitted to create or approve pull requests" error.**
+
+1. Go to your GitHub repository
+2. Click **Settings** → **Actions** → **General**
+3. Scroll down to **"Workflow permissions"**
+4. Select **"Read and write permissions"**
+5. ✅ Check **"Allow GitHub Actions to create and approve pull requests"**
+6. Click **Save**
+
+### 2. Get Google AI API Key (Free Tier)
+
+### 2. Get Google AI API Key (Free Tier)
 
 1. Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
 2. Sign in with your Google account
 3. Create a new API key
 4. Copy the API key (starts with `AIza...`)
 
-### 2. Add API Key to Repository Secrets
+### 3. Add API Key to Repository Secrets
+
+### 3. Add API Key to Repository Secrets
 
 1. Go to your GitHub repository
 2. Click **Settings** → **Secrets and variables** → **Actions**
@@ -20,7 +35,7 @@ This GitHub Action uses Google's Gemini 2.5 Pro AI model to automatically genera
 5. Value: Your Google AI API key
 6. Click **Add secret**
 
-### 3. Enable GitHub Actions
+### 4. Enable GitHub Actions
 
 The action will automatically run daily at 9:00 AM UTC, but you can also trigger it manually:
 
@@ -151,6 +166,15 @@ Edit the `focusAreas` array in the script file.
 3. Expand the job to see detailed logs
 
 ### Common Issues
+
+#### "GitHub Actions is not permitted to create or approve pull requests"
+**Solution**: Enable workflow permissions in repository settings:
+1. Go to **Settings** → **Actions** → **General**
+2. Under "Workflow permissions", select **"Read and write permissions"**
+3. Check **"Allow GitHub Actions to create and approve pull requests"**
+4. Save changes
+
+#### API Key Issues
 - **API Key Issues**: Check if `GOOGLE_API_KEY` is set correctly
 - **Rate Limits**: Google AI has generous free tier limits
 - **Parse Errors**: AI response wasn't valid JSON (usually retries work)
