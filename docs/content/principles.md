@@ -1,55 +1,21 @@
-# Founding Principles
+# Founding principles
 
-## 01. Sustainability First 🌍
+## 01. No person controls the city
 
-Every decision prioritizes environmental impact, ensuring our city regenerates rather than depletes natural resources.
+The city is run by automation based on rules. No person or group of people makes decisions for the rest. Thus no one can abuse their power and use public resources for private interest. This is how corruption cannot exist in the city.
 
-- **Circular economy**: Nothing is waste, everything is a resource
-- **Regenerative practices**: City operations actively heal the environment
-- **Future-proof planning**: Decisions consider 7-generation impact
-- **Natural integration**: Technology works with, not against, natural systems
+## 02. All basic needs are guaranteed
 
-## 02. Universal Access 🌈
+The city runs as an all-inclusive resourt where all basic needs, like shelter, security, heating, electricity, water, food, internet, are guaranteed.
 
-All residents enjoy equal access to education, healthcare, housing, and opportunities for growth and fulfillment.
+## 03. Standard of living improves only
 
-- **No barriers**: Physical, economic, or social barriers eliminated
-- **Lifelong support**: Cradle-to-grave care and opportunity
-- **Individual empowerment**: Personalized paths to achievement
-- **Community strength**: Individual success strengthens collective prosperity
+Progress, innovation, and increasing productivity mean that what we can produce today, we can also produce tomorrow with less effort and resources. In our city, we jointly decide what needs beyonds the guaranteed basic needs we set as the living standard and the city provides for them through automation with stable or increasing quality.
 
-## 03. Technology Integration 🤖
+## 04. Luxuries come from the free market
 
-Advanced AI and IoT systems seamlessly enhance daily life while preserving human connection and privacy.
+Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
-- **Human-centric design**: Technology serves people, not profits
-- **Privacy by design**: Personal data sovereignty guaranteed
-- **Transparent systems**: AI decision-making is explainable and auditable
-- **Digital equity**: Everyone has access to digital tools and literacy
+## 05. People have the freedom over their citizenship
 
-## 04. Community Governance 🗳️
-
-Decisions are made through transparent, participatory processes that give every resident a voice in their future.
-
-- **Direct democracy**: Citizens participate directly in decision-making
-- **Consensus building**: Decisions seek broad community support
-- **Transparent processes**: All governance activities are open and documented
-- **Continuous feedback**: Regular opportunities for input and course correction
-
-## 05. Innovation Culture 🚀
-
-Continuous learning and experimentation drive progress, with dedicated spaces for research and creative pursuits.
-
-- **Learning ecosystem**: City as a living laboratory
-- **Failure tolerance**: Safe spaces to experiment and learn
-- **Knowledge sharing**: Open access to research and discoveries
-- **Creative expression**: Art, music, and creativity are valued and supported
-
-## 06. Wellness Focus 💚
-
-Physical and mental health are prioritized through urban design, green spaces, and comprehensive support systems.
-
-- **Holistic health**: Physical, mental, and social wellbeing integrated
-- **Preventive care**: Health promotion over disease treatment
-- **Nature connection**: Abundant green spaces and natural elements
-- **Community support**: Strong social networks and mutual aid systems
+The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the decisions of the citizens, people are free to move or found another city when they don't accept the choices of their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
