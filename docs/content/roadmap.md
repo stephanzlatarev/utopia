@@ -58,6 +58,17 @@ Develop educational institutions, healthcare facilities, and recreational areas.
 - 🎨 Cultural Facilities
 - ♻️ Advanced Recycling
 
+
+
+#### Community Creation & Repair Hubs
+- **Objective:** To foster a hands-on culture of sustainability, turning waste streams into resources for creativity, learning, and community building, complementing the city's automated recycling systems.
+- **Implementation:**
+  - Establish well-equipped hubs in each Residential Garden and on the Education Campus.
+  - Hubs will feature tools for repair (electronics, textiles), and creation (3D printers, laser cutters, woodworking tools), and spaces for collaborative projects.
+  - An integrated app will allow residents to see available pre-processed materials (e.g., plastics, metals, textiles) from the central recycling sorting facility, book equipment, and share or trade their upcycled creations in the city's luxury market.
+- **Schedule:** Pilot hub to be launched in **2028 Q4** in the first residential district, with full rollout alongside community facilities in **2029**.
+- **Resources:** Initial allocation of $2 million for equipment and setup of the first 5 hubs.
+
 **Investment Required**: $4.2 billion
 **Timeline**: 36 months
 **Population**: 50,000 residents
