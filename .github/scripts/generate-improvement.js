@@ -123,7 +123,7 @@ REQUIREMENTS:
 Your improvement should be practical, using ${thinkingMethod}.`;
 
         // Get model and generate content
-        const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
+        const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
         
         const result = await model.generateContent(prompt);
         const responseText = result.response.text();
