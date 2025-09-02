@@ -58,6 +58,22 @@ Develop educational institutions, healthcare facilities, and recreational areas.
 - 🎨 Cultural Facilities
 - ♻️ Advanced Recycling
 
+### Mobility Framework: Resilient Multi-Modal Transit
+
+To mitigate the risks of a single-point-of-failure and create a more humane and resilient city, the "Autonomous Transit" deliverable is expanded into a multi-layered framework. This ensures robust mobility for all residents, services, and emergency responders.
+
+- **Layer 1: Active Mobility Network (2028)**
+  - **Description**: A city-wide network of protected, grade-separated pathways for walking, cycling, and other forms of personal micro-mobility. This forms the foundation of the transportation system for short-distance travel, promoting public health and providing a zero-failure, zero-energy mode of transport.
+  - **Technology**: Mature urban planning principles and construction techniques.
+
+- **Layer 2: Autonomous Public Transit Backbone (2029)**
+  - **Description**: The primary automated system, consisting of a fleet of shared, on-demand autonomous electric shuttles and pods operating on dedicated guideways. This system will be optimized for efficiency and connectivity between districts, serving as the main mode for medium-to-long distance travel.
+  - **Technology**: Autonomous vehicle (AV) technology at SAE Level 4/5, which is projected to be mature for geofenced public transit applications by the deployment date.
+
+- **Layer 3: Specialized & Emergency Grid (2029)**
+  - **Description**: An independent network for essential and specialized transport. This includes autonomous cargo movers for logistics and, critically, a dedicated priority network for emergency services (police, fire, medical) with manual override capabilities. This ensures emergency vehicles can operate unimpeded, even during a total failure of the primary autonomous backbone.
+  - **Technology**: Existing electric vehicle technology combined with dedicated communication channels and traffic management preemption systems.
+
 **Investment Required**: $4.2 billion
 **Timeline**: 36 months
 **Population**: 50,000 residents
