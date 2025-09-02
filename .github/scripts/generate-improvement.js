@@ -66,18 +66,17 @@ async function generateImprovement() {
         const content = await readContentFiles();
         
         // Randomly select perspective, method, and focus area
-        const perspective = perspectives[Math.floor(Math.random() * perspectives.length)];
+        const perspective = "All";
         const thinkingMethod = thinkingMethods[Math.floor(Math.random() * thinkingMethods.length)];
         const focusArea = focusAreas[Math.floor(Math.random() * focusAreas.length)];
         
-        console.log(`Selected perspective: ${perspective}`);
+        console.log(`Selected perspectives: ${perspectives.join(", ")}`);
         console.log(`Selected thinking method: ${thinkingMethod}`);
         console.log(`Selected focus area: ${focusArea}`);
         
         // Create the prompt
-        const prompt = `You are analyzing the design of Utopia, a futuristic all-inclusive city. Your task is to suggest ONE specific improvement from a particular perspective using a specific thinking approach.
+        const prompt = `You are analyzing the blueprint for Utopia, an all-inclusive city built on automation. Your task is to suggest ONE specific improvement in a specific area using a specific thinking approach.
 
-ROLE: You are a ${perspective}
 THINKING METHOD: Use ${thinkingMethod} from Edward de Bono's Six Thinking Hats
 FOCUS AREA: ${focusArea}
 
@@ -96,10 +95,11 @@ ${content['tech-specs.md'] || 'Not available'}
 ${content['roadmap.md'] || 'Not available'}
 
 INSTRUCTIONS:
-1. As a ${perspective}, apply ${thinkingMethod} to analyze the ${focusArea}
-2. Identify ONE specific area for improvement related to ${focusArea}
-3. Propose a concrete, detailed enhancement
-4. Your response must be in this EXACT JSON format:
+1. Identify ONE weakness of the blueprint that is related to ${focusArea} and that is critical from the perspective of at least one of ${perspectives.join(", ")}
+2. Apply ${thinkingMethod} to analyze the ${focusArea} from each perspective
+3. Identify ONE specific area for improvement related to ${focusArea}
+4. Propose a concrete, detailed enhancement
+5. Your response must be in this EXACT JSON format:
 
 {
   "file_to_update": "description.md|principles.md|tech-specs.md|roadmap.md",
@@ -113,13 +113,14 @@ INSTRUCTIONS:
 
 REQUIREMENTS:
 - Be specific and actionable
-- Stay true to your role as ${perspective}
+- Stay true to the roles of the individual perspectives
 - Apply ${thinkingMethod} consistently
 - Focus on ${focusArea}
 - Provide markdown that fits the existing structure
 - Make meaningful improvements, not just additions
+- Suggest improvements only based on technologies that either already exist or are being researched but have clear estimations for ranges for timeline and implementation cost. 
 
-Your improvement should be innovative yet practical, considering the perspective of a ${perspective} using ${thinkingMethod}.`;
+Your improvement should be practical, using ${thinkingMethod}.`;
 
         // Get model and generate content
         const model = genAI.getGenerativeModel({ model: "gemini-2.0-flash-exp" });
