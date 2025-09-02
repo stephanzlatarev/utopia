@@ -122,9 +122,7 @@ REQUIREMENTS:
 
 Your improvement should be practical, using ${thinkingMethod}.`;
 
-        // Get model and generate content
-        const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
-        
+        // Generate content
         const result = await callAi(prompt);
         const responseText = result.response.text();
         
@@ -233,14 +231,14 @@ Your improvement should be practical, using ${thinkingMethod}.`;
 }
 
 async function callAi(prompt) {
-  while (true) {
+  for (const name of ["gemini-2.5-pro", "gemini-2.5-flash", "gemini-2.5-flash-lite"]) {
     try {
+      console.log("Call AI model:", name);
+      const model = genAI.getGenerativeModel({ model: name });
       return await model.generateContent(prompt);
     } catch (error) {
       console.error(error);
     }
-
-    await new Promise(resolve => setTimeout(resolve, 60000));
   }
 }
 
