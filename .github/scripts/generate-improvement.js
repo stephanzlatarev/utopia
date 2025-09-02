@@ -125,7 +125,7 @@ Your improvement should be practical, using ${thinkingMethod}.`;
         // Get model and generate content
         const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
         
-        const result = await model.generateContent(prompt);
+        const result = await callAi(prompt);
         const responseText = result.response.text();
         
         console.log('AI Response:', responseText);
@@ -230,6 +230,18 @@ Your improvement should be practical, using ${thinkingMethod}.`;
         
         return null;
     }
+}
+
+async function callAi(prompt) {
+  while (true) {
+    try {
+      return await model.generateContent(prompt);
+    } catch (error) {
+      console.error(error);
+    }
+
+    await new Promise(resolve => setTimeout(resolve, 60000));
+  }
 }
 
 // Main execution
