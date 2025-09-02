@@ -1,5 +1,19 @@
 # Technical Specifications
 
+## Population
+
+- **Size**: 5000 - 10000 people
+    * Limiting factor - Not identified yed
+    * Constraints - space, infrastructure, energy, water, utilities.
+    * Considerations - See "neighborhood unit" concept in urban planning.
+
+## Space
+
+- **Size**: 4 square kilometers
+    * Limiting factor - Not identified yet
+    * Constraints - the "human-scale area" factor
+    * Considerations - See "20-minute neighborhood" or "walkable neighborhood" concept in urban planning research.
+
 ## 🔋 Energy Systems
 
 ### Solar Grid Network
