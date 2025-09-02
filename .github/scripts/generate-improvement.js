@@ -104,8 +104,8 @@ INSTRUCTIONS:
 {
   "file_to_update": "description.md|principles.md|tech-specs.md|roadmap.md",
   "improvement_title": "Brief title (max 50 chars)",
-  "description": "Detailed description of the improvement (2-3 sentences)",
-  "rationale": "Why this improvement is needed from your perspective (2-3 sentences)",
+  "description": "Detailed description of the improvement including maturity of the employed technology and timeline for adoption in case still in research (2-3 sentences)",
+  "rationale": "Why this improvement is needed from your perspective (1-2 sentences per perspective)",
   "impact": "Expected positive outcomes (2-3 sentences)",
   "markdown_addition": "The exact markdown text to add/insert (properly formatted markdown with headers, bullets, etc.)",
   "insertion_point": "After which heading/section to insert (exact text match)"
