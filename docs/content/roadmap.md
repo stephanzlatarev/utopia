@@ -82,6 +82,8 @@ Full implementation of AI city management, IoT sensor networks, and digital twin
 - 🧠 AI Management
 - 📡 IoT Network
 - 👥 Digital Twin
+
+- 🎨 **Civic Co-Creation Platform**: Launch of an interactive platform allowing residents to propose, visualize, and vote on public space modifications and digital art projects using the city's Digital Twin.
 - 🌾 Food Security
 - 🔄 Circular Economy
 
