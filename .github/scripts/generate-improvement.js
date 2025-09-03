@@ -123,8 +123,7 @@ REQUIREMENTS:
 Your improvement should be practical, using ${thinkingMethod}.`;
 
         // Generate content
-        const result = await callAi(prompt);
-        const responseText = result.response.text();
+        const { modelName, responseText} = await callAi(prompt);
         
         console.log('AI Response:', responseText);
         
@@ -203,6 +202,7 @@ Your improvement should be practical, using ${thinkingMethod}.`;
             `description=${improvement.description}`,
             `rationale=${improvement.rationale}`,
             `impact=${improvement.impact}`,
+            `model_name=${modelName}`,
             `generation_date=${new Date().toISOString()}`,
             `branch_suffix=${branchSuffix}`
         ];
@@ -235,7 +235,12 @@ async function callAi(prompt) {
     try {
       console.log("Call AI model:", name);
       const model = genAI.getGenerativeModel({ model: name });
-      return await model.generateContent(prompt);
+      const result = await model.generateContent(prompt);
+
+      return {
+        modelName: name,
+        responseText: result.response.text(),
+      };
     } catch (error) {
       console.error(error);
     }
