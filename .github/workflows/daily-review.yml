@@ -35,7 +35,7 @@ jobs:
       - name: Generate blueprint correction
         id: generate_improvement
         run: |
-          node .github/scripts/generate-correction.js
+          node .github/scripts/blueprint-improvement.js
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
