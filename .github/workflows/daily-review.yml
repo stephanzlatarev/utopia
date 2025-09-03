@@ -1,0 +1,76 @@
+name: Daily Advisory Board Review
+
+on:
+  schedule:
+    # Runs at 07:00 UTC every day
+    - cron: '0 7 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+env:
+  GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+
+jobs:
+  review-blueprint:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install dependencies
+        run: |
+          npm init -y
+          npm install @google/generative-ai
+      
+      - name: Generate blueprint correction
+        id: generate_improvement
+        run: |
+          node .github/scripts/generate-correction.js
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Create Pull Request
+        if: steps.generate_improvement.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🤖 AI-Generated blueprint correction: ${{ steps.generate_improvement.outputs.improvement_title }}"
+          title: "🏙️ Daily Advisory Board Review: ${{ steps.generate_improvement.outputs.improvement_title }}"
+          body: |
+            ## 🤖 AI-Generated blueprint correction
+            
+            ### 📝 Description of Changes
+            ${{ steps.generate_improvement.outputs.description }}
+            
+            ### 🎯 Rationale
+            ${{ steps.generate_improvement.outputs.rationale }}
+            
+            ### 📊 Expected Impact
+            ${{ steps.generate_improvement.outputs.impact }}
+            
+            ---
+            
+            *This improvement was generated using Google's Gemini models as part of our daily city design enhancement process.*
+            
+            **Generated on**: ${{ steps.generate_improvement.outputs.generation_date }}
+            **Model Used**: ${{ steps.generate_improvement.outputs.model_name }}
+            **Automation**: Daily GitHub Action
+          branch: ai-improvement-${{ steps.generate_improvement.outputs.branch_suffix }}
+          delete-branch: true
+          assignees: stephanzlatarev
+          labels: |
+            ai-generated
+            enhancement
+            city-design
+            daily-improvement
