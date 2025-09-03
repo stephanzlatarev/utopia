@@ -19,3 +19,13 @@ Any product or service beyond the basic needs and the living standard is conside
 ## 05. People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the decisions of the citizens, people are free to move or found another city when they don't accept the choices of their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
+
+## 06. Dynamic & Verifiable Governance
+
+The city's automation is governed by a digital charter—a living set of rules established and amended by its citizens. While no single person or group holds executive power, collective decision-making is enabled through a transparent, three-tiered protocol, ensuring both stability and adaptability.
+
+- **Core Constitution**: Foundational principles (e.g., guaranteeing basic needs, protecting rights) that are part of the city's core code. Amendments require a supermajority consensus (e.g., >75% of all residents) and a mandatory cooling-off period to prevent reactionary changes.
+
+- **Living Standard Legislation**: Policies regarding the city-wide living standard (e.g., upgrading public transport, increasing food variety) are proposed by any citizen via a public platform. They are debated, refined, and voted upon quarterly. Decisions are enacted by a simple majority and implemented into the automation's operational parameters.
+
+- **Dispute & Anomaly Resolution**: An independent, elected Citizen Oversight Council serves a judicial function. They do not create rules but are empowered to interpret the charter in edge cases, resolve conflicts between automated systems, and audit the AI for fairness and compliance. This provides a crucial human-in-the-loop for situations requiring nuanced judgment.
