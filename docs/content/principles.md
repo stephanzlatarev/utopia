@@ -2,6 +2,14 @@
 
 ## 01. No person controls the city
 
+### 01.1 Automated Participatory Governance
+
+While no single person or group controls the city, decisions regarding living standards and evolving city rules (as described in Principle 03) are made through a robust, transparent, and auditable decentralized consensus protocol. Every resident's validated input is processed by the city's core automation, which then updates operational parameters and resource allocation based on aggregated, cryptographically secured outcomes. This system ensures genuine democratic participation without human intermediaries in the execution of governance.
+
+*   **Mechanism**: A secure, blockchain-based voting and proposal system where residents submit and vote on policy adjustments or enhancements to the living standard. This system could leverage concepts from Decentralized Autonomous Organizations (DAOs) adapted for physical infrastructure governance. (Source: Antonopoulos, A. M. (2014). Mastering Bitcoin: Programming the Open Blockchain. O'Reilly Media; Voshmgir, S. (2020). Token Economy: How the Web3 Reinvented the Internet. Token Kitchen.)
+*   **Execution**: Approved proposals are directly translated into updated parameters and code for the city's AI and automation systems, ensuring direct implementation without human intervention in the execution phase.
+*   **Auditability**: All proposals, votes, and their subsequent implementation logs are publicly auditable and immutably recorded, fostering transparency and trust in the governance process.
+
 The city is run by automation based on rules. No person or group of people makes decisions for the rest. Thus no one can abuse their power and use public resources for private interest. This is how corruption cannot exist in the city.
 
 ## 02. All basic needs are guaranteed
