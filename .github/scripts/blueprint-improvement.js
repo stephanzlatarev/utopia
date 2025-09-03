@@ -74,7 +74,7 @@ async function generateImprovement() {
         console.log(`Selected thinking method: ${thinkingMethod}`);
         
         // Create the prompt
-        const prompt = `You are a board of advisors who are proof-reading the blueprint for Utopia, an all-inclusive city built on automation. Your task is to identify ONE specific and critical weakness of the blueprint documentation (not the design of the city itself). For example, this could be a missing critical detail that may break the design, or an inconsistency, or an unrealistic claim.
+        const prompt = `You are a board of advisors who are proof-reading the blueprint for Utopia, an all-inclusive city built on automation. Your task is to identify ONE specific and critical weakness of the blueprint documentation (not the design of the city itself). For example, this could be a missing critical detail that may break the design, or an inconsistency, or an unrealistic claim, or description that may be misunderstood by people from different backgrounds, or missing representation of an important perspective in the board of advisors.
 
 CURRENT CITY BLUEPRINT DOCUMENTATION:
 
