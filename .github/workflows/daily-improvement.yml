@@ -68,7 +68,7 @@ jobs:
             *This improvement was generated using Google's Gemini 2.5 Pro model as part of our daily city design enhancement process.*
             
             **Generated on**: ${{ steps.generate_improvement.outputs.generation_date }}
-            **Model Used**: Gemini 2.5 Pro
+            **Model Used**: ${{ steps.generate_improvement.outputs.model_name }}
             **Automation**: Daily GitHub Action
           branch: ai-improvement-${{ steps.generate_improvement.outputs.branch_suffix }}
           delete-branch: true
