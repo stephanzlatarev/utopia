@@ -18,4 +18,4 @@ Any product or service beyond the basic needs and the living standard is conside
 
 ## 05. People have the freedom over their citizenship
 
-The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the decisions of the citizens, people are free to move or found another city when they don't accept the choices of their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
+The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
