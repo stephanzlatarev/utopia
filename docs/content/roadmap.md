@@ -6,12 +6,12 @@ It may also be used to guide the implementation phases of newly found Utopia cit
 ## Class U1
 
 The priciple of Basic needs is fully met.
-The city operates as a commercial all-inclusive resourt. Automation is basic. Most services use human labor. Administration is done by a hosting company. The hosting company charges the residents with an annual flat fee that covers its expenses for their basic needs and the living standard services.
+The city operates as a commercial all-inclusive resort. Automation is basic. Most services use human labor. Administration is done by a hosting company. The hosting company charges the residents with an annual flat fee that covers its expenses for their basic needs and the living standard services.
 Founding of new cities is funded by commercial entities.
 
 ## Class U2
 
-The city operates as a commercial all-inclusive resourt. Automation covers most, but not all, basic needs of the residents. Human labor is required for supervision of the automation and for providing for some basic needs and for all living standard services.
+The city operates as a commercial all-inclusive resort. Automation covers most, but not all, basic needs of the residents. Human labor is required for supervision of the automation and for providing for some basic needs and for all living standard services.
 The hosting company still charges the residents with an annual flat fee, but the value of the services to the residents is multiple times higher than the fee.
 
 ## Class U3
