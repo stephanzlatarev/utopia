@@ -4,6 +4,16 @@ Utopia cities are run on automation.
 
 ## Governance
 
+## Housing & Residential
+
+To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
+
+### Key Features:
+*   **Modularity:** Residential buildings are constructed from standardized, prefabricated modules (e.g., living space modules, kitchen modules, accessible bathroom modules).
+*   **Adaptability:** Based on declared resident preferences and needs (such as family growth, aging, or disability), the automation system can reconfigure, add, or remove modules from a residential unit. This ensures a resident's home evolves with their life-cycle.
+*   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
+*   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
+
 The city is governed by automated rules.
 The blueprint of the automation is developed and maintained as open source. This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 The citizens do not vote but they influence the administration and development of their city through their preferrences.
