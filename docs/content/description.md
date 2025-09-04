@@ -16,7 +16,7 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
-The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parralel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
+The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
