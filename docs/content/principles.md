@@ -6,11 +6,11 @@ The city is run by automation based on rules. No person or group of people has p
 
 ## 02. All basic needs are guaranteed
 
-The city runs as an all-inclusive resourt where all basic needs, like shelter, security, heating, electricity, water, food, internet, are guaranteed.
+The city runs as an all-inclusive resort where all basic needs, like shelter, security, heating, electricity, water, food, healthcare, internet, are guaranteed.
 
 ## 03. Standard of living improves only
 
-Progress, innovation, and increasing productivity mean that what we can produce today, we can also produce tomorrow with less effort and resources. In our city, our preferences determine what needs beyonds the guaranteed basic needs are set as the living standard. The city provides for the standard of living through automation with stable or increasing quality.
+Progress, innovation, and increasing productivity mean that what we can produce today, we can also produce tomorrow with less effort and resources. In our city, our preferences determine what needs beyond the guaranteed basic needs are set as the living standard. The city provides for the standard of living through automation with stable or increasing quality.
 
 ## 04. Luxuries come from the free market
 
