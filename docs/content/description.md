@@ -16,6 +16,17 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Citizen Feedback and Innovation Portal
+
+To ensure continuous improvement and address emergent needs not fully captured by automated preference collection, a dedicated Citizen Feedback and Innovation Portal will be established. This portal will serve as a transparent and accessible channel for residents to:
+
+*   **Report Issues and Anomalies:** Submit detailed reports on any observed malfunctions, inefficiencies, or unintended consequences of the city's automation and services.
+*   **Propose Enhancements:** Suggest new features, optimizations, or policy adjustments for the city's automated systems and services.
+*   **Share Best Practices:** Document and share innovative ways residents are utilizing city resources or adapting to new automated systems.
+*   **Participate in Design Juries:** For significant proposed changes or complex problem-solving, a rotating jury of residents, selected by lot, will review and provide recommendations on proposed solutions developed by the automation oversight committee.
+
+The portal's data will be anonymized and aggregated, feeding into an 'Emergent Needs and Innovation' module within the blueprint development process. This module will prioritize and integrate feasible suggestions into future blueprint iterations, ensuring the city evolves in alignment with the collective wisdom and lived experiences of its residents. The development and maintenance of this portal will be overseen by a dedicated subsystem within the City Administration, ensuring its functionality and accessibility.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
