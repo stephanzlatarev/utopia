@@ -54,7 +54,7 @@ jobs:
             ${{ steps.generate_improvement.outputs.description }}
             
             ### 🎯 Rationale
-            ${{ JSON.stringify(steps.generate_improvement.outputs.rationale) }}
+            ${{ steps.generate_improvement.outputs.rationale }}
             
             ### 📊 Expected Impact
             ${{ steps.generate_improvement.outputs.impact }}
