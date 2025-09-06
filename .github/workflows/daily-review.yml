@@ -1,4 +1,4 @@
-name: Daily Advisory Board Review
+9name: Daily Advisory Board Review
 
 on:
   schedule:
@@ -51,7 +51,7 @@ jobs:
             ## 🤖 AI-Generated blueprint correction
             
             ### 📝 Description of Changes
-            ${{ steps.generate_improvement.outputs.description }}
+            ${{ JSON.stringify(steps.generate_improvement.outputs.description) }}
             
             ### 🎯 Rationale
             ${{ steps.generate_improvement.outputs.rationale }}
