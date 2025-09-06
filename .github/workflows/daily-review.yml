@@ -1,4 +1,4 @@
-9name: Daily Advisory Board Review
+name: Daily Advisory Board Review
 
 on:
   schedule:
