@@ -51,10 +51,10 @@ jobs:
             ## 🤖 AI-Generated blueprint correction
             
             ### 📝 Description of Changes
-            ${{ JSON.stringify(steps.generate_improvement.outputs.description) }}
+            ${{ steps.generate_improvement.outputs.description }}
             
             ### 🎯 Rationale
-            ${{ steps.generate_improvement.outputs.rationale }}
+            ${{ JSON.stringify(steps.generate_improvement.outputs.rationale) }}
             
             ### 📊 Expected Impact
             ${{ steps.generate_improvement.outputs.impact }}
