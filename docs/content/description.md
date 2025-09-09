@@ -34,6 +34,19 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Housing
 
+## Economic Systems
+
+To bridge the gap between the guaranteed standard of living and the free market for luxuries, and to provide a framework for meaningful citizen contribution, Utopia integrates a Citizen Contribution & Creation (C3) Platform.
+
+### Key Features:
+*   **Value-Based Token:** The city's free market operates on a digital token, the 'U-Credit,' which is used exclusively for luxury goods, services, and experiences. U-Credits cannot be used for, and are not required for, any of the basic needs or standard of living provisions guaranteed by the city.
+*   **Earning through Contribution:** Residents can earn U-Credits in several ways:
+    *   **Community Commissions:** The city's automation identifies collective desires (e.g., public art, entertainment, specialized software) and offers U-Credit bounties for residents or teams who can fulfill them.
+    *   **Enhanced Civil Work:** Participating in valuable, non-automated tasks, such as training advanced AI systems or providing nuanced feedback for service improvements, is rewarded with U-Credits.
+    *   **Peer-to-Peer Market:** Residents can create and sell their own unique goods (e.g., artisanal crafts, gourmet food) and services (e.g., personalized fitness coaching, advanced tutoring) to other residents on a decentralized marketplace.
+*   **Resource Access:** The C3 platform allows residents to book and utilize the city's automated fabrication, computing, and logistics resources for their approved projects, lowering the barrier to entry for innovation and creation.
+*   **Transparent & Decentralized:** Built on a decentralized ledger, the platform ensures all transactions and project agreements are transparent, secure, and managed by smart contracts, aligning with Utopia's principle of no central control.
+
 To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
 
 ### Key Features:
