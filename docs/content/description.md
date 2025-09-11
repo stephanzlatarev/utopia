@@ -41,3 +41,13 @@ To fulfill the principle of guaranteed shelter, Utopia implements a Modular and 
 *   **Adaptability:** Based on declared resident preferences and needs (such as family growth, aging, or disability), the automation system can reconfigure, add, or remove modules from a residential unit. This ensures a resident's home evolves with their life-cycle.
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
+
+## Public Safety
+
+To fulfill the principle of guaranteed security, Utopia integrates a proactive Automated Guardian and Emergency Response Network (AGENT). This system is designed to prevent, detect, and respond to public safety incidents with unparalleled speed and efficiency, ensuring the well-being of all residents.
+
+### Key Features:
+*   **Predictive Prevention:** The city's automation uses data from a vast network of environmental and public-space sensors (e.g., thermal, air quality, acoustic) to predict and mitigate potential hazards. For example, it can identify fire risks, potential structural failures, or unsafe environmental conditions and dispatch maintenance units before an incident occurs.
+*   **Instantaneous Response:** Upon detection of an emergency—such as a medical distress signal from a personal device, a fire alarm, or an automated accident detection—the AGENT system immediately dispatches specialized autonomous units. This includes medical drones equipped with defibrillators and trauma supplies, fire-suppression robots, and robotic first-aiders.
+*   **Integrated Communication:** The system seamlessly connects the person in distress, the automated responders, and human supervision centers (in early-class cities) or advanced medical facilities (in later-class cities). This ensures a continuous flow of information and a coordinated response, guiding residents to safety and providing real-time updates to all relevant parties.
+*   **Community-Centric Design:** Residents can opt-in to connect personal health monitors or home safety systems to the network, allowing for a personalized level of protection. The system is designed to be a supportive and non-intrusive presence, enhancing feelings of community trust and collective safety.
