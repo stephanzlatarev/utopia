@@ -16,6 +16,9 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In lower class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+
+- through community deliberation - For localized, non-critical issues (e.g., the design of a neighborhood park, community event scheduling, or public art installations), the city can initiate a deliberative consensus process. This AI-moderated system provides all affected residents with balanced information, facilitates structured, respectful dialogue in small groups, and synthesizes the nuanced outcomes. The goal is not a simple vote but to find a consensus or best-fit solution that the city's automation then implements, making residents feel heard and actively involved in shaping their immediate environment.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
