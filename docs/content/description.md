@@ -34,6 +34,18 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Housing
 
+
+
+## Waste Management
+
+To ensure a hygienic, efficient, and sustainable environment, Utopia integrates an Automated Waste Collection and Sorting System (AWCS) that processes all municipal waste streams, turning waste into a resource.
+
+### Key Features:
+*   **Integrated Chutes:** Residential, commercial, and public spaces are equipped with multi-stream disposal chutes (e.g., for organics, plastics/metals, paper, and general waste). This allows for waste segregation at the source, which is the most effective method for maintaining material purity.
+*   **Pneumatic Transport Network:** Waste deposited in the chutes is transported via a sealed, underground network of pneumatic tubes to a centralized Material Recovery Facility (MRF). This eliminates the need for garbage trucks, reducing noise, emissions, and traffic congestion.
+*   **AI-Powered Sorting:** At the MRF, AI-driven optical sorters and robotic arms perform a final, high-precision separation of materials. This technology can identify and sort materials with over 99% accuracy, far exceeding human capability and maximizing the value of recovered resources.
+*   **Data-Driven Optimization:** The entire system is monitored, providing real-time data on waste volumes by type and origin. This information is used by the city's core automation to optimize collection schedules, predict maintenance needs, and provide feedback to residents or commercial units on their waste generation patterns.
+
 To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
 
 ### Key Features:
