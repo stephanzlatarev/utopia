@@ -34,6 +34,16 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Housing
 
+## Energy Infrastructure
+
+To ensure the city's absolute resilience and the well-being of its residents, Utopia is powered by a Resilient Decentralized Energy Network (RDEN), preventing catastrophic single points of failure inherent in centralized grids.
+
+### Key Features:
+*   **Microgrid Architecture:** The city's energy grid is a network of interconnected but independently operable microgrids, typically at the building or neighborhood level. In the event of a wider disruption, each microgrid can disconnect and function autonomously, powering essential services for its local residents.
+*   **Integrated Renewables:** Energy generation is integrated directly into the city's fabric. Building surfaces (roofs, facades) incorporate high-efficiency photovoltaic materials, and other localized renewable sources (e.g., geothermal, small-scale wind) are utilized where appropriate.
+*   **Localized Storage:** Each microgrid is equipped with its own energy storage system (e.g., modular battery banks), ensuring a stable power supply even when generation is intermittent. This storage is co-located with the housing and service modules it supports.
+*   **Automated Load Balancing:** The city's core automation constantly manages energy flow between microgrids, optimizing efficiency and sharing surplus power. During an emergency, it automatically prioritizes critical loads (healthcare, safety systems, residential life support) within each isolated microgrid.
+
 To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
 
 ### Key Features:
