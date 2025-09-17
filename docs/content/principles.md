@@ -18,4 +18,9 @@ Any product or service beyond the basic needs and the living standard is conside
 
 ## 05. People have the freedom over their citizenship
 
+## 06. Self-Sustaining Resource Management
+
+In its fully automated stages (Class U5 and above), the city's automation functions as a self-sustaining resource management system. It autonomously oversees the acquisition of raw materials, energy production, manufacturing of goods and infrastructure components, maintenance, and recycling processes necessary to guarantee all basic needs and continuously improve the standard of living for its residents. This operates outside a traditional monetary economy for core services, relying instead on efficient resource allocation and automated production cycles within the city's closed-loop system, enabling the network of Utopia cities to collectively fund expansion and development.
+
+
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
