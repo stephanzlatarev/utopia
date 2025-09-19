@@ -18,4 +18,23 @@ Any product or service beyond the basic needs and the living standard is conside
 
 ## 05. People have the freedom over their citizenship
 
+## 06. The Utopian Standard of Provision (USP)
+
+To give substance to our guarantees, the blueprint defines provisions in two tiers. Tier 1 is a universal constant for all Utopia cities, while Tier 2 is dynamic and reflects the collective preferences and productive capacity of a specific city.
+
+### Tier 1: Universal Basic Needs
+These are the non-negotiable foundations for a life of dignity, guaranteed to every resident. They are based on established global standards to ensure they are comprehensive.
+
+*   **Nutrition:** Access to sufficient, safe, and nutritious food that meets dietary needs for an active and healthy life, consistent with the Food and Agriculture Organization (FAO) guidelines.
+*   **Shelter (MARS):** A safe, private, and climate-controlled residential module as described in the Housing section, with access to clean water, sanitation, and waste management.
+*   **Healthcare:** Comprehensive health services, from preventative care and treatment to rehabilitation and palliative care, aligned with the World Health Organization's principles of Universal Health Coverage. This includes primary care, emergency services, mental health support, and essential medicines.
+*   **Information & Communication:** Unrestricted access to a high-speed, secure internet connection and the basic hardware required to interact with city systems and global information networks.
+*   **Security:** A safe environment, protected by automated monitoring and emergency response systems, as well as the assurance of personal data privacy and security.
+*   **Lifelong Education:** Access to foundational education and resources for continuous learning and skill development through the city's automated learning platforms.
+
+### Tier 2: Community Living Standard
+This tier includes goods and services that go beyond basic survival to enable a thriving community life. The scope of Tier 2 is dynamic, determined by the city's automation based on resident preference data, resource availability, and technological capability. Items in this tier are provided without charge but are subject to capacity.
+
+*   **Examples may include:** Advanced public transportation networks, community centers, libraries, access to arts and cultural facilities, public parks and recreational spaces, and higher-level vocational training programs.
+
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
