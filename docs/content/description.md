@@ -34,6 +34,16 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Housing
 
+## Integrated Bio-Resource and Ecosystem Management (IBREM)
+
+To ensure long-term environmental viability and achieve the goal of self-sufficiency (Class U5), Utopia incorporates a closed-loop system for all biological resources.
+
+### Key Features:
+*   **Water Reclamation:** All wastewater (greywater and blackwater) is collected and processed through a multi-stage purification system. This produces potable water for reuse within the city and a concentrated stream of nutrients for agricultural use, factually eliminating the need for continuous external water sources beyond initial seeding and atmospheric collection.
+*   **Nutrient Cycling:** Organic waste, including food scraps and biomass from green spaces, is processed via anaerobic digestion and composting. This automated process generates biogas for energy and nutrient-rich fertilizer, creating a circular flow of resources that fuels the city's food production.
+*   **Integrated Food Production:** Food is produced within the city limits using a combination of automated vertical farms, hydroponics, and aquaponics systems. These facilities are directly supplied with reclaimed water and nutrients from the IBREM system, minimizing transportation and land-use costs.
+*   **Blue-Green Infrastructure:** The city's design mandates the integration of functional ecosystems, such as green roofs, bio-swales, and parks. This infrastructure is not merely aesthetic; it is an active component of the IBREM, managing stormwater, improving air quality, mitigating the urban heat island effect, and providing habitats to support local biodiversity.
+
 To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
 
 ### Key Features:
