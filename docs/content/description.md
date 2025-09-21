@@ -1,6 +1,7 @@
 # City Description
 
 Utopia cities are run on automation.
+They guarnatee the basic human needs and provide for a standard of living beyond that.
 
 ## Governance
 
@@ -37,12 +38,42 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
-## Housing
+## Spaces
 
-To fulfill the principle of guaranteed shelter, Utopia implements a Modular and Adaptable Residential System (MARS). This system is designed to provide housing that dynamically meets the varied and changing needs of its residents.
+Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
-### Key Features:
+Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
+
+#### Key Features:
 *   **Modularity:** Residential buildings are constructed from standardized, prefabricated modules (e.g., living space modules, kitchen modules, accessible bathroom modules).
 *   **Adaptability:** Based on declared resident preferences and needs (such as family growth, aging, or disability), the automation system can reconfigure, add, or remove modules from a residential unit. This ensures a resident's home evolves with their life-cycle.
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
+
+## Basic needs
+
+The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
+
+Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
+
+Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
+
+All residents have full access to the resources and services to cover their needs.
+They are guaranteed to not need to enter survival mode.
+This will encourage them to seek higher standard of living and greater purpose.
+
+### Shelter
+
+Shelter is provided by residential buildings in the personal spaces.
+Every resident has at least 50 square meters of personal space designed according to their preferences.
+The personal space consists of at least a bedroom, a toilet and bathroom, and a living room.
+The resident may wish to share a space with a partner, friends, or family.
+
+### Air
+
+Air-conditioning with purification systems is available in all spaces in the city.
+Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
+
+### Heating
+
+Air-conditioning with cooling and heating systems is available in all spaces in the city.
