@@ -77,3 +77,20 @@ Depending on the preferences of the residents, all spaces may have close access 
 ### Heating
 
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
+
+### Food
+
+The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
+
+### Healthcare
+
+The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
+All spaces are designed to minimize incidents, including industrial and traffic-related risks.
+There is a clear focus on prevention of health problems.
+This is the basis for a healthier population.
+
+In addition, all residents have access to high-quality medical equipment and expertise.
+
+### Communication
+
+All residents have access to video and audio communication, the internet, AI assistance.
