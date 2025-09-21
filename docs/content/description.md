@@ -4,16 +4,18 @@ Utopia cities are run on automation.
 
 ## Governance
 
-In order to ensure that the city reflects the needs and preferences of its residents without possibility for corruption of a ruling elite, governance powers are segregated between three aspects.
+In order to ensure that the city reflects the needs and preferences of its residents without possibility for corruption of a ruling elite, governance powers are segregated between three aspects - city administration, blueprint development, and state rule.
 
 ### City administration
 
-The city is governed by automated rules that are provided with the blueprint. In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
+The city is governed by automated rules that are provided with the blueprint.
+
+> In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
 
 Citizens do not vote on policies, laws and rules. However, they can influence the administration and development of their city in a few ways:
 - through their preferences - This mechanism is encoded in the blueprint of the city. As part of the automation, the city administration will collect information about preferences by the residents, through monitoring of usage of services and direct feedback, and will activate the configurations and automations of the blueprint that best reflect the preferences of the residents.
 - through direct feedback - The city keeps its blueprint and current state readily available to all its residents, similar to how the public transport in modern sity shows the lines and schedules in realtime. Residents can look into the details of how the city operates in any aspect and any level they want through personal smart devices, public interactive screens, or even AI guide tour. This system doubles as a portal to raise incidents, issues, ideas for improvements - all automatically directed to the developers of the blueprint.
-- through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In lower class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
+- through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
@@ -31,6 +33,9 @@ Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
 The downside is that the city can isolate its residents from state corruption only to the extent that it guarantees all basic needs and the living atandard. The most mature future stages of Utopia cities, Class 6, will have sufficiently advanced automation to handle nuanced resolution of disputes and conflicts fairly and without human bias.
+
+> Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
+> Mature-class cities will have advanced automation that will make them independent of any state.
 
 ## Housing
 
