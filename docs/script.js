@@ -1,46 +1,65 @@
 // Markdown parsing utility
 function parseMarkdown(markdown) {
-    // Basic markdown to HTML converter
-    let html = markdown
-        // Headers
-        .replace(/^# (.*$)/gim, '<h1>$1</h1>')
-        .replace(/^## (.*$)/gim, '<h2>$1</h2>')
-        .replace(/^### (.*$)/gim, '<h3>$1</h3>')
-        .replace(/^#### (.*$)/gim, '<h4>$1</h4>')
-        
-        // Bold and italic
-        .replace(/\*\*(.*?)\*\*/gim, '<strong>$1</strong>')
-        .replace(/\*(.*?)\*/gim, '<em>$1</em>')
-        
-        // Code blocks
-        .replace(/```([\s\S]*?)```/gim, '<pre><code>$1</code></pre>')
-        .replace(/`(.*?)`/gim, '<code>$1</code>')
-        
-        // Links
-        .replace(/\[([^\]]+)\]\(([^)]+)\)/gim, '<a href="$2">$1</a>')
-        
-        // Lists
-        .replace(/^\- (.*$)/gim, '<li>$1</li>')
-        .replace(/^\* (.*$)/gim, '<li>$1</li>')
-        
-        // Line breaks
-        .replace(/\n\n/gim, '</p><p>')
-        .replace(/\n/gim, '<br>');
+    // Split into blocks first
+    const blocks = markdown.split(/\n\s*\n/);
+    let html = '';
     
-    // Wrap orphaned <li> elements in <ul>
-    html = html.replace(/(<li>.*?<\/li>)/gims, (match) => {
-        if (!match.includes('<ul>')) {
-            return '<ul>' + match + '</ul>';
+    blocks.forEach(block => {
+        const trimmedBlock = block.trim();
+        if (!trimmedBlock) return;
+        
+        // Headers
+        if (trimmedBlock.match(/^# /)) {
+            html += trimmedBlock.replace(/^# (.*)/, '<h1>$1</h1>');
+        } else if (trimmedBlock.match(/^## /)) {
+            html += trimmedBlock.replace(/^## (.*)/, '<h2>$1</h2>');
+        } else if (trimmedBlock.match(/^### /)) {
+            html += trimmedBlock.replace(/^### (.*)/, '<h3>$1</h3>');
+        } else if (trimmedBlock.match(/^#### /)) {
+            html += trimmedBlock.replace(/^#### (.*)/, '<h4>$1</h4>');
         }
-        return match;
+        // Lists
+        else if (trimmedBlock.match(/^[\-\*] /m)) {
+            const listItems = trimmedBlock.split('\n')
+                .filter(line => line.trim())
+                .map(line => line.replace(/^[\-\*] (.*)/, '<li>$1</li>'))
+                .join('');
+            html += '<ul>' + listItems + '</ul>';
+        }
+        // Code blocks
+        else if (trimmedBlock.startsWith('```')) {
+            const codeContent = trimmedBlock.replace(/```[\s\S]*?\n([\s\S]*?)```/, '$1');
+            html += '<pre><code>' + codeContent + '</code></pre>';
+        }
+        // Blockquotes
+        else if (trimmedBlock.startsWith('>')) {
+            const quoteContent = trimmedBlock.replace(/^> /gm, '');
+            html += '<blockquote><p>' + processInlineMarkdown(quoteContent) + '</p></blockquote>';
+        }
+        // Regular paragraphs
+        else {
+            html += '<p>' + processInlineMarkdown(trimmedBlock) + '</p>';
+        }
     });
     
-    // Wrap in paragraphs if not already wrapped
-    if (!html.startsWith('<h') && !html.startsWith('<p>') && !html.startsWith('<ul>') && !html.startsWith('<pre>')) {
-        html = '<p>' + html + '</p>';
-    }
-    
     return html;
+}
+
+// Process inline markdown elements
+function processInlineMarkdown(text) {
+    return text
+        // Bold and italic
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*(.*?)\*/g, '<em>$1</em>')
+        
+        // Code
+        .replace(/`(.*?)`/g, '<code>$1</code>')
+        
+        // Links
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+        
+        // Single line breaks become spaces, preserve the text flow
+        .replace(/\n/g, ' ');
 }
 
 // Load markdown content and render it
@@ -88,6 +107,9 @@ async function loadMarkdownContent(filename, containerId) {
             } else if (containerId === 'roadmap-content') {
                 processRoadmapContent(container);
             }
+            
+            // Setup collapsible functionality for all sections
+            setupCollapsibleSections(container);
         }
     } catch (error) {
         console.error('Error loading markdown content:', error);
@@ -126,6 +148,33 @@ function processDescriptionContent(container) {
             
             card.innerHTML = content;
             cardGrid.appendChild(card);
+        } else {
+            // Handle regular H2 sections with collapsible functionality
+            const wrapper = document.createElement('div');
+            wrapper.className = 'collapsible-section';
+            
+            // Create collapsible header
+            const header = document.createElement('h2');
+            header.className = 'subsection-title collapsed';
+            header.innerHTML = section.textContent + ' <span class="chevron">▼</span>';
+            header.style.cursor = 'pointer';
+            
+            // Create collapsible content wrapper
+            const contentWrapper = document.createElement('div');
+            contentWrapper.className = 'collapsible-content collapsed';
+            
+            // Collect all content until next h2 or end
+            let contentHTML = '';
+            let currentElement = section.nextElementSibling;
+            while (currentElement && currentElement.tagName !== 'H2') {
+                contentHTML += currentElement.outerHTML;
+                currentElement = currentElement.nextElementSibling;
+            }
+            contentWrapper.innerHTML = contentHTML;
+            
+            wrapper.appendChild(header);
+            wrapper.appendChild(contentWrapper);
+            cardGrid.appendChild(wrapper);
         }
     });
     
@@ -143,27 +192,43 @@ function processPrinciplesContent(container) {
     principlesGrid.className = 'principles-grid';
     
     sections.forEach((section, index) => {
+        // Create collapsible wrapper
+        const wrapper = document.createElement('div');
+        wrapper.className = 'collapsible-section';
+        
+        // Create collapsible header
+        const header = document.createElement('h2');
+        header.className = 'subsection-title collapsed';
+        header.innerHTML = section.textContent + ' <span class="chevron">▼</span>';
+        header.style.cursor = 'pointer';
+        
+        // Create collapsible content wrapper
+        const contentWrapper = document.createElement('div');
+        contentWrapper.className = 'collapsible-content collapsed';
+        
         const principleItem = document.createElement('div');
         principleItem.className = 'principle-item';
         
-        const numberMatch = section.textContent.match(/(\d+)\./);
+        const numberMatch = section.textContent.match(/(\d+)\./); 
         const number = numberMatch ? numberMatch[1] : (index + 1).toString().padStart(2, '0');
         const title = section.textContent.replace(/^\d+\.\s*/, '').replace(/[🌍🌈🤖🗳️🚀💚]/, '').trim();
         
         let content = '<div class="principle-number">' + number + '</div>';
         content += '<h3>' + title + '</h3>';
         
-        // Get content until next h2 or end
+        // Collect all content until next h2 or end
         let currentElement = section.nextElementSibling;
         while (currentElement && currentElement.tagName !== 'H2') {
-            if (currentElement.tagName === 'P' || currentElement.tagName === 'UL') {
-                content += currentElement.outerHTML;
-            }
+            content += currentElement.outerHTML;
             currentElement = currentElement.nextElementSibling;
         }
         
         principleItem.innerHTML = content;
-        principlesGrid.appendChild(principleItem);
+        contentWrapper.appendChild(principleItem);
+        
+        wrapper.appendChild(header);
+        wrapper.appendChild(contentWrapper);
+        principlesGrid.appendChild(wrapper);
     });
     
     if (principlesGrid.children.length > 0) {
@@ -179,6 +244,20 @@ function processTechSpecsContent(container) {
     techGrid.className = 'tech-grid';
     
     sections.forEach(section => {
+        // Create collapsible wrapper
+        const wrapper = document.createElement('div');
+        wrapper.className = 'collapsible-section';
+        
+        // Create collapsible header
+        const header = document.createElement('h2');
+        header.className = 'subsection-title collapsed';
+        header.innerHTML = section.textContent + ' <span class="chevron">▼</span>';
+        header.style.cursor = 'pointer';
+        
+        // Create collapsible content wrapper
+        const contentWrapper = document.createElement('div');
+        contentWrapper.className = 'collapsible-content collapsed';
+        
         const category = document.createElement('div');
         category.className = 'tech-category';
         
@@ -219,7 +298,11 @@ function processTechSpecsContent(container) {
         
         content += '</ul>';
         category.innerHTML = content;
-        techGrid.appendChild(category);
+        contentWrapper.appendChild(category);
+        
+        wrapper.appendChild(header);
+        wrapper.appendChild(contentWrapper);
+        techGrid.appendChild(wrapper);
     });
     
     if (techGrid.children.length > 0) {
@@ -235,6 +318,20 @@ function processRoadmapContent(container) {
     timeline.className = 'timeline';
     
     sections.forEach((section, index) => {
+        // Create collapsible wrapper
+        const wrapper = document.createElement('div');
+        wrapper.className = 'collapsible-section';
+        
+        // Create collapsible header
+        const header = document.createElement('h2');
+        header.className = 'subsection-title collapsed';
+        header.innerHTML = section.textContent + ' <span class="chevron">▼</span>';
+        header.style.cursor = 'pointer';
+        
+        // Create collapsible content wrapper
+        const contentWrapper = document.createElement('div');
+        contentWrapper.className = 'collapsible-content collapsed';
+        
         const timelineItem = document.createElement('div');
         timelineItem.className = 'timeline-item';
         
@@ -289,13 +386,45 @@ function processRoadmapContent(container) {
         content.innerHTML = htmlContent;
         timelineItem.appendChild(marker);
         timelineItem.appendChild(content);
-        timeline.appendChild(timelineItem);
+        contentWrapper.appendChild(timelineItem);
+        
+        wrapper.appendChild(header);
+        wrapper.appendChild(contentWrapper);
+        timeline.appendChild(wrapper);
     });
     
     if (timeline.children.length > 0) {
         container.innerHTML = '';
         container.appendChild(timeline);
     }
+}
+
+// Setup collapsible sections functionality
+function setupCollapsibleSections(container) {
+    const collapsibleHeaders = container.querySelectorAll('.subsection-title');
+    
+    collapsibleHeaders.forEach(header => {
+        header.addEventListener('click', function() {
+            const contentWrapper = this.nextElementSibling;
+            const chevron = this.querySelector('.chevron');
+            
+            if (this.classList.contains('collapsed')) {
+                // Expand
+                this.classList.remove('collapsed');
+                this.classList.add('expanded');
+                contentWrapper.classList.remove('collapsed');
+                contentWrapper.classList.add('expanded');
+                chevron.textContent = '▲';
+            } else {
+                // Collapse
+                this.classList.remove('expanded');
+                this.classList.add('collapsed');
+                contentWrapper.classList.remove('expanded');
+                contentWrapper.classList.add('collapsed');
+                chevron.textContent = '▼';
+            }
+        });
+    });
 }
 
 // Smooth scrolling for navigation links

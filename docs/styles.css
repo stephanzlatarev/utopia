@@ -337,6 +337,52 @@ body {
     border-bottom: 2px solid rgba(76, 175, 80, 0.2);
     padding-bottom: 0.5rem;
     font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.subsection-title:hover {
+    color: #2196f3;
+    border-bottom-color: rgba(33, 150, 243, 0.3);
+}
+
+.subsection-title .chevron {
+    font-size: 1.2rem;
+    transition: transform 0.3s ease;
+    color: inherit;
+    font-weight: normal;
+}
+
+.subsection-title.collapsed .chevron {
+    transform: rotate(0deg);
+}
+
+.subsection-title.expanded .chevron {
+    transform: rotate(180deg);
+}
+
+.collapsible-content {
+    overflow: hidden;
+    transition: max-height 0.4s ease, opacity 0.3s ease;
+}
+
+.collapsible-content.collapsed {
+    max-height: 0;
+    opacity: 0;
+}
+
+.collapsible-content.expanded {
+    max-height: 2000px;
+    opacity: 1;
+}
+
+.collapsible-section {
+    width: 100%;
+    margin-bottom: 2rem;
 }
 
 .card-title {
@@ -378,6 +424,10 @@ body {
     gap: 2rem;
 }
 
+.description-grid .collapsible-section {
+    grid-column: 1 / -1;
+}
+
 .description-card {
     background: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
@@ -415,6 +465,10 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;
+}
+
+.principles-grid .collapsible-section {
+    grid-column: 1 / -1;
 }
 
 .principle-item {
@@ -468,6 +522,10 @@ body {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 2rem;
+}
+
+.tech-grid .collapsible-section {
+    grid-column: 1 / -1;
 }
 
 .tech-category {
