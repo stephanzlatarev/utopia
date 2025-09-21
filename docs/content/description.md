@@ -19,6 +19,14 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Algorithmic Accountability and Redress
+
+To ensure that the principle of "No person controls the city" does not evolve into "An uncontrollable algorithm controls the city," all administrative automation is subject to a strict framework of accountability. This framework ensures that automated decisions are fair, transparent, and contestable.
+
+*   **Transparency:** All residents have the right to a clear, plain-language explanation for any automated administrative decision that directly affects them. The logic, data, and parameters used by the algorithm in making the decision will be made available for review.
+*   **Contestability and Redress:** If a resident believes an automated decision is incorrect, biased, or unjust, they have the right to a formal appeal. The initial appeal will be reviewed by a secondary, independent AI module. If the issue remains unresolved, it is escalated to a 'Human Oversight Council,' a rotating body of residents who perform this as a form of high-level civil work, ensuring final decisions are grounded in human reason and empathy.
+*   **Continuous Auditing:** The city's automation is subject to constant, independent audits for bias, fairness, and effectiveness. The results of these audits are made public to all residents, ensuring the system evolves towards greater justice and reliability.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
