@@ -38,6 +38,19 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Justice and Reconciliation
+
+To address the need for a clear, fair, and integrated system for resolving disputes and upholding community standards, Utopia implements a multi-tiered Justice and Reconciliation framework. This system is designed to evolve alongside the city's automation capabilities, prioritizing de-escalation, mediation, and restorative outcomes over punitive measures. It functions as the city's internal legal and social arbitration mechanism, reducing reliance on and potential conflicts with external state systems.
+
+#### Tier 1: Automated Mediation System (AMS)
+For minor interpersonal disagreements, noise complaints, or resource-use conflicts, residents can engage the AMS. This AI-driven tool acts as a neutral third party, facilitating structured, private communication between the involved parties to help them reach a mutually agreeable resolution. The AMS does not pass judgment but guides the conversation based on established communication and conflict resolution principles.
+
+#### Tier 2: Community Reconciliation Councils
+For more complex issues or when AMS is unsuccessful, cases can be brought before a Community Reconciliation Council. This is a form of 'civil work' where trained resident volunteers are guided by an AI facilitator to ensure procedural fairness and consistency. The council's goal is to understand the context of the conflict, identify the harm caused, and work with all parties to create a plan for repair and reintegration into the community.
+
+#### Tier 3: The Utopian Code and Formal Adjudication
+Serious violations that cause significant harm to individuals or the community, such as theft of significant luxury items or acts of violence, are addressed through a formal adjudication process. This process is governed by the 'Utopian Code'—a living, transparent, and open-source body of rules and principles consistent with the city's founding principles. In early-class cities, adjudication is handled by professional human arbiters. In mature, Class U5/U6 cities, this function transitions to a highly advanced, explainable AI system subject to human oversight and a robust appeals process involving resident councils.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
