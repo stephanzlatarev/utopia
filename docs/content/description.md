@@ -40,6 +40,18 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Resource Management
+
+Beyond basic provision, Utopia is designed as a circular economy where resources are perpetually reused, repaired, and repurposed. This principle is made tangible and engaging for residents through Community Circularity Hubs.
+
+### Community Circularity Hubs
+
+Instead of a purely invisible, automated waste collection system, each neighborhood features a Community Circularity Hub. These centers are designed to transform the resident's relationship with material goods and waste.
+
+*   **Interactive Recycling:** Residents can bring materials like plastics, glass, textiles, and electronics to the hub. The space features transparent automated systems that sort, clean, and process these materials, providing a fascinating and educational look into the resource recovery process.
+*   **Creative Upcycling & Repair Cafes:** A core part of each hub is a 'maker-space' equipped with tools, 3D printers that use recycled materials, and repair stations. Residents can learn new skills, repair their own items with automated assistance, or create art and new products from the reclaimed materials, fostering a culture of creativity and sustainability.
+*   **Community Engagement:** The hubs serve as social centers, hosting workshops on repair, crafting, and sustainability. This turns a logistical process into an opportunity for residents to connect, collaborate, and build a shared sense of ownership and pride in their environment.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
