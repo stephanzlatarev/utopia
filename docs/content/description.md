@@ -77,3 +77,24 @@ Depending on the preferences of the residents, all spaces may have close access 
 ### Heating
 
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
+
+
+## Education
+
+The city's education system is designed to cultivate well-rounded, critical, and collaborative citizens, not just to impart skills. It operates on a hybrid model that pairs the efficiency of automation with the irreplaceable value of human connection and mentorship, recognizing that true self-actualization requires both knowledge and wisdom.
+
+### Guiding Philosophy
+Education in Utopia aims to develop three core pillars in every resident:
+- **Adaptive Knowledge:** A personalized, AI-curated curriculum provides a deep foundation in sciences, arts, and humanities, tailored to each learner's pace and interests.
+- **Critical Inquiry & Creativity:** Learning is not passive. The system emphasizes problem-solving, ethical reasoning, and creative expression through project-based, collaborative work.
+- **Social & Emotional Intelligence:** Human educators and peer groups are central to developing empathy, communication, conflict resolution, and community-building skills.
+
+### The Hybrid Model in Practice
+- **AI Tutors:** Each resident has access to a sophisticated AI learning assistant. It manages personalized learning paths, delivers core instruction, provides instant feedback on knowledge-based tasks, and suggests resources.
+- **Human Educators (Mentors/Facilitators):** The role of the teacher evolves from a lecturer to a mentor and facilitator. They guide group discussions, oversee collaborative projects, provide emotional support, and challenge students to think critically and ethically about complex issues that have no simple answer.
+
+### Learning Hubs
+Physical 'Learning Hubs' replace traditional schools. These are dynamic community spaces designed for:
+- **Collaborative Workshops:** Spaces equipped for hands-on projects in engineering, art, music, and science.
+- **Socratic Seminars:** Rooms designed for face-to-face discussions and debates guided by human facilitators.
+- **Play and Socialization:** Unstructured areas that encourage social interaction, play, and community bonding across all age groups, which is critical for healthy development.
