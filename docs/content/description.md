@@ -50,6 +50,9 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+
+*   **Personalization:** To address the human need for identity and self-expression, MARS includes an Aesthetic and Identity Layer (AIL). This non-structural system allows residents to fully customize the interior and exterior appearance of their modules with a wide variety of materials, artistic facades, dynamic lighting, and even integrated biophilic elements. This fosters a deep sense of 'home' and personal ownership, ensuring the city feels vibrant and human, not uniform and sterile.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
