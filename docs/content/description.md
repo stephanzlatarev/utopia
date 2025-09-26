@@ -77,3 +77,13 @@ Depending on the preferences of the residents, all spaces may have close access 
 ### Heating
 
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
+
+
+### Ethical Preference and Needs-Based Personalization
+
+The collection and application of resident preferences are governed by a strict ethical framework to ensure fairness, privacy, and individual autonomy. This framework is a core, unchangeable part of the blueprint and is subject to continuous public audit. Its principles are:
+
+*   **Data Privacy by Design:** The system is built on the principles of data minimization, collecting only what is necessary. All personal data is anonymized and encrypted, and residents have full control over their data, including the right to view, amend, and delete it. This approach is inspired by global standards like the GDPR.
+*   **Algorithmic Transparency and Explainability:** The algorithms used to interpret preferences and automate city services are open source and fully documented. The city will employ Explainable AI (XAI) techniques, allowing any resident to understand why a specific decision was made by the automation.
+*   **Equity and Fairness by Default:** The system is designed to prevent the "tyranny of the majority." It incorporates a hierarchical model where fundamental needs (e.g., accessibility for disabled individuals, safety for children) are always prioritized over mere preferences (e.g., aesthetic choices). The system actively identifies and protects the interests of minority and vulnerable groups, ensuring equitable resource distribution.
+*   **Conflict Resolution Protocol:** When preferences of different residents or groups are in direct conflict, the system initiates a structured resolution process. This process can range from automated mediation suggesting a compromise, to flagging the issue for review by a dedicated (and rotating) citizen's panel for complex ethical dilemmas, ensuring that no single preference automatically overrides another without due process.
