@@ -28,6 +28,15 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+### Blueprint Governance Model
+
+To ensure the blueprint's development is transparent, accountable, and resistant to control by any single group, a formal governance model is established. This model defines a clear, public process for proposing, debating, and implementing changes.
+
+*   **Utopia Improvement Proposal (UIP):** Any developer or resident can submit a UIP. This is a formal document outlining a proposed change, its rationale, benefits, and potential drawbacks, making the initiation of change accessible to all.
+*   **Special Interest Groups (SIGs):** The developer community is organized into SIGs focused on specific domains (e.g., SIG-Resource-Allocation, SIG-Healthcare, SIG-Residential-Systems). A UIP is directed to the relevant SIG(s) for initial review, technical validation, and refinement.
+*   **Blueprint Council:** A council of rotating members, elected periodically from the pool of active, long-term blueprint developers, is responsible for the final review and approval of UIPs. Membership is time-limited and must represent a diversity of SIGs to prevent entrenchment. The Council's primary mandate is to ensure all changes align with the Founding Principles and maintain the overall coherence of the blueprint.
+*   **Public Review and Comment:** All UIPs, discussions, and decisions are publicly archived and viewable in real-time. Residents are encouraged to comment and provide feedback during the review process, ensuring the development direction is influenced by the needs of those living in Utopia cities.
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
