@@ -9,6 +9,16 @@ In order to ensure that the city reflects the needs and preferences of its resid
 
 ### City administration
 
+### Conflict and Dispute Resolution
+
+While major criminal matters are delegated to the state in pre-Class U6 cities, a clear internal framework is essential for managing interpersonal conflicts and disputes between residents and the city's automated systems. This framework ensures swift, fair, and transparent resolution, reinforcing resident safety and trust. It operates on a tiered model:
+
+*   **Tier 1: AI-Assisted Mediation:** For minor disagreements (e.g., noise complaints, disputes over shared space usage), residents can access an AI mediation service. The system facilitates anonymous, guided communication, provides objective data (e.g., decibel readings), and proposes solutions based on the blueprint's principles and precedents. The goal is mutual understanding and voluntary agreement.
+
+*   **Tier 2: Community Resolution Council:** For unresolved Tier 1 disputes or more complex civil matters (e.g., accusations of property damage, perceived unfairness in resource allocation), a case can be brought before a rotating council of residents. Serving on the council is a form of "civil work." The council does not create rules but interprets the existing blueprint principles in specific contexts, practicing restorative justice to mend community bonds rather than assign punishment. Their recommendations are logged transparently and serve as precedents for the AI mediator.
+
+*   **Tier 3: State Authority Delegation:** Only when a dispute involves serious criminal activity as defined by state law, or when a resolution cannot be reached through internal means and requires legal enforceability, is the matter formally delegated to the state's authorities. This provides a clear and predictable interface with the host state, defining jurisdictional boundaries.
+
 The city is governed by automated rules that are provided with the blueprint.
 
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
