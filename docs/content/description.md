@@ -71,6 +71,14 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+Beyond guaranteeing a supply for physiological needs, Utopia's water system is a bio-integrated 'Living Water Grid' designed for sustainability, beauty, and community engagement. The system operates on a multi-loop, decentralized model, ensuring resilience and hyper-efficiency.
+
+*   **Potable Loop:** A closed-loop system for drinking and cooking, supplied by a network of atmospheric water generators and hyper-purification nodes. This guarantees water security independent of external sources.
+*   **Greywater Loop:** Water from showers and sinks is recycled at the building or block level for reuse in toilets, vertical farms, and landscape irrigation, minimizing freshwater consumption.
+*   **Stormwater & Aesthetic Loop:** Rainwater is harvested and channeled through a network of visible, 'daylit' streams, bioswales, and reflection pools integrated into public parks and walkways. This water is naturally filtered by aquatic plants, cools the urban environment, creates serene public spaces, and serves as a distributed reservoir for firefighting before recharging the aquifer or entering the greywater system.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
