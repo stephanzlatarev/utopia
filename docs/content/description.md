@@ -21,6 +21,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Conflict Resolution
+
+While major criminal matters in early-class cities fall under the jurisdiction of the state, Utopia provides a robust internal framework for resolving interpersonal disputes, grievances, and minor conflicts. This framework is designed to be restorative rather than punitive, focusing on repairing harm, fostering understanding, and strengthening community bonds. The system evolves with the city's technological advancement.
+
+Our approach is structured in tiers:
+
+*   **Tier 1: AI-Assisted Self-Resolution & Mediation:** For minor disagreements, residents can access AI-powered tools that provide guidance on communication and conflict resolution. If needed, the system can facilitate a structured mediation session between the involved parties, with an AI acting as a neutral third party.
+*   **Tier 2: Community Conferencing & Restorative Circles:** For more complex disputes or situations where harm has been caused, trained community volunteers facilitate restorative circles. These circles bring together those affected by an incident to collectively decide how to repair the harm and move forward. This process is based on principles of restorative justice, ensuring all voices are heard and valued.
+*   **Tier 3: Formal Review & Adjudication:** In cases where lower tiers are unsuccessful or inappropriate, a formal review can be requested. In U1-U4 cities, this is handled by a panel of trained residents, selected for their impartiality and guided by the blueprint's core principles. In U5 and higher-class cities, this function is managed by a dedicated, unbiased AI adjudicator capable of nuanced ethical reasoning.
+
+This internal system ensures that residents have accessible and fair mechanisms for seeking justice and resolving conflicts within their community, reinforcing the city's promise of safety and belonging without immediate recourse to external state apparatus for every issue.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
