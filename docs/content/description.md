@@ -76,4 +76,14 @@ Depending on the preferences of the residents, all spaces may have close access 
 
 ### Heating
 
+### Health
+
+To fulfill the basic need for health, Utopia implements a Proactive and Integrated Health System that is decentralized and woven into the fabric of daily life. This system is designed to shift the focus from reactive treatment to proactive, continuous wellness, leveraging the city's automation and modularity.
+
+It consists of three integrated tiers:
+
+*   **Tier 1: Personal Wellness Monitoring:** Personal residential spaces are equipped with non-invasive, opt-in environmental and biometric sensors. This system provides real-time health feedback and early warnings for potential issues to the resident and their chosen care network, all managed by the city's secure AI.
+*   **Tier 2: Community Health Hubs:** Integrated into or adjacent to residential blocks (as part of the MARS), these automated hubs serve as the first point of contact for non-emergency care. They offer AI-powered diagnostics, automated sample collection, telemedicine consultations with specialists, and robotic dispensers for medications and nutritional supplements.
+*   **Tier 3: Specialized Medical Centers:** For complex procedures, surgeries, long-term care, and advanced medical research, the city maintains state-of-the-art, centralized medical centers. These facilities are staffed by highly skilled human specialists who are freed from routine tasks to focus on cutting-edge treatments and compassionate care, working alongside advanced surgical and diagnostic robots.
+
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
