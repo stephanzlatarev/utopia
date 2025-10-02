@@ -76,4 +76,17 @@ Depending on the preferences of the residents, all spaces may have close access 
 
 ### Heating
 
+### Waste and Resource Reclamation
+
+To ensure public health, safety, and long-term sustainability, Utopia integrates a comprehensive waste management system designed for maximum resource reclamation.
+
+*   **Source Separation:** All spaces (personal, group, and public) are equipped with clearly marked, automated disposal ports for different waste streams, including organics, recyclables, e-waste, hazardous materials, and general waste. This ensures proper handling from the point of creation.
+*   **Automated Transport:** A dedicated, sealed pneumatic tube network transports waste from disposal ports directly to processing facilities. This system is hidden from public view, operates 24/7, and eliminates the need for collection vehicles, reducing noise and traffic.
+*   **Decentralized Processing:** Rather than a single large facility, Utopia utilizes smaller, specialized, and fully automated processing hubs. This modular approach enhances resilience and minimizes the impact of any single point of failure.
+*   **Resource Conversion:** Processing hubs employ advanced technologies to convert waste back into valuable resources:
+    *   **Organics:** Processed in anaerobic digesters to produce biogas for energy and nutrient-rich compost for urban green spaces.
+    *   **Recyclables:** AI-powered optical sorters separate materials with near-perfect accuracy for re-integration into the city's manufacturing supply chain.
+    *   **E-waste & Hazardous Waste:** Disassembled by robotics in contained environments to safely reclaim rare metals and neutralize dangerous components.
+    *   **Residual Waste:** Non-recyclable materials are treated via plasma gasification, an enclosed high-temperature process that converts them into syngas for energy generation and an inert slag suitable for construction materials, resulting in near-zero landfill.
+
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
