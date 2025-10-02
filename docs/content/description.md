@@ -30,6 +30,18 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+To ensure social harmony and provide a fair process for addressing grievances, Utopia implements a tiered system for conflict resolution that evolves with the city's classification. This framework is founded on restorative principles, aiming to repair harm and reintegrate community members rather than focusing solely on punishment. This internal system operates for all matters concerning the city's blueprint rules and community living standards, while criminal matters may remain delegated to the state in early-class cities.
+
+*   **Tier 1: AI-Assisted Negotiation:** For minor, non-personal disputes (e.g., conflicts over shared space usage, resource allocation disagreements), the city's administration AI acts as a neutral facilitator. It analyzes the preferences and needs of the involved parties, reviews relevant city rules, and proposes several equitable solutions for them to choose from. This process is transparent and logged for review.
+
+*   **Tier 2: Community Mediation:** If AI-assisted negotiation fails or for interpersonal conflicts, the issue can be escalated to a panel of trained resident mediators. These mediators are volunteers participating in "civil work" who have been certified through a standardized program. Their role is to facilitate dialogue and help the parties reach a mutually agreed-upon resolution. This human-centric approach is crucial for handling nuanced social dynamics.
+
+*   **Tier 3: Formal Adjudication:** For serious violations of the city's core principles or when mediation fails, a formal hearing is conducted. An adjudication panel is formed from a randomly selected pool of residents (similar to jury duty) who review all evidence, hear arguments, and make a binding decision. The administration AI supports this process by providing impartial data and ensuring procedural fairness.
+
+This system is designed to evolve. In Class U1-U3 cities, the focus is on human-led mediation and adjudication (Tiers 2 & 3). The data and outcomes from these processes are used to train and refine the administrative AI. By Class U5, the AI can autonomously handle a majority of Tier 1 and 2 issues, with human oversight and intervention always available for complex cases and appeals, ensuring that justice remains a fundamentally human-centric process.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
