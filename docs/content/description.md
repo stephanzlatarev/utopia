@@ -77,3 +77,6 @@ Depending on the preferences of the residents, all spaces may have close access 
 ### Heating
 
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
+
+
+*   **Homesteading Option:** To balance adaptability with the human need for stability and place, residents are granted a 'Right to Remain'. After a continuous residency period (e.g., 5 years) in a specific unit configuration, a resident can designate it as their 'Homestead'. This status prevents the automation system from initiating any reconfigurations or module removals on that unit without the resident's explicit request, ensuring long-term stability and fostering a deeper sense of home and community.
