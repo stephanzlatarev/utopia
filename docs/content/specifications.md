@@ -3,7 +3,7 @@
 ## Population
 
 - **Size**: 5000 - 10000 people
-    * Limiting factor - Not identified yed
+    * Limiting factor - Not identified yet
     * Constraints - space, infrastructure, energy, water, utilities.
     * Considerations - See "neighborhood unit" concept in urban planning.
 
@@ -14,31 +14,25 @@
     * Constraints - the "human-scale area" factor
     * Considerations - See "20-minute neighborhood" or "walkable neighborhood" concept in urban planning research.
 
-## 🔋 Energy Systems
+## Energy
 
-### Solar Grid Network
-- **Capacity**: 500MW distributed solar installation
-- **Coverage**: Rooftop, building-integrated, and dedicated solar farms
-- **Technology**: Next-generation perovskite-silicon tandem cells (35% efficiency)
-- **Storage Integration**: Direct coupling with battery systems
+The blueprint relies on reliable and sustainable energy technologies that do not pollute the environment.
+Geothermal energy is selected as the standard energy source because it is readily available everywhere, it's reliable, doesn't pollute.
 
-### Wind Farms
-- **Capacity**: 200MW offshore wind generation
-- **Turbines**: 40 next-generation floating wind turbines
-- **Technology**: Vertical axis wind turbines for urban integration
-- **Grid Integration**: Smart inverters with grid stabilization
+The city uses 5 km deep closed-loop geothermal systems (Advanced Geothermal Systems) for zero emissions.
+The energy is used for heating and electricity. Load balancing is fully automated in real-time based on current and predicted demand.
 
-### Battery Storage
-- **Capacity**: 2GWh advanced lithium-ion storage
-- **Technology**: Solid-state batteries with 20-year lifespan
-- **Distribution**: Neighborhood-level microgrids with central coordination
-- **Backup Systems**: Hydrogen fuel cells for extended outages
+Several separate AGS ensure redundancy. The energy grid is with automatic fault detection and self-healing capabilities.
 
-### Smart Grid
-- **AI Optimization**: Real-time demand prediction and load balancing
-- **Efficiency**: 98% energy distribution efficiency
-- **Resilience**: Automatic fault detection and self-healing capabilities
-- **Integration**: Vehicle-to-grid and building-to-grid connectivity
+- **Generation**: 1 TWh annually (based on 100 MWh per resident)
+- **Cost**: $65,000,000 annually (based on $65 per MWh)
+
+The design does not require survace space or battery storage.
+
+Alternatives on our technology radar are:
+* Nuclear fission - This existing technology needs to minimize pollution, ensure access to source materials, and maximize safety before it is selected for the blueprint.
+* Nuclear fusion - This future technology needs to be developed before it is selected for the blueprint.
+* Space-based solar power - This future technology needs to be developed and safety concerns addressed before it is selected for the blueprint.
 
 ## 🏗️ Infrastructure
 
