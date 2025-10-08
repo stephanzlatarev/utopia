@@ -28,6 +28,19 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+
+### Blueprint Amendment Process
+
+To ensure the blueprint evolves transparently and in accordance with the residents' collective will, all changes to the city's core automated rules are subject to the Civic Deliberation and Amendment Protocol (CDAP). This process prevents the concentration of power within the developer community and gives every resident a meaningful role in governance.
+
+The protocol consists of five stages:
+
+1.  **Proposal Submission:** Any resident can formulate a Blueprint Change Proposal (BCP) using an AI-assisted interface. The AI helps clarify the proposal's intent, models potential impacts on city systems and residents, and checks for conflicts with founding principles.
+2.  **Council Review:** Proposals are forwarded to a Civic Review Council, a body of residents selected through sortition (random lottery) to serve a limited term. This ensures that decision-makers are representative of the general population, not a political class. The Council's role is to evaluate the BCP's feasibility, ethics, and importance.
+3.  **City-Wide Deliberation:** For significant proposals, the Council initiates an AI-moderated, city-wide deliberation. This is not a simple vote. The system presents arguments, data, and simulated outcomes to all residents, facilitating structured, respectful debate in small groups and large forums. The goal is to arrive at an informed consensus rather than a narrow majority.
+4.  **Binding Decision:** Based on the outcome of the deliberation, the Civic Review Council makes a formal, binding decision on the proposal. Their decision, along with a summary of the public deliberation, is published to all residents.
+5.  **Technical Implementation:** The blueprint developers receive the approved BCP. Their role is strictly technical: to implement the change into the blueprint safely and accurately as specified by the Council's decision. The final code is subject to an automated and public audit before deployment.
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
