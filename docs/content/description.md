@@ -94,3 +94,11 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+### Education
+
+The city provides a comprehensive and automated Adaptive Lifelong Learning Framework (ALL-F) to support the self-actualization needs of all residents. The framework is designed to be a guided process, balancing individual curiosity with the foundational knowledge required for societal participation and contribution.
+
+*   **Personalized Learning Paths (PLPs):** Upon entering the education system, each resident is assigned an AI mentor that collaborates with them to develop a PLP. This path is continuously updated based on the resident's progress, interests, and evolving goals. The process ensures a structured progression through educational milestones.
+*   **Foundational & Specialization Modules:** The framework's curriculum is modular, consisting of foundational modules (e.g., literacy, critical thinking, social skills) that are standard for all young residents, and a vast library of specialization modules (e.g., quantum mechanics, art history, robotics). The process for adding or updating modules is governed by the same open-source principles as the city blueprint, ensuring quality and relevance.
+*   **Project-Based Integration:** A core control mechanism of the ALL-F is its integration with the 'civil work' system. Learning is heavily focused on practical, project-based applications where residents can work alongside the city's automation, solve real-world problems, and contribute to the community, providing a direct feedback loop on the efficacy of the educational process.
