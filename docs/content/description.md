@@ -19,6 +19,27 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### The Dynamic Standard: Defining Needs, Standards, and Luxuries
+
+To ensure transparency and fairness in resource allocation, the blueprint codifies the distinction between basic needs, the standard of living, and luxury items through a framework known as The Dynamic Standard. This is not a static list, but a living system that evolves with technology and resident values.
+
+*   **Category 1: Basic Needs:** These are non-negotiable and universally provided resources essential for survival and dignity, as outlined in the 'Basic needs' section (e.g., shelter, water, nutrition, core healthcare).
+
+*   **Category 2: Standard of Living:** These are goods and services deemed essential for full participation in Utopian society, enabling personal growth, community engagement, and self-actualization. The automation provides these to all residents based on preference and need. The classification is guided by the core principle of enhancing resident capabilities, inspired by frameworks such as Amartya Sen's Capability Approach, which defines well-being by the freedom to achieve valued life goals.
+
+*   **Category 3: Luxury:** These are goods and services that fall outside the current scope of the guaranteed Standard of Living. They are provided by the free market and are not required for a fulfilling life within Utopia, but are available for personal enjoyment and expression.
+
+#### The Classification Process
+
+The city automation continuously processes requests and suggestions for re-classifying items (e.g., moving a new technology from 'Luxury' to 'Standard'). The decision-making process is automated based on the following weighted criteria:
+
+1.  **Capability Enhancement:** Does this item significantly increase a resident's ability to learn, create, connect with others, or maintain their well-being?
+2.  **Resource Sustainability:** Can this item be produced and maintained for all residents without compromising the city's long-term ecological and resource stability?
+3.  **Community Endorsement:** Through ongoing, non-binding polling and feedback systems, what is the level of resident consensus that this item is a desirable component of the shared living standard?
+4.  **Technological Maturity:** Is the technology required to produce and maintain the item sufficiently advanced for reliable, automated deployment?
+
+Any proposed change to the Standard of Living is made public for a deliberative review period, allowing residents to provide feedback before the change is ratified and implemented by the city's administration.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
