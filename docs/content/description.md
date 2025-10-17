@@ -38,6 +38,21 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Automated Response & State Interface (ARSI)
+
+While ultimate legal authority and large-scale response are delegated to the host state in Class U1-U5 cities, the city administration is responsible for immediate on-site incident management to ensure resident safety. This is handled by the ARSI, a system with clear protocols for detection, initial response, and seamless coordination with state agencies.
+
+*   **Emergency Services (Police, Fire, Medical):** The city's automation uses a network of sensors (e.g., smoke, audio stress-level analysis, resident-activated panic buttons) to instantly detect emergencies. Upon detection, the ARSI simultaneously:
+    1.  Dispatches on-site automated units (e.g., fire suppression drones, first-aid robots) to provide immediate containment and support.
+    2.  Transmits a comprehensive data packet (exact location, incident type, number of affected individuals, live sensor readings) to the appropriate state emergency service, drastically reducing their assessment and response time.
+
+*   **Interpersonal Dispute Resolution:** For non-criminal conflicts (e.g., noise complaints, disagreements over shared space usage), the ARSI initiates a tiered response:
+    1.  **Level 1 (AI Mediation):** Residents can access an AI-powered mediation service to find a mutually agreeable solution guided by the city's operational rules.
+    2.  **Level 2 (Human Mediation):** If AI mediation fails, residents can opt-in to a session with a professionally trained (human or advanced AI) mediator, who may be a fellow resident participating in civil work or a service provided by the city.
+    3.  **Level 3 (Formal Complaint):** If mediation is refused or fails, the incident is formally logged. A persistent pattern of unresolved disputes may affect a resident's community standing or, in extreme cases, be escalated to state authorities if legal lines are crossed.
+
+*   **Jurisdictional Clarity:** The ARSI serves as the single, official point of contact for state agencies. All requests for entry and intervention from state authorities are processed through this system, ensuring all interactions are logged, transparent, and compliant with the city's operational agreements with the host state.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
