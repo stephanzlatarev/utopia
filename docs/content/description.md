@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Recreation & Wellness
+
+While basic physiological and safety needs are guaranteed, Utopia actively fosters higher-level wellness through a Personalized Wellness & Recreation (PWR) System. This automated platform serves as a digital community facilitator, moving beyond the simple provision of facilities to the active co-creation of a vibrant social and recreational life.
+
+The PWR system allows residents to:
+-   **Define Goals:** Set personal wellness goals across various domains (physical, mental, social, creative, educational). The city's AI assistant helps create personalized plans and suggests relevant activities.
+-   **Discover & Connect:** Find activities, classes, and interest groups that match their profiles and goals. The system proactively facilitates connections between residents with shared interests.
+-   **Co-create & Organize:** Propose, organize, and manage their own groups and events. The system automates the logistics, such as scheduling, allocating adaptable spaces (using the MARS framework), and managing resources, removing the administrative burden from residents.
+-   **Provide Structured Feedback:** Offer continuous, structured feedback on programs and facilities, enabling the city's automation to dynamically adapt and improve the recreational landscape in line with resident preferences and wellness outcomes.
