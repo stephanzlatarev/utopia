@@ -38,6 +38,26 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### State & Civic Interface Protocol (SCIP)
+
+To ensure clarity and operational readiness, the interaction between a Utopia city and its host state is governed by the State & Civic Interface Protocol (SCIP). This protocol, established as a formal Memorandum of Understanding (MOU) with the host state, is a prerequisite for the city's founding. It is inspired by established agreements between private entities and public services, such as those between university campus police and local law enforcement agencies (Source: University of California Police Policy & Procedures Manual).
+
+The SCIP defines three core areas:
+
+1.  **Jurisdiction & Legal Standing:**
+    *   All residents of the Utopia city are subject to the civil and criminal laws of the host state.
+    *   The city's automated administration has authority over blueprint-defined rules, resource allocation, and access to services. It can impose automated sanctions (e.g., temporary loss of access to luxury services) for violations of these internal rules.
+    *   The host state's law enforcement and emergency services have full jurisdiction and right of access to any space within the city to respond to emergencies or investigate suspected violations of state law.
+
+2.  **Tiered Conflict Resolution & Response:**
+    *   **Tier 1: Civic Disputes.** Issues like noise complaints, misuse of public space, or minor disagreements are handled internally. The city's administration acts as a mediator, suggesting solutions based on the blueprint and resident preferences. This is logged automatically.
+    *   **Tier 2: Blueprint Violations.** Issues like vandalism of automated systems or systematic abuse of guaranteed services are managed by the city's automated administration, which may issue warnings or sanctions. Repeated or severe violations are flagged for human review by blueprint developers or state authorities if they intersect with state law.
+    *   **Tier 3: State Law Violations & Emergencies.** Any event detected by the city's monitoring systems that constitutes a potential violation of state law (e.g., assault, theft) or a critical emergency (e.g., fire, medical crisis) automatically triggers a direct data dispatch to the appropriate host state agency. This dispatch includes all relevant, anonymized-where-possible information required for an effective response, such as location, number of individuals involved, and sensor readings.
+
+3.  **Operational & Financial Agreement:**
+    *   The city maintains a direct, encrypted data link to state emergency dispatch services for automated reporting.
+    *   In Class U1-U4 cities, a portion of the fees collected by the hosting company is designated as a 'Civic Service Contribution' paid to the host state to help fund the emergency, legal, and judicial services provided to the city's residents.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
