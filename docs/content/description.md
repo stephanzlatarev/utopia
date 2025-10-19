@@ -50,6 +50,12 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+
+*   **Sustainable Lifecycle and Integrated Design (SLID) Protocol:** To ensure long-term environmental viability, the MARS operates under a strict SLID protocol. This protocol mandates:
+    *   **Lifecycle Assessment (LCA):** Every module type undergoes a rigorous LCA, from raw material extraction to end-of-life disposal or recycling, to minimize its total environmental impact.
+    *   **Sustainable Materials:** The automation prioritizes the use of locally-sourced, renewable, and carbon-negative materials (e.g., engineered timber, mycelium composites) for module construction.
+    *   **Passive First Design:** The city's architectural AI is programmed to prioritize passive heating, cooling, and lighting strategies. Building orientation, natural ventilation corridors, and green roofing are integrated into all designs, reducing the reliance on energy-intensive active systems like universal HVAC.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
