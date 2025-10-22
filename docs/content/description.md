@@ -9,6 +9,27 @@ In order to ensure that the city reflects the needs and preferences of its resid
 
 ### City administration
 
+
+### Conflict Resolution and System Adaptation
+
+While the city's automation is designed to prevent conflicts and meet needs proactively, a robust framework is required to address exceptions, disputes, and systemic failures. This framework provides residents with clear avenues for recourse and ensures the city's adaptability.
+
+It operates on a tiered system:
+
+1.  **Tier 1: Automated Triage & Mediation**
+    -   **Initial Reporting:** All issues—from interpersonal disagreements to observed system malfunctions—are first reported through the resident feedback portal.
+    -   **AI Mediation:** For low-level interpersonal disputes, an AI mediator facilitates a conversation between parties, suggesting compromises based on established community principles and restorative justice protocols. It aims to find mutually agreeable solutions without escalating the issue.
+    -   **System Diagnostics:** For system-related issues, the AI performs immediate diagnostics, reports the findings transparently to the affected residents, and escalates to blueprint developers if a code-level fix is required.
+
+2.  **Tier 2: Human Arbitration Council**
+    -   **Escalation:** If automated mediation fails, or a resident wishes to appeal an administrative decision (e.g., resource allocation, space modification), the issue can be escalated to the Human Arbitration Council.
+    -   **Composition:** The Council is a temporary body of residents selected by sortition (random lottery), similar to jury duty, to ensure impartiality and prevent the formation of a political class. Council members receive training on the blueprint's principles and mediation techniques.
+    -   **Function:** The Council reviews the case, hears from all involved parties, and makes a binding decision that the city's administration is programmed to execute. Their mandate is to interpret the spirit of the blueprint in situations the explicit rules do not cover.
+
+3.  **Tier 3: Contingency and Emergency Protocols**
+    -   **Activation:** In the event of a large-scale systemic failure (e.g., power grid failure, major structural issue, cyber-attack) that exceeds the automation's self-repair capabilities, pre-defined Contingency Protocols are activated.
+    -   **Human Oversight:** These protocols temporarily grant designated, trained human experts (e.g., resident engineers, emergency responders) override authority over specific automated systems to manage the crisis and ensure resident safety. This authority is strictly limited in scope and duration and is fully transparent and auditable.
+
 The city is governed by automated rules that are provided with the blueprint.
 
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
