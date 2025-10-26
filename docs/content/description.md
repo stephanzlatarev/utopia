@@ -94,3 +94,13 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+## Resilience and Emergency Management
+
+While Utopia is designed for optimal, automated operation, it is engineered with the inevitability of failure, disruption, and crisis in mind. The city's commitment to safety extends beyond ideal conditions to include a robust framework for resilience and emergency management.
+
+#### Key Principles:
+*   **Cascading Redundancy:** All critical life-support systems—including power generation, water purification, air filtration, and food production—are built with N+1 or greater redundancy. This ensures that the failure of any single component, or even multiple components, does not lead to a systemic collapse, allowing the automation to perform repairs without interrupting essential services.
+*   **Automated Emergency Response Service (AERS):** The city maintains a dedicated, specialized fleet of autonomous units for emergency response. This includes fire-suppression drones, mobile medical units capable of triage and first response, search-and-rescue bots, and robotic structural engineers for immediate damage assessment and repair.
+*   **Decentralized Failsafes:** In the event of a catastrophic failure of the central automation core, critical infrastructure is designed to enter a safe, low-power state, governed by localized, independent control units. For example, residential blocks can independently maintain breathable air and emergency water reserves for a designated period.
+*   **Citizen Response Corps:** As a form of meaningful 'civil work', residents are encouraged to volunteer for the Citizen Response Corps. Members receive training in advanced first aid, manual system overrides for critical infrastructure, and disaster coordination. This ensures a layer of human ingenuity and adaptability is available to support the AERS in complex, unpredictable crisis scenarios, empowering residents to be active participants in their own security.
