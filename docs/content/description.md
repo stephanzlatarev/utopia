@@ -94,3 +94,12 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Energy
+
+To guarantee an uninterrupted power supply, which is critical for a fully automated city, Utopia implements a Decentralized Smart Energy Grid. This system is woven into the very fabric of the city's architecture, ensuring resilience and sustainability.
+
+*   **Integrated Generation:** Power is generated hyper-locally through Building-Integrated Photovoltaics (BIPV). Solar-collecting materials are integrated into the modules (MARS) of residential and public buildings, including facades, windows, and roofing, turning the entire city's surface into a passive power plant.
+*   **Decentralized Storage:** Each building or community cluster is equipped with its own high-capacity energy storage system (e.g., solid-state batteries), allowing it to operate autonomously for extended periods if disconnected from the main grid.
+*   **AI-Managed Grid:** A city-wide AI continuously monitors energy production, storage, and consumption, dynamically rerouting power to ensure optimal efficiency and instantaneous response to fluctuations or outages. This "self-healing" grid can isolate faults without causing cascading failures, ensuring maximum uptime for all city services.
