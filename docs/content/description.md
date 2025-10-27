@@ -76,6 +76,15 @@ Depending on the preferences of the residents, all spaces may have close access 
 
 ### Heating
 
+### Energy
+
+Utopia is powered by a decentralized **Bio-Integrated Kinesthetic & Solar Grid (BKS Grid)**, ensuring a resilient, self-sufficient, and zero-carbon energy supply. This approach treats the entire city as a power generator, eliminating the need for traditional, centralized power plants.
+
+*   **Integrated Photovoltaics:** Buildings are clad in advanced photovoltaic "skins" and equipped with transparent solar-collecting windows, seamlessly blending power generation with architecture. The Modular and Adaptable Residential System (MARS) modules come with standardized, high-efficiency solar collectors.
+*   **Kinetic & Piezoelectric Generation:** High-traffic public walkways, roads, and community spaces are paved with piezoelectric tiles that convert the kinetic energy of footsteps and vehicle movement into electricity. Small, silent vertical-axis wind turbines are artistically integrated into building designs and public parks.
+*   **Bio-energy Cycle:** An automated, closed-loop system processes all organic waste from residents and urban agriculture through anaerobic digesters and algae bioreactors. This generates biogas for direct power generation and produces nutrient-rich water for vertical farms, creating a perfect circular economy.
+*   **Decentralized Storage:** Each building and district is equipped with its own high-capacity, safe battery storage (e.g., solid-state or flow batteries). This creates a resilient microgrid, allowing sections of the city to operate independently if a fault occurs elsewhere, which is critical for guaranteeing safety and basic needs in a fully automated environment.
+
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
 
 ### Food
