@@ -19,6 +19,20 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Ethical Preference & Conflict Resolution
+
+To ensure the preference-based system is fair, transparent, and respects individual rights, the city's administrative automation operates under a strict ethical framework. This framework is designed to prevent the tyranny of the majority and protect the interests of all residents.
+
+**Core Principles:**
+
+*   **Needs over Wants:** The automation operates on a clear hierarchy. The fulfillment of guaranteed basic needs (as defined in this blueprint, including accessibility and safety) and the upholding of fundamental resident rights always take precedence over the fulfillment of subjective preferences.
+*   **Privacy by Design:** Data collection for preference monitoring is minimized and anonymized wherever possible. Residents have full control over their data and can opt into or out of different levels of passive monitoring, relying on direct feedback as an alternative without penalty.
+*   **Conflict Resolution Protocol:** When aggregate preferences lead to a conflict (e.g., competing uses for a public space), the system does not simply default to the majority. Instead, it initiates a **Deliberative Polling Process**:
+    1.  **Notification:** All affected residents are notified of the conflict and provided with balanced, AI-generated summaries of the competing proposals, including their potential impacts.
+    2.  **Guided Deliberation:** The system facilitates a structured, anonymous digital forum where residents can debate the options, ask questions, and propose compromises. An AI moderator ensures discussions remain civil and constructive.
+    3.  **Informed Preference:** After the deliberation period, residents can update their preference. The system then implements the outcome that best satisfies the informed preferences while adhering to the 'Needs over Wants' principle.
+*   **Proportionality and Zoning:** For city-wide decisions, the automation uses algorithms that ensure proportional representation of different preference groups. For local decisions, the city is zoned into 'Preference Districts' that can adopt different configurations for shared spaces, allowing diverse lifestyles to coexist.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
