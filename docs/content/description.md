@@ -94,3 +94,19 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+#### Community Governance and Conflict Resolution
+
+While the city's core operations are automated, the co-existence of residents with diverse and sometimes conflicting preferences requires a transparent and fair system for resolving disputes. The blueprint's reliance on "reflecting preferences" is supported by a multi-tiered conflict resolution framework to ensure that automated decisions are not merely a "tyranny of the majority," but are equitable and context-aware.
+
+This framework operates on the principle of subsidiarity, handling issues at the lowest and most informal level possible before escalating.
+
+*   **Tier 1: AI-Assisted Negotiation:** When the automation detects directly conflicting preferences (e.g., desired noise levels in a residential block, competing uses for a shared space), it will not immediately impose a solution. Instead, it will initiate a dialogue with the affected residents. The AI will:
+    *   Anonymously present the nature of the conflict to all parties.
+    *   Propose several procedurally fair compromise solutions (e.g., time-sharing the space, establishing noise schedules, offering an alternative location or resource).
+    *   Facilitate a vote or consensus-building process on the proposed solutions.
+
+*   **Tier 2: Mediated Deliberation:** If a direct compromise cannot be reached, the issue can be escalated. This tier involves an AI-moderated forum where affected residents can articulate the reasoning and values behind their preferences. The AI moderator ensures constructive dialogue, summarizes arguments, and highlights points of potential agreement, guiding the group towards a mutually acceptable outcome. This process is designed to foster empathy and understanding between residents.
+
+*   **Tier 3: Community Council Review:** For persistent or large-scale conflicts impacting a significant portion of the community, the issue is escalated to a Community Council. This is not a standing body of politicians, but a temporary assembly of residents selected at random, similar to a citizen's jury. This council is provided with all relevant data, the history of the dispute, and summaries from the AI mediator. They deliberate and render a binding decision that informs the parameters for the city's automation. This ensures that complex, value-laden trade-offs are ultimately decided by a representative group of peers, preventing algorithmic or developer bias from having the final say.
