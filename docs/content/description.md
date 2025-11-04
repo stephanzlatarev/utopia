@@ -91,6 +91,15 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+To deliver this, Utopia will implement a network of Decentralized Modular Health Hubs.
+
+#### Key Features:
+*   **Distributed Network:** Small-footprint, automated Health Hubs are strategically located in every residential sector, ensuring no resident is more than a few minutes away from emergency care and diagnostics.
+*   **Advanced Diagnostics:** Hubs are equipped with automated, AI-assisted imaging (e.g., MRI, CT scans), real-time biometric analysis, and robotic labs for immediate sample processing.
+*   **Telepresence and Expertise:** Each hub contains high-bandwidth, holographic telepresence suites, providing residents with instant, on-demand consultations with specialized medical experts from a global network.
+*   **Integrated Emergency Response:** Hubs serve as dispatch stations for a fleet of autonomous emergency response drones and vehicles, equipped for patient stabilization and transport.
+*   **In-Residence Monitoring:** The system integrates with biometric sensors in personal residential spaces (MARS), enabling proactive health monitoring and automatic alert dispatch to the nearest Health Hub in case of an emergency.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
