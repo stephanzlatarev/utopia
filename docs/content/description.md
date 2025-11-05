@@ -76,6 +76,14 @@ Depending on the preferences of the residents, all spaces may have close access 
 
 ### Heating
 
+### Energy
+
+To power its extensive automation and guarantee the well-being of its residents, Utopia is built upon a Bio-Integrated Decentralized Energy Grid. This system is designed not only for efficiency and sustainability but also to foster a sense of security and harmony among the populace.
+
+*   **Decentralized Microgrids:** Instead of relying on a single, vulnerable central power station, the city's energy infrastructure is a network of interconnected microgrids. Each district, or even large building complex, can generate and store its own power, capable of operating autonomously if disconnected from the main grid. This eliminates the risk of a city-wide blackout, ensuring that essential services like healthcare, housing, and food production remain operational during any localized disruption.
+*   **Aesthetic Integration:** Power generation is woven into the fabric of the city itself. Buildings are clad in photovoltaic glass that shimmers in the sun, public plazas and walkways capture the kinetic energy of pedestrians, and small-scale, silent geothermal or fusion plants are housed in structures that double as public art installations or botanical gardens. This approach avoids the oppressive feeling of industrial infrastructure, instead creating an environment that feels both technologically advanced and organically whole.
+*   **Redundant Storage:** Each microgrid is equipped with its own energy storage facilities (e.g., next-generation batteries, gravity storage), ensuring a consistent power supply regardless of weather conditions or fluctuations in demand. This visible redundancy provides residents with a constant, tangible assurance of their safety and comfort.
+
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
 
 ### Food
