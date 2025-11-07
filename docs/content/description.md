@@ -21,6 +21,21 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Safety and Justice
+
+While Utopia is designed to minimize sources of conflict, it recognizes that a framework is required to address disagreements, rule violations, and harmful acts. The city's approach to justice is rooted in restorative principles, focusing on repairing harm and ensuring community well-being rather than punishment. This system operates on a tiered model, managed by the city's administration AI with human oversight where necessary.
+
+*   **Tier 1: Automated Mediation:** For minor interpersonal disagreements (e.g., noise complaints, disputes over shared space usage), the system provides an AI-driven mediation platform. This platform facilitates communication, suggests compromises based on established community guidelines and involved parties' preferences, and formally logs resolutions.
+
+*   **Tier 2: Restorative Circles:** For incidents involving direct harm (e.g., harassment, theft of luxury goods, property damage), the system initiates a restorative justice process. This involves AI-facilitated and, if requested by the parties, human-guided "circles" where the person who caused harm, the person harmed, and affected community members can discuss the impact and collaboratively determine how to repair the harm. This process is documented and its outcomes are integrated into the individuals' records within the city's system.
+
+*   **Tier 3: Systemic Sanctions & State Intervention:** For severe, willful, and repeated violations that endanger residents or threaten the integrity of the city's core systems (e.g., physical violence, sabotage of critical infrastructure), a clear protocol of systemic sanctions is enacted. These are not punitive but preventative, and may include:
+    - Temporary restriction of access to specific public spaces or luxury services.
+    - Mandatory participation in educational or therapeutic programs facilitated by the AI.
+    - In extreme cases that align with the host state's criminal code, the city automation will follow a transparent protocol to report the incident, provide all relevant and ethically-cleared data to the state authorities, and facilitate their intervention as defined by jurisdictional agreements.
+
+This framework ensures that "disputes and conflicts" are not just delegated vaguely, but are managed internally with a clear, fair, and humane process that upholds the safety and security of all residents.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
