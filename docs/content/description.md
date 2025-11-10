@@ -82,6 +82,18 @@ Air-conditioning with cooling and heating systems is available in all spaces in 
 
 The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
 
+#### Closed-Loop Urban Food System
+
+To ensure long-term sustainability and resilience, Utopia's food production operates on a controlled, closed-loop model. This automated system manages the entire nutrient cycle, from production to consumption and back to production, through a clearly defined process.
+
+*   **Automated Production:** Food is primarily grown in high-density, soil-free vertical farms (hydroponic, aeroponic, or aquaponic systems) integrated within city structures. This minimizes land and water usage and allows for year-round cultivation in a controlled environment.
+*   **Waste Collection & Processing:** All organic waste, including meal leftovers, preparation scraps, and inedible biomass from farming, is automatically collected from residential, group, and public spaces. It is transported to a central Bio-Resource Recovery Facility.
+*   **Nutrient & Energy Recovery:** Within the facility, waste undergoes processes like anaerobic digestion and composting. This recovers critical resources:
+    *   **Biogas:** Captured and used to supplement the city's energy grid.
+    *   **Nutrient-rich Effluent/Compost:** Sterilized and processed into a precisely balanced nutrient solution, which is then fed back into the vertical farming systems.
+    *   **Reclaimed Water:** Purified and returned to the city's water supply or used for irrigation.
+*   **Process Control & Monitoring:** The entire cycle is continuously monitored by the city's automation core to optimize nutrient flows, energy production, and food safety, ensuring the system remains stable, efficient, and transparent.
+
 ### Healthcare
 
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
