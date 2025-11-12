@@ -19,6 +19,17 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+
+#### Internal Conflict Resolution
+
+While serious criminal matters fall under the jurisdiction of the state in which the city resides (until Class U6), Utopia is not without its own internal systems for maintaining social harmony and resolving disputes. A tiered approach ensures that issues are handled at the most appropriate level, fostering a sense of community ownership and restorative justice.
+
+*   **Tier 1: AI-Facilitated Mediation:** For minor disagreements and rule clarifications (e.g., disputes over shared space usage, noise complaints), residents can access an AI mediation service. The system provides neutral, data-informed suggestions based on the city blueprint and established community norms to help parties reach a voluntary agreement.
+
+*   **Tier 2: Community Circles:** For more complex interpersonal conflicts that require human nuance, residents can opt for a Community Circle. This involves a voluntary process where the involved parties meet with trained resident facilitators. The focus is on restorative justice principles—understanding impact, repairing harm, and reintegrating individuals into the community—rather than on punishment. Facilitation is considered a form of "civil work."
+
+*   **Tier 3: Administrative Adjudication:** In cases of repeated or serious violations of the city's internal rules that do not rise to the level of state law, an automated administrative review is triggered. This system, overseen by human supervisors in lower-class cities, will assess the situation based on logged data and may temporarily restrict access to certain non-essential services or luxuries, with a clear and transparent path for appeal and restoration of privileges. The primary goal remains corrective, not punitive.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
