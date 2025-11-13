@@ -40,6 +40,18 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Transportation
+
+Utopia provides a fully automated, on-demand transit system that connects all personal, group, and public spaces, ensuring seamless mobility for all residents and efficient logistics for city operations.
+
+### Integrated Automated Transit Network (IATN)
+
+#### Key Features:
+*   **Seamless & On-Demand:** Residents can summon personal or small-group pods from any building, which travel directly to their destination without stops. This eliminates waiting times and the concept of a commute, maximizing personal freedom and time.
+*   **Multi-Layered Functionality:** The network operates on separate but interconnected layers. A primary layer is dedicated to passenger transit, while a secondary, often subterranean or otherwise concealed layer, handles all city logistics—transporting goods, meals, materials for MARS, and waste, ensuring public spaces remain uncluttered and serene.
+*   **Prioritized Emergency Access:** The system is designed with emergency protocols at its core. In the event of a medical or safety incident, emergency service pods (e.g., mobile medical units, maintenance drones) are automatically given absolute priority, clearing a non-stop, high-speed path to their destination.
+*   **Full Accessibility & Safety:** All pods are designed to be universally accessible, accommodating wheelchairs, strollers, and other mobility aids. The enclosed, computer-controlled nature of the network eliminates the possibility of traffic accidents, creating the safest possible transportation environment.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
