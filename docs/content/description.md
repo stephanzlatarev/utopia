@@ -94,3 +94,23 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+## Resilience and Adjudication
+
+While Utopia is designed to be a safe and harmonious environment, the blueprint acknowledges the necessity of robust systems for managing exceptions, from interpersonal disagreements to large-scale emergencies. The Integrated Resilience and Adjudication System (IRAS) is a multi-tiered framework designed to address these challenges in a way that is fair, transparent, and scalable, combining the efficiency of automation with the necessity of human wisdom and oversight.
+
+### Tier 1: Automated Initial Response & Mediation
+
+For minor incidents, such as resource allocation disputes or noise complaints, the city administration AI acts as a first-line mediator. The system impartially analyzes logged data, facilitates communication between involved parties through anonymized channels, and proposes solutions based on pre-defined fairness protocols in the blueprint. The goal is rapid, low-stakes resolution without human intervention. The system also logs all incidents to identify patterns that may require a blueprint update.
+
+### Tier 2: Community Resolution Council
+
+If automated mediation fails or for more complex interpersonal conflicts that require nuanced understanding (e.g., harassment, persistent anti-social behavior), the issue can be escalated to a Community Resolution Council. This is not a governing body but a rotating council of resident volunteers who have completed certified training in mediation, restorative justice, and blueprint ethics. The Council reviews cases, facilitates dialogue, and issues non-binding restorative recommendations, focusing on repairing harm and reintegrating individuals into the community fabric.
+
+### Tier 3: Crisis Response & State Liaison
+
+For large-scale emergencies (e.g., critical infrastructure failure, natural disaster, medical pandemic, fire) that exceed the capacity of the core automation, a pre-defined Crisis Response protocol is activated.
+- **Automated Containment:** The city's automation immediately takes steps to contain the threat, such as rerouting traffic, activating fire suppression systems, or isolating environmental hazards.
+- **Human Oversight:** The system simultaneously alerts a dedicated team of trained resident volunteers, modelled after Community Emergency Response Teams (CERT). These individuals are skilled in first aid, light search and rescue, and crisis management, providing on-the-ground support and human-led decision-making where automation is insufficient. This role is a key component of 'civil work'.
+- **State Liaison:** For crises requiring external assistance, the Crisis Response protocol includes a formal liaison process to efficiently coordinate with the host state's emergency services, ensuring seamless integration and communication. This clarifies the vague delegation mentioned in the Governance section, providing a specific operational plan.
