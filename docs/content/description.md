@@ -91,6 +91,15 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+### Energy
+
+The city's operation is powered by a resilient, decentralized smart grid to guarantee the uninterrupted service required for full automation and resident safety.
+
+*   **Microgrid Architecture:** The city is divided into numerous, interconnected microgrids. Each microgrid can operate independently if disconnected from the main grid, ensuring that a fault in one area does not cause a city-wide blackout.
+*   **Renewable Generation:** Power is generated primarily from a diverse portfolio of renewable sources integrated directly into the city's fabric. This includes high-efficiency photovoltaic surfaces on all buildings and public spaces, vertical-axis wind turbines suited for urban environments, and geothermal energy where geographically feasible.
+*   **Redundant Storage:** Each microgrid is equipped with multi-layered energy storage solutions, including short-term battery arrays for immediate response and long-duration storage like green hydrogen fuel cells or gravity storage systems to ensure power stability through extended periods of low generation.
+*   **Smart Management:** An AI-driven energy management system continuously monitors production, storage, and consumption data, predictively routing power to optimize efficiency and coordinating automated maintenance before failures occur.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
