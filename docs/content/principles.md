@@ -28,4 +28,12 @@ Any product or service beyond the basic needs and the living standard is conside
 
 ## 06. Freedom - People have the freedom over their citizenship
 
+
+
+## 07. Symbiosis - The city lives in harmony with its environment
+
+The city is designed as a regenerative system that integrates with and enhances its local ecosystem. It aims for a net-positive environmental impact by purifying more air and water than it uses, generating surplus clean energy, achieving full resource circularity, and actively fostering biodiversity.
+
+> The belief behind this principle is that humanity's future is inextricably linked to the health of the planet. A true Utopia must not only serve its residents but also heal and enrich the natural world it inhabits.
+
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
