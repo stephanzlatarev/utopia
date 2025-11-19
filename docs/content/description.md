@@ -30,6 +30,25 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Conflict Resolution Framework
+
+Recognizing that conflict is an inherent part of any human community, Utopia will implement a transparent, tiered, and evolving framework for dispute resolution. This internal system is designed to handle disagreements between residents, and between residents and the city's automated administration, in a manner that is fair, restorative, and aligned with Utopia's core principles. The framework will evolve alongside the city's U-Class, progressively integrating more sophisticated automation while always maintaining human oversight and a focus on restorative outcomes.
+
+**Core Principles:**
+*   **Restorative Justice:** The primary goal is not to punish but to repair harm and restore relationships within the community. The process focuses on the needs of those harmed and those who have caused harm. (Source: The Centre for Justice and Reconciliation, http://restorativejustice.org/)
+*   **Transparency:** All rules and procedures of the conflict resolution process are documented in the blueprint and are publicly accessible. Decisions and their rationales are auditable by residents, subject to privacy constraints.
+*   **Accessibility:** The system is designed to be easily accessible to all residents, regardless of their background, abilities, or technical literacy. Support from human guides and AI assistants will be readily available.
+*   **Proportionality:** The response to a conflict will be proportional to the nature and severity of the issue.
+
+**Tiered System:**
+*   **Tier 1: Direct Negotiation & AI-Assisted Communication:** For minor disagreements, residents are encouraged to resolve issues directly, supported by AI tools that facilitate calm, constructive communication and suggest potential compromises.
+*   **Tier 2: Community Mediation:** For disputes that cannot be resolved directly, residents can opt for mediation facilitated by trained resident volunteers or professional mediators. This is a voluntary process focused on finding a mutually agreeable solution. In early-stage cities (U1-U3), these mediators are a crucial part of the "civil work" ecosystem.
+*   **Tier 3: Formal Adjudication:** For serious conflicts or when mediation fails, a formal adjudication process is available.
+    *   **In Class U1-U4 cities:** This process will be handled by a panel of trained human adjudicators, who may use AI to analyze evidence and suggest rulings based on the city's blueprint and established precedents. This internal system reduces reliance on external state courts for internal matters.
+    *   **In Class U5-U7 cities:** The process will become increasingly AI-driven, but the AI's decisions will always be explainable and subject to review and appeal by a human oversight council. This council ensures the AI's rulings remain aligned with the community's values and ethical principles. The system will be designed based on principles of Online Dispute Resolution (ODR) for efficiency and accessibility. (Source: National Center for Technology and Dispute Resolution, https://odr.info/)
+
+This framework ensures that as Utopia becomes more autonomous, it develops a mature and humane system for justice and social harmony, rather than relying on an external, potentially incompatible, legal system or an unaccountable AI.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
