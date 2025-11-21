@@ -23,6 +23,20 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+## Citizen Contribution to Blueprint Development
+
+While the blueprint is open-source and residents can provide feedback, a formalized pathway for direct citizen contribution to the development and modification of the automation's core logic is essential. This involves establishing clear processes for citizen developers, with appropriate vetting and integration protocols.
+
+### Citizen Developer Program
+
+To ensure true co-creation and user-centricity, Utopia will implement a structured Citizen Developer Program. This program will facilitate:
+
+*   **Skill Development and Training:** Providing accessible training modules and resources for residents interested in learning the necessary programming languages and architectural principles of the Utopia blueprint.
+*   **Contribution Pathways:** Clearly defined methods for residents to submit code contributions, propose new automation modules, or suggest modifications to existing ones. This could include structured code review processes, API documentation, and version control integration.
+*   **Specialized Citizen Advisory Boards:** Establishing boards composed of residents with expertise in areas such as ethics, environmental science, healthcare, education, and accessibility. These boards will review and guide proposed changes to ensure alignment with the founding principles and the diverse needs of the population.
+*   **Incentivization and Recognition:** Recognizing and potentially incentivizing significant contributions to the blueprint, fostering a culture of innovation and active participation in city governance.
+*   **Transparent Development Cycle:** Maintaining a transparent development cycle where proposed changes, their rationale, and their current status are readily accessible to all residents, mirroring the open-source ethos.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
