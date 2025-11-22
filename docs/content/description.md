@@ -19,6 +19,16 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### System Arbitration and Resident Redress
+
+To ensure accountability and uphold the principle of Fairness, a transparent, multi-tiered process is established for residents to challenge administrative decisions made by the city's automation. This system provides a mechanism for redress and ensures that residents are not subject to unchallengeable algorithmic authority.
+
+- **Tier 1: Automated Review** - A resident can formally log a dispute against any automated decision (e.g., housing allocation, resource distribution, access to a service). A secondary, independent AI audit system immediately reviews the decision's logic, data inputs, and compliance with the blueprint's rules. It then provides the resident with a clear, plain-language explanation of the decision-making process and outcome. This resolves simple errors and transparency requests.
+
+- **Tier 2: Human Oversight Panel** - If the resident is unsatisfied with the automated review, the case is escalated to a Human Oversight Panel. This panel is a rotating body of resident volunteers, selected lottery-style to ensure a representative cross-section of the community. The panel is granted access to all relevant data from the audit system and is empowered to deliberate and issue a binding override of the automated decision. This re-introduces human-centric nuance, empathy, and contextual understanding.
+
+- **Tier 3: Blueprint Amendment Proposal** - If a case reveals a fundamental flaw, bias, or gap in the blueprint's rules, the Human Oversight Panel can flag it as a systemic issue. This automatically generates a high-priority issue ticket for the blueprint developers, ensuring that recurring problems are addressed at the source code level for the benefit of all Utopia cities.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
