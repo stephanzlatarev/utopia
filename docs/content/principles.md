@@ -8,6 +8,22 @@ All aspects of the city are automated. The city does not rely on human labor and
 
 ## 02. Fairness - No person controls the city
 
+## 02. Charter of Basic Needs
+
+The city is founded on the principle that all residents are entitled to a life of dignity, opportunity, and well-being. This is guaranteed through a Charter of Basic Needs, which serves as the foundational directive for the city's automation. This Charter is not a static list but a comprehensive framework that evolves in line with Principle 03.
+
+### Framework and Scope
+
+The scope of 'Basic Needs' is defined in accordance with internationally recognized principles of human rights and well-being, including those outlined in the UN's Universal Declaration of Human Rights. The Charter includes, but is not limited to, the following domains:
+
+*   **Subsistence and Health:** Nutritious food and clean water; safe, adaptable, and private housing (as per the MARS design); universal physical and mental healthcare; sanitation; and a supply of clean energy.
+*   **Safety and Security:** A safe living environment, protection from harm, and emergency response services.
+*   **Education and Development:** Unrestricted access to information via a free and open internet; lifelong learning opportunities, from early childhood development to advanced skills training; and access to tools for creative and intellectual expression.
+*   **Social and Community Well-being:** Access to public spaces, recreational facilities, and community centers that foster social connection and belonging.
+*   **Environmental Health:** A clean, unpolluted environment, including clean air and access to natural green spaces.
+
+This Charter forms the baseline for the city's provisioning systems. Any good or service covered by this Charter will never require payment and its quality will be maintained or improved over time.
+
 The city is run by automation based on rules. No person or group of people has power over the city or its residents. Thus no one can abuse their power and use public resources for private interest. This is how corruption cannot exist in the city.
 
 > The belief behind this principle is that people cannot be truly fair to all and therefore our future politics should not be controlled by elites.
