@@ -94,3 +94,16 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Transportation
+
+To ensure residents feel connected, free, and secure in their movements throughout the city, Utopia implements an Integrated, On-Demand Autonomous Pod Transit system.
+
+This network provides seamless, door-to-door transportation for individuals, families, and goods, eliminating the anxieties of traditional traffic and scheduling.
+
+#### Key Features:
+*   **Personal & Group Pods:** Residents can summon private pods of various sizes through their personal devices, ensuring comfort, privacy, and accessibility for all mobility needs.
+*   **Dedicated Guideways:** The pods travel on a multi-layered network of dedicated subterranean and elevated guideways, guaranteeing high-speed, weather-immune travel without interfering with pedestrian public spaces or natural landscapes.
+*   **Seamless Integration:** Pod stations are integrated directly into residential buildings (MARS), public spaces, and service hubs. This eliminates 'last-mile' problems and creates a feeling of effortless transition between spaces.
+*   **Emergency Priority:** Emergency response pods (e.g., mobile medical units) are given absolute network priority, clearing pathways automatically to ensure the fastest possible response times, providing peace of mind to all residents.
