@@ -26,6 +26,18 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+
+
+## 05a. Contribution - Rewarding Creative Value
+
+To foster a vibrant culture of innovation, art, and community service, the city supports a 'Creative & Contribution Credit' (C³) system. This system complements the free market for luxuries by providing a mechanism to recognize and reward residents for their valuable contributions to the community.
+
+- **Earning Credits:** Residents can earn C³ by creating public art, developing improvements for the city blueprint, organizing community events, or providing unique services and goods to fellow residents.
+- **Value Recognition:** The value of contributions is determined transparently by the city's automation, based on community appreciation (peer-to-peer awards, ratings) and measurable impact (e.g., an efficiency-improving algorithm).
+- **Redeeming Credits:** C³ can be exchanged for luxuries offered by other residents or for preferential access to specialized city resources (e.g., advanced fabrication labs, larger data processing quotas), thereby rewarding positive social and creative actions.
+
+> This principle creates a positive feedback loop where individual creativity and community support directly translate into personal benefits, enriching both the individual and the city as a whole without creating economic inequality or survival pressure.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
