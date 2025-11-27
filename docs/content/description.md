@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Conflict Resolution and Justice
+
+To ensure personal security and uphold the principle of Fairness, Utopia implements an internal, multi-layered system for conflict resolution that evolves with the city's capabilities. This system is designed to be restorative, accessible, and transparent, prioritizing mediation and the repairing of harm over punitive measures. While the city remains subject to state laws for major crimes in early stages, this internal framework handles interpersonal and administrative disputes, providing residents with a legitimate and trusted recourse.
+
+*   **Class U1-U2:** Resolution is primarily human-led to build a strong community foundation. A council of trained resident volunteers, serving on a rotating basis, act as mediators for interpersonal disputes. An administrative review board, also comprised of residents, handles grievances against the city's automated systems or human administration. The focus is on restorative justice circles and mediated agreements. The system is supported by AI for case management and scheduling.
+
+*   **Class U3-U4:** The system introduces AI-Assisted Resolution. AI tools analyze disputes against the blueprint's principles and historical precedents to suggest equitable solutions to human mediators, increasing consistency and fairness. For administrative disputes, the AI can propose resource allocation solutions or system adjustments, which are then ratified by a human oversight panel. This phase serves to train the AI with real-world, human-supervised data.
+
+*   **Class U5-U6:** The city transitions to a system where the AI can act as a primary arbiter for most non-criminal disputes, with its decisions being transparent and explainable. Crucially, all AI-led decisions are subject to an accessible and straightforward appeals process, which is handled by a diverse human-AI council. This 'human-in-the-loop' approach ensures accountability and prevents algorithmic tyranny, maintaining resident trust. The goal is not a 'perfect' AI that replaces judgment, but a powerful tool that assists the community in achieving fair outcomes.
