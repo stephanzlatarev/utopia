@@ -21,6 +21,21 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Justice and Conflict Resolution
+
+Recognizing that a functional society requires a clear, fair, and transparent system for managing disagreements and harms, Utopia implements a phased approach to justice that evolves with the city's technological and social maturity. The system is founded on principles of restorative justice, focusing on repairing harm, fostering understanding, and reintegrating individuals into the community, rather than on punishment.
+
+*   **Core Principles:**
+    *   **Transparency:** All rules, processes, and automated decisions within the justice system are fully documented, open to audit by any resident, and, where AI is used, based on explainable models (XAI).
+    *   **Restoration:** The primary goal is to address the needs of those harmed and to facilitate reconciliation between parties, not to enact retribution.
+    *   **Proportionality:** Responses to rule violations are proportional to the harm caused and tailored to the specific context.
+    *   **Participation:** Affected parties are given a voice and agency in the resolution process wherever possible.
+
+*   **Evolutionary Stages:**
+    *   **Class U1-U3 (Human-led Mediation):** In early-stage cities, conflict resolution is managed by trained, neutral human mediators and community councils. These bodies operate under the city's restorative justice framework, with their processes transparently logged. Serious criminal matters remain under the jurisdiction of the state in which the city resides.
+    *   **Class U4-U5 (AI-Assisted Adjudication):** As automation advances, the system introduces AI tools to assist human mediators. These tools can analyze disputes, identify relevant precedents within the city's logged history, propose resolution options based on restorative principles, and handle administrative case management. Human oversight and final decision-making remain paramount.
+    *   **Class U6-U7 (Automated & Auditable System):** In mature, state-independent cities, the system becomes fully automated for most civil and administrative disputes. It uses advanced AI to mediate, determine facts, and propose binding restorative actions (e.g., community service, participation in educational programs, temporary restriction of access to certain non-essential services). A human-staffed 'Ethics and Appeals Council,' whose members are selected by a transparent, audited lottery system, provides oversight and handles appeals for the most complex cases, ensuring the system remains aligned with Utopian principles.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
