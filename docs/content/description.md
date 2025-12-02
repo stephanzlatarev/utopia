@@ -30,6 +30,19 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### State and Emergency Services Interface
+
+To ensure the safety of residents and establish clear operational boundaries, the city's interaction with the host state must be formally defined. The simple delegation of disputes is insufficient and operationally hazardous. Therefore, prior to commencing operations, each Utopia city must establish a legal charter and a formal **Memorandum of Understanding (MOU)** with the relevant state and local agencies (e.g., law enforcement, fire department, judiciary).
+
+This interface protocol must, at a minimum, define:
+
+*   **Legal Status:** The city's official legal designation (e.g., special administrative zone, private charter city, municipality) and the primacy of state law.
+*   **Tiered Response Framework:** A clear system for classifying incidents and determining the correct responding entity.
+    *   **Tier 1 (Internal):** Minor, non-criminal disputes (e.g., noise complaints, interpersonal disagreements) to be handled by automated mediation systems.
+    *   **Tier 2 (Automated Handoff):** Incidents requiring immediate state response (e.g., fires, medical emergencies, violent crimes). The city automation is responsible for immediate detection, alerting the appropriate state agency, and providing necessary situational data.
+    *   **Tier 3 (Formal Request):** Criminal investigations and formal legal disputes requiring state intervention. This tier defines the legal gateways for warrants, evidence requests, and cooperation protocols.
+*   **Data Sharing Protocols:** Explicit rules governing what data the city's automation can and must share with state agencies, ensuring compliance with both state law and the city's privacy principles.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
