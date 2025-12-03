@@ -94,3 +94,8 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+*   **Community and Ecological Integration:** Buildings are designed as "Living Scaffolds" or meta-structures. In addition to private residential modules, these scaffolds integrate:
+    *   **Community Modules:** Shared, programmable spaces that residents of a building can collectively select based on their shared preferences. Examples include communal kitchens, workshops, art studios, childcare facilities, libraries, and fitness rooms. This fosters a strong sense of community and provides amenities directly within the residential structure.
+    *   **Ecological Modules:** Integrated systems for vertical farming, rainwater harvesting, greywater recycling, and bio-aesthetic elements like green walls. This turns buildings into active contributors to the city's food and water cycles, enhances biodiversity, and improves the residents' connection to nature.
