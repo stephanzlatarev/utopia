@@ -91,6 +91,17 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+
+### Public Safety
+
+Beyond just preventing incidents, Utopia provides an active and intelligent safety shield through its Autonomous Emergency Response Network (AERN). This system embodies the city's commitment to leveraging technology for the ultimate well-being of its residents, creating an environment where help is not just available, but instantaneous and predictive.
+
+#### Key Features of AERN:
+*   **Predictive Analytics:** The city's sensor network, integrated with AI, constantly monitors environmental data, structural integrity, and anonymized biometric indicators to predict and flag potential hazards before they escalate, from fire risks to medical emergencies.
+*   **Autonomous Dispatch:** Upon detection of an incident (e.g., a fall detected in a personal space, a rapid temperature spike indicating a fire), the system instantly dispatches the nearest autonomous responders. This includes medical drones with defibrillators and trauma kits, fire-suppression drones, and small-scale robotic emergency units.
+*   **Integrated Response:** The AERN automatically coordinates with other city systems during an emergency. It can redirect traffic to clear paths for larger response vehicles, shut off gas or electrical grids in affected areas, and provide real-time situational data to any human oversight teams.
+*   **Enhanced Accessibility:** The system is designed to be exceptionally beneficial for residents with disabilities or mobility issues. Automated wellness checks and non-intrusive monitoring ensure that anyone unable to call for help themselves still receives an immediate response in a crisis.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
