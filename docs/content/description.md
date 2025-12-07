@@ -80,6 +80,13 @@ Air-conditioning with cooling and heating systems is available in all spaces in 
 
 ### Food
 
+The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences. This is achieved through a localized, automated, and sustainable food production infrastructure.
+
+#### Key Features:
+*   **Automated Vertical Farming:** Produce, including vegetables, fruits, and fungi, is grown in multi-level, soil-free hydroponic or aeroponic systems integrated within dedicated or mixed-use city structures. These controlled environments optimize light, water, and nutrients, eliminate the need for pesticides, and allow for year-round harvesting, independent of external climate conditions.
+*   **Cellular Agriculture:** Proteins and fats are produced via cellular agriculture and precision fermentation in sterile bioreactors. This method provides a clean, safe, and resource-efficient source of essential nutrients without the need for animal husbandry, aligning with the city's automation and sustainability principles. This technology is phased in from Class U4 cities onwards as it matures.
+*   **Closed-Loop Resource Management:** The food production system is integrated with the city's water reclamation and waste management systems. Organic waste is composted and converted back into nutrients for the hydroponic systems, and water is continuously purified and recycled, creating a circular economy for food.
+
 The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
 
 ### Healthcare
