@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+#### Community-Initiated Spaces
+
+To complement the automated allocation of personal spaces, Utopia implements a Community-Initiated Space Proposal (CISP) system. This provides a structured, fair, and transparent process for residents to collaboratively create and manage shared group and public spaces.
+
+##### The CISP Process:
+*   **Proposal:** A group of residents can submit a proposal for a new community space (e.g., a shared workshop, art studio, daycare, or community garden) through the city's public portal. The proposal must detail the space's purpose, required modules/resources, and operating guidelines.
+*   **Community Validation:** The proposal becomes visible to all residents. It requires a minimum threshold of unique resident backers to proceed, ensuring genuine community interest and preventing misuse of the system.
+*   **Automated Review & Allocation:** Once the backing threshold is met, the city's core automation reviews the proposal for safety, resource availability, and logistical feasibility. Upon approval, it allocates the necessary land and MARS modules and schedules the robotic construction or reconfiguration.
+*   **Dynamic Management:** The automation monitors the usage of the created space. The initiating group can manage access and activities within city-wide fairness parameters. If usage consistently falls below a predefined threshold, an automated review is triggered to potentially repurpose or decommission the space, returning the modules to the city's shared pool.
