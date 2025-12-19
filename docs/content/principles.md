@@ -26,6 +26,19 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+### Acquiring Currency for Luxuries
+
+In Utopia's post-labor economy, currency for the luxury market, termed Civic Contribution Credits (CCCs), is distributed to residents through two primary mechanisms:
+
+*   **Universal Basic Allocation:** Every resident receives a regular, unconditional allocation of CCCs. This ensures that all individuals have the baseline means to participate in the luxury market, fostering a sense of economic dignity and security.
+*   **Civic Contribution Rewards:** Residents can earn additional CCCs by engaging in activities that enrich the community and the Utopia ecosystem. These activities are not "labor" in the traditional sense, as they are voluntary and not necessary for survival. Examples include:
+    *   **Creative Endeavors:** Producing public art, music, or entertainment valued by the community.
+    *   **Blueprint Development:** Contributing code, designs, or ideas to the open-source Utopia blueprint.
+    *   **Community Organization:** Organizing social events, educational workshops, or recreational clubs.
+    *   **Knowledge Sharing:** Providing expert tutoring or mentorship to fellow residents in a particular skill.
+
+This system is designed to incentivize creativity, collaboration, and social cohesion, ensuring that the pursuit of luxury is aligned with the betterment of the community as a whole.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
