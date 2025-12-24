@@ -82,6 +82,17 @@ Air-conditioning with cooling and heating systems is available in all spaces in 
 
 The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
 
+
+
+#### Community-Integrated Agri-System (CIAS)
+
+To enrich the lives of its residents and bolster sustainability, Utopia supplements its core food production with a Community-Integrated Agri-System. This system weaves food cultivation directly into the urban fabric.
+
+*   **Architectural Integration:** Vertical farms, hydroponic walls, and aeroponic gardens are integrated into the facades and common areas of MARS residential buildings and public spaces. This turns buildings into living, productive ecosystems, enhancing aesthetics and air quality.
+*   **Automated Cultivation:** The city's core automation manages the entire growth cycle—from seeding and nutrient delivery to lighting and climate control—ensuring optimal yield and nutritional value with minimal resource use. Harvesting is also performed by specialized robotic units.
+*   **Resident Engagement:** While fully automated, the CIAS is designed to be a community asset. Residents can engage with the gardens as part of their 'civil work', learning about food cultivation, participating in planting or tending to specialized crops, and fostering a deeper connection with their food and neighbors. This provides a valuable outlet for purpose and skill development.
+*   **Hyper-Local Distribution:** Produce is harvested and made available for personal or communal kitchens within hours, or even minutes. This ensures maximum freshness, flavor, and nutritional content, far surpassing traditional supply chains.
+
 ### Healthcare
 
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
