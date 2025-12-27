@@ -19,6 +19,22 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Preference Aggregation and Conflict Resolution
+
+While residents do not vote on policies, a sophisticated and transparent framework is in place to ensure collective decisions genuinely reflect the will of the community, especially when preferences conflict. This process is designed to find consensus and create solutions that maximize well-being for all, rather than favoring a simple majority.
+
+The framework operates in several stages:
+
+1.  **Preference Expression:** Residents express their preferences continuously through a variety of accessible channels, including direct feedback portals, usage data, and participation in community projects. The system is designed to be inclusive, with special provisions for those who may have difficulty using standard interfaces.
+
+2.  **Conflict Identification:** The city's AI continuously analyzes aggregated preference data to identify areas of significant disagreement or where one group's preferences might negatively impact another. For example, a desire for vibrant nightlife in a public space might conflict with nearby residents' preference for tranquility.
+
+3.  **AI-Facilitated Deliberation:** When a conflict is identified, an automated, structured deliberation process is initiated. All affected residents are invited to participate in a secure digital forum. Here, the AI acts as a neutral facilitator, presenting the issue, visualizing the potential impacts of different choices, and grouping similar opinions to identify areas of common ground. This process is inspired by consensus-building platforms like Polis, which help large groups of people find shared understanding and agreement on complex topics.
+
+4.  **Consensus-Driven Solutions:** The goal of deliberation is not to have one side 'win' but to co-create a solution. The AI helps participants brainstorm and refine proposals, highlighting those that garner the broadest support across different opinion groups while ensuring that the basic needs and rights of minorities are protected. The system prioritizes solutions that represent a consensus or a 'rough consensus' among the affected population.
+
+5.  **Implementation and Iterative Review:** Once a consensus-driven solution is identified, it is implemented as a new configuration in the city's automation. All implemented solutions are subject to a mandatory review period, during which the AI collects data on its impact and gathers further feedback from residents to allow for iterative improvements.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
