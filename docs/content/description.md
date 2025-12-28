@@ -56,6 +56,25 @@ The city manages its resources in a way to provide for the physiological needs o
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
 
+### Safety and Conflict Resolution
+
+To actively deliver on the guarantee of personal security, Utopia implements an integrated **Automated Emergency Response and Conflict Resolution (AERCR) System**. This system is designed to handle internal emergencies and disputes swiftly and appropriately, functioning as the city's primary safety net before any escalation to external state-level authorities is considered. The AERCR's capabilities evolve with the city's class designation.
+
+#### Tier 1: Immediate Automated Response (All Classes)
+Integrated environmental and biometric sensors across the city are designed to detect acute emergencies. The system's first response is always automated and immediate:
+- **Fire/Hazard Detection:** Deployment of autonomous fire-suppression drones and robotic containment units.
+- **Medical Emergencies:** Automated dispatch of medical drones carrying stabilizers and diagnostic tools, while establishing an instant tele-link to human medical experts.
+- **Security Incidents:** In situations of physical aggression, security drones are dispatched to document, de-escalate using non-lethal methods, and create physical barriers to prevent further harm.
+
+#### Tier 2: Mediated Resolution (Classes U1-U5)
+For interpersonal disputes and non-emergency conflicts, the system facilitates resolution without resorting to punitive measures:
+- **AI-Facilitated Mediation:** An impartial AI guides the involved parties through a structured dialogue process, aiming for mutual understanding and a voluntary agreement. This process is logged and auditable.
+- **Human-in-the-Loop:** In early-class cities or complex cases, residents can request the involvement of a remote, professionally trained human mediator to oversee the AI-facilitated process.
+
+#### Tier 3: Automated Adjudication (Class U6+)
+In mature, state-independent cities, the system gains the capacity for fair adjudication based on the city's operational rules, only when mediation fails:
+- **Advanced AI Adjudicator:** The automation analyzes all documented evidence and dialogue to provide a binding resolution focused on restorative justice, such as temporary restriction of access to certain services or spaces, or mandating participation in educational modules. The logic for all decisions is transparent and reviewable by all residents.
+
 Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
 
 All residents have full access to the resources and services to cover their needs.
