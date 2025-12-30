@@ -21,6 +21,25 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Accord and Emergency Response
+
+To ensure the safety and well-being of all residents and to provide a fair, transparent process for resolving conflicts, Utopia implements a multi-tiered Community Accord and Emergency Response (CAER) framework. This system is designed to operate in harmony with the principles of automation and fairness, evolving in sophistication from Class U1 to Class U6 cities.
+
+#### Tier 1: Automated Mediation and Resource Adjudication (AMRA)
+For minor interpersonal disagreements, resource allocation conflicts, or alleged rule infractions, the AMRA system serves as the first point of contact.
+- **Process:** Residents can log a dispute through their personal devices. The AI mediator analyzes the situation based on the city blueprint's rules, gathers relevant (and anonymized where appropriate) data, and facilitates a dialogue between the involved parties to reach a mutually agreeable solution.
+- **Transparency:** All rules and precedents used by the AMRA are publicly auditable. The process aims for restorative outcomes rather than punitive ones.
+
+#### Tier 2: Citizen Review Panels
+For complex disputes that AMRA cannot resolve, or for appeals of an AMRA decision, the case is escalated to a Citizen Review Panel.
+- **Composition:** Panels are composed of a small, rotating group of residents selected at random, similar to jury duty. This is considered a form of high-value "civil work."
+- **Function:** An AI facilitator guides the panel to ensure all evidence is reviewed impartially and discussions remain constructive and aligned with the city's founding principles. The panel's role is to provide nuanced human judgment where pure automation might fall short. Their recommendations guide the final administrative action.
+
+#### Tier 3: Emergency Response Automation (ERA)
+For immediate threats to health and safety, the city operates a dedicated ERA system.
+- **Scope:** The ERA manages automated emergency services, including fire suppression drones, mobile medical units (paramedic drones), and robotic security patrols. It is designed for rapid, autonomous response to incidents like fires, medical crises, or security breaches.
+- **Protocols:** The ERA's operational protocols and rules of engagement are open-source and subject to continuous review and improvement by the blueprint developers, with input from residents. The system is designed with multiple redundancies and fail-safes to ensure reliability. In early-class cities, the ERA coordinates with and dispatches external state-level emergency services, while in later-class cities it operates with full autonomy.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
