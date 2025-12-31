@@ -21,6 +21,17 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Justice and Conflict Resolution
+
+While major criminal adjudication in early-class cities is delegated to the state, the city must have an internal framework for managing disputes and ensuring resident safety, guided by principles of restorative justice and de-escalation. This function is managed by a transparent, automated system with clear, publicly auditable rules.
+
+The system operates on a tiered model:
+
+*   **Tier 1: Automated Mediation.** For minor interpersonal and community disputes (e.g., noise, use of shared spaces), an AI mediator facilitates dialogue between residents to find mutually agreeable solutions based on established community guidelines.
+*   **Tier 2: Restorative Circles.** For more significant conflicts where harm has occurred, residents can voluntarily enter into a restorative process. This is facilitated by specially trained resident volunteers or a specialized AI, focusing on understanding impact, repairing harm, and reintegrating individuals into the community, rather than on punishment.
+*   **Tier 3: Safety and De-escalation.** For immediate threats to physical safety, a dedicated, automated system is in place. Its sole purpose is to safely de-escalate situations, contain threats, and protect residents using non-lethal methods. All operational protocols for this system are part of the open-source blueprint and subject to public scrutiny.
+*   **Tier 4: Formal Adjudication Interface.** When a conflict requires formal adjudication by the state (in early-class cities), the city's administration provides residents with automated legal assistance, documentation support, and advocacy to ensure they are treated fairly by the external system.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
