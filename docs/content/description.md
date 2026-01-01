@@ -28,6 +28,28 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+#### Blueprint Governance Framework
+To ensure the blueprint's development is transparent, equitable, and resistant to capture by any single interest group, a formal governance framework is established. This framework moves beyond a simple "open source" model and implements a structured, participatory process inspired by successful large-scale collaborative projects like the Python Enhancement Proposal (PEP) process or the Rust Request for Comments (RFC) system.
+
+The framework is defined by the **Utopia Charter**, a living document that outlines the project's mission, code of conduct, and the governance process itself. Key components of the framework include:
+
+*   **Defined Roles and Responsibilities:**
+    *   **Core Maintainers:** A rotating group of experienced developers responsible for the technical integrity, stability, and security of the blueprint. They act as stewards, not rulers.
+    *   **Subject-Matter Councils:** Groups of verified experts in fields such as ethics, law, sociology, urban planning, and environmental science who review proposals for their broader societal impact.
+    *   **Resident Liaisons:** Elected or volunteer representatives from various Utopia cities who are trained to gather, consolidate, and present resident feedback and proposals to the development community.
+
+*   **The Utopia Enhancement Proposal (UEP) Process:**
+    1.  **Idea & Discussion:** Any resident can propose an idea for discussion on a public forum.
+    2.  **Draft UEP:** If the idea gains traction, the proponent, often with help from a Resident Liaison or a mentor, drafts a formal proposal outlining the rationale, technical specifications, potential impacts, and implementation plan.
+    3.  **Review & Comment:** The UEP is reviewed by the entire community, with formal feedback required from relevant Subject-Matter Councils and Core Maintainers.
+    4.  **Decision:** Based on the review, a decision (accept, reject, or defer) is made by the Core Maintainers. Major, system-altering changes may require a super-majority consensus or a resident-wide poll.
+
+This structured process ensures that all changes to the city blueprint are rigorously vetted, publicly debated, and aligned with the founding principles of Utopia, transforming the abstract concept of "open source" into a concrete, democratic practice.
+
+*Sources for inspiration:*
+- *Python's PEP 1 - PEP Purpose and Guidelines: https://peps.python.org/pep-0001/*
+- *The Rust RFC Process: https://rust-lang.github.io/rfcs/*
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
