@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Community Sandbox Zones
+
+To complement the high-efficiency of the MARS system and to foster organic community growth, Utopia allocates specific areas as 'Community Sandbox Zones'. These are adaptable group and public spaces intentionally exempted from the city's primary optimization and preference-monitoring algorithms.
+
+#### Core Principles:
+*   **Resident-Led Initiation:** Groups of residents can petition the city administration to designate an available modular shell or public plot as a Sandbox Zone for a specific purpose (e.g., a makerspace, a community theater, a vertical farm, a playground).
+*   **Decentralized Management:** Once allocated, the zone's management is delegated to the resident group. They are provided with a recurring budget of resources (energy, water, raw materials, modular components) and access to fabrication and construction bots.
+*   **Freedom from Optimization:** The success of a Sandbox Zone is not measured by usage metrics or efficiency. This encourages experimentation, niche interests, and long-term projects, allowing culture and community to develop without the pressure of constant algorithmic justification.
+*   **Safety and Structural Oversight:** While creative freedom is paramount, the city's automation performs minimal-intervention oversight to ensure structural integrity, environmental safety, and adherence to basic safety protocols, intervening only when necessary.
