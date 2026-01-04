@@ -30,6 +30,26 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Resilience and Emergency Response
+
+While Utopia is designed to proactively minimize incidents, it is also engineered for resilience in the face of unexpected events, system failures, and external crises such as natural disasters. The city operates on a Failsafe Operational Protocol (FOP) that ensures a swift, scalable, and effective response to protect residents and infrastructure.
+
+The FOP is structured in a tiered hierarchy:
+
+1.  **Tier 1: Automated Response & Containment (ARC)**
+    -   The city's core automation is equipped to perform immediate, localized emergency actions. This includes automated fire suppression in residential modules, rerouting of traffic and utilities around a fault, sealing of environmental zones in case of an airborne threat, and the dispatch of autonomous medical or repair drones.
+    -   The objective of ARC is to contain the incident and manage its immediate effects within seconds, preventing escalation.
+
+2.  **Tier 2: Human-in-the-Loop Oversight (HILO)**
+    -   For any incident that is not fully resolved by the ARC system within a predefined threshold, the system automatically escalates to a human oversight team. These specialists, who may be residents performing 'civil work' or dedicated professionals, are provided with complete situational data by the AI to make complex tactical decisions.
+    -   This tier is designed to manage complex, multi-faceted, or prolonged crises that require human ingenuity and ethical judgment.
+
+3.  **Tier 3: State Agency Integration (SAI)**
+    -   In early-stage cities (Class U1-U5), the FOP is deeply integrated with the host state's emergency services. The blueprint defines clear protocols and data-sharing agreements for handing off control and coordinating with external fire, medical, and police departments when an incident exceeds the city's autonomous or internal response capabilities.
+
+4.  **Tier 4: Graceful Degradation & Core Service Preservation**
+    -   During a catastrophic, city-wide event, the FOP includes protocols for the graceful degradation of non-essential services. The automation's primary mandate becomes the preservation of core life-support functions: breathable air, clean water, shelter integrity, and basic food distribution, ensuring the survival of all residents until full functionality can be restored.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
