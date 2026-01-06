@@ -50,6 +50,14 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+#### Dynamic Cultural & Arts Commons (DCAC)
+
+To ensure Utopia is not only efficient but also culturally vibrant and soulful, the DCAC system repurposes the city's modularity for creative expression. It allows residents to collectively claim and configure otherwise unallocated or underutilized spaces for cultural and artistic purposes.
+
+*   **Resident-Initiated:** Groups of residents can propose projects—such as a sculpture studio, a community theater, a gallery, or a music rehearsal space—through the city's feedback portal.
+*   **Automated Logistics, Human Curation:** Upon approval based on community interest and space availability, the city's automation handles the delivery and setup of necessary MARS modules, provides basic utilities, and allocates materials (often from the city's recycling streams). The creative direction, curation, and day-to-day management of the space, however, remain entirely in the hands of the resident group.
+*   **Ephemeral & Evolving:** These cultural spaces are not necessarily permanent. They can be temporary installations for a festival, project-based workshops, or evolve over time based on community needs, ensuring the city's cultural landscape is as dynamic and adaptable as its housing. This prevents cultural stagnation and allows for constant renewal and experimentation.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
