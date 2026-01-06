@@ -21,6 +21,17 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+
+### Auditable Governance Transition
+
+To ensure the founding principle of Fairness is protected during the vulnerable early stages of a city's development (Classes U1-U4), the transition from human administration to full automation is governed by a strict and transparent framework.
+
+This framework is built on three pillars:
+
+*   **Immutable Ledger:** All administrative decisions and system overrides made by human supervisors must be logged on a public, immutable ledger. Each entry must be justified with direct reference to the blueprint's principles and goals, creating a permanent, auditable record of the path to automation.
+*   **Performance-Based Authority Transfer:** Administrative powers are held in a 'governance escrow' and are automatically and irrevocably transferred from human supervisors to the automated system as predefined performance milestones are met. These milestones are tied to key metrics such as system uptime, resource distribution efficiency, crisis-response success rates, and positive resident feedback, as measured by the system itself and validated by independent third-party audits.
+*   **Sunset Mandate for Human Oversight:** The initial administrative body (e.g., the 'hosting company') operates under a 'sunset mandate'. Their charter is legally and programmatically bound to the sole objective of achieving the next Class of city evolution. They have no authority to alter this objective. Upon reaching Class U5, this administrative body is automatically dissolved.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
