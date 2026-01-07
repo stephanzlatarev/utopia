@@ -50,6 +50,17 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+
+### Community Weaving Hubs
+
+To complement the personalized nature of MARS, Utopia integrates Community Weaving Hubs (CWH) to foster a strong sense of social connection and belonging.
+
+#### Key Features:
+*   **Dynamic Purpose:** Unlike static public squares or buildings, Hubs are large, open-plan structures with integrated robotic systems that can reconfigure floors, walls, seating, and equipment. This allows the space's function to be co-created by residents on a daily or weekly basis, shifting from a maker space to a performance hall to a collaborative gallery.
+*   **Resident-Led Curation:** While the city's core automation manages maintenance, safety, and resource logistics, the Hub's schedule and configuration are determined by resident proposals and collective interest, facilitated through the city's feedback portal. This gives residents a tangible sense of ownership and agency over their shared environment.
+*   **Fostering Serendipity:** The design encourages unstructured time and spontaneous interaction. By providing tools, materials, and a blank canvas rather than pre-defined activities, the Hubs create an environment where new hobbies, friendships, and collaborative projects can emerge organically.
+*   **Intergenerational & Inclusive:** Hubs are equipped with universally accessible tools and adaptable furniture, making them welcoming spaces for all ages and abilities. They serve as natural meeting points, breaking down the isolation that can occur in age-segregated or purely private living arrangements.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
