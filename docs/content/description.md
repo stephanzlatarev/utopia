@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Community-Driven Adaptive Spaces (CDAS)
+
+To complement the individualized automation of personal spaces, Utopia implements the Community-Driven Adaptive Spaces (CDAS) protocol. This is a formal process that empowers residents to collectively shape their shared environment, ensuring that group and public spaces are dynamic, purposeful, and reflective of the community's evolving identity.
+
+#### The CDAS Process:
+*   **Proposal & Mobilization:** A group of residents can initiate a proposal for a new community space (e.g., a workshop, community garden, playground, art installation) or the reconfiguration of an existing one. Using the city's civic interface, they can gather support from their neighbors to meet a predefined mobilization threshold.
+*   **AI-Facilitated Collaborative Design:** Once the threshold is met, the city's automation provides the group with a suite of collaborative design tools. This includes VR/AR simulations to visualize the space, a library of approved MARS modules, and AI assistance to ensure the design complies with safety, accessibility, and sustainability parameters while respecting resource budgets.
+*   **Automated Resource Allocation & Implementation:** Upon finalization, the design is submitted to the city's resource management system. If it meets all technical and resource criteria, the plan is automatically approved. The city's construction and maintenance automation then assembles or reconfigures the space as designed.
+*   **Continuous Feedback & Adaptation:** The usage and performance of the space are monitored and the data is made available to the resident community. The CDAS protocol allows for the space to be periodically reviewed and adapted through the same process, ensuring it remains relevant and valuable over time.
