@@ -91,6 +91,13 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+To address acute and emergency situations, Utopia implements a Decentralized Emergency Health Response Network. This system shifts from a reactive model to an immediate, on-site intervention model.
+
+#### Key Features:
+*   **Health Nooks:** Each residential complex and major public space is equipped with a private, automated Health Nook. These nooks contain advanced diagnostic scanners, telepresence links to specialized medical AI and human experts, and automated systems for administering first aid, stabilization agents, and life support.
+*   **Autonomous Medical Emergency (AME) Vehicles:** A fleet of specialized autonomous vehicles is on constant standby. Upon detection of a severe medical event (via personal biosensors or direct call), the nearest AME is dispatched. These vehicles are equipped with advanced robotic surgical and life-support systems to perform interventions en route to a specialized care facility if necessary.
+*   **Integrated Biosensors:** Personal health monitors provided to all residents are integrated with the network, allowing for the pre-emptive detection of health crises and automatic dispatch of an AME, even if the resident is incapacitated.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
