@@ -15,6 +15,26 @@ The city is governed by automated rules that are provided with the blueprint.
 
 Citizens do not vote on policies, laws and rules. However, they can influence the administration and development of their city in a few ways:
 - through their preferences - This mechanism is encoded in the blueprint of the city. As part of the automation, the city administration will collect information about preferences by the residents, through monitoring of usage of services and direct feedback, and will activate the configurations and automations of the blueprint that best reflect the preferences of the residents.
+
+
+
+#### Preference Resolution Framework
+
+To ensure that the preference-based governance is fair, transparent, and effective, the blueprint must incorporate a robust Preference Resolution Framework. This framework will guide the automation in aggregating preferences and resolving conflicts, preventing the 'tyranny of the majority' and ensuring minority rights are protected. The framework will be based on the following principles and mechanisms:
+
+*   **Weighted Preference System:** Not all preferences are equal. The system will differentiate between:
+    *   **Core Needs:** Guaranteed rights and needs that cannot be overridden by popular preference (e.g., accessibility standards, clean air).
+    *   **Community-wide Preferences:** Decisions impacting the entire community (e.g., public space design, resource allocation priorities).
+    *   **Zonal & Group Preferences:** Preferences that apply to specific geographic areas or self-identified groups, allowing for diverse local character.
+    *   **Personal Preferences:** Individual choices that primarily affect the resident's personal space and services.
+
+*   **Conflict Resolution Algorithms:** When preferences conflict, especially at the community level, the automation will employ a hierarchy of resolution strategies:
+    1.  **Compromise Generation:** The AI will propose alternative solutions that aim to satisfy the underlying interests of all conflicting parties.
+    2.  **Deliberative Polling:** For complex issues, the system may initiate a process of informed deliberation where residents are provided with balanced information before expressing their preferences.
+    3.  **Advanced Voting Mechanisms:** The system may employ mechanisms like Quadratic Voting, where residents can express the intensity of their preferences, or Liquid Democracy, where residents can delegate their preference influence to trusted experts on specific topics.
+
+*   **Transparency and Auditability:** The entire preference collection, aggregation, and decision-making process will be fully transparent and auditable by any resident. The algorithms and their outputs will be open for inspection to ensure they are functioning as intended and without bias.
+
 - through direct feedback - The city keeps its blueprint and current state readily available to all its residents, similar to how the public transport in modern sity shows the lines and schedules in realtime. Residents can look into the details of how the city operates in any aspect and any level they want through personal smart devices, public interactive screens, or even AI guide tour. This system doubles as a portal to raise incidents, issues, ideas for improvements - all automatically directed to the developers of the blueprint.
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
