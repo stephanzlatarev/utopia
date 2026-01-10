@@ -91,6 +91,17 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+To achieve this, Utopia implements the **Dynamic Integrated Medical Module System (DIMMS)**, a decentralized, on-demand healthcare delivery network that fully integrates with the city's modular infrastructure.
+
+#### Key Features of DIMMS:
+*   **Tier 1: Pervasive Monitoring:** All personal residential modules are equipped with non-invasive, ambient health monitoring systems integrated into the environment (e.g., biometric sensors in beds, waste analysis in toilets, air quality sensors). The resident's personal AI continuously analyzes this data to provide preventative advice and detect anomalies.
+*   **Tier 2: Mobile Medical Modules (M-Mods):** For conditions requiring more than preventative care, the city deploys specialized M-Mods. These are self-contained, automated medical facilities built to the same specifications as the MARS housing modules. Examples include:
+    *   **Diagnostic M-Mods:** Containing advanced imaging equipment like MRI, CT, and ultrasound.
+    *   **Surgical M-Mods:** Sterile, robotically-equipped operating theaters for a range of procedures.
+    *   **Therapeutic M-Mods:** Facilities for physical therapy, rehabilitation, or specialized treatments.
+    *   **Emergency M-Mods:** Rapid-response units equipped for trauma care and stabilization.
+*   **Tier 3: Seamless Integration:** When a need is identified, the city's automation dispatches the appropriate M-Mod, which travels via automated transit and docks directly with a resident's building or a nearby designated community health hub. This brings the hospital to the patient, not the patient to the hospital, ensuring immediate and accessible care. Human medical experts can supervise and conduct procedures remotely via high-fidelity telerobotics, ensuring the best expertise is always available.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
