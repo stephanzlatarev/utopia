@@ -21,6 +21,16 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+
+
+### Conflict and Dispute Resolution
+
+While the automation and provision of needs are designed to reduce systemic conflict, interpersonal disputes are an inevitable aspect of community life. To ensure swift, fair, and constructive resolution without immediate reliance on external state apparatus, Utopia implements a tiered internal conflict resolution system.
+
+*   **Tier 1: AI-Facilitated Mediation:** For minor disagreements, residents can access an AI mediation tool. This system acts as a neutral third party, guiding participants through structured communication protocols, helping them identify core issues, and suggesting mutually agreeable solutions. All participation is voluntary and confidential.
+*   **Tier 2: Community Resolution Councils:** For more complex disputes or when AI mediation is insufficient, residents can bring the issue before a Community Resolution Council. These councils are composed of fellow residents who have volunteered and received training in mediation and restorative justice as a form of 'civil work'. The process focuses on repairing harm and restoring community relationships rather than on punishment.
+*   **Tier 3: Formal Adjudication:** In cases where mediation fails or the issue involves a serious breach of community standards, the matter can be escalated to a formal, internal adjudicator. This body operates with transparent, codified procedures to make binding decisions. The involvement of the external 'state' is reserved as a final resort for the most serious criminal matters.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
