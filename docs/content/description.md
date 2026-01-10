@@ -13,6 +13,16 @@ The city is governed by automated rules that are provided with the blueprint.
 
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
 
+### Transitional Stewardship (Classes U1-U4)
+
+To resolve the potential conflict of interest during the early, human-supervised stages of a Utopia city, administration is not managed by a traditional commercial company. Instead, it is handled by a **Stewardship Trust**.
+
+This is a purpose-driven legal entity, contractually and legally bound by the Utopia founding principles. Its primary directive is to achieve the next class of city automation as efficiently and ethically as possible. Key features of the Trust include:
+
+*   **Steward-Ownership Model:** The Trust is structured so that voting control is held by stewards committed to the Utopia mission, separating it from purely economic interests. Profits cannot be privatized; all surplus revenue (e.g., from resident fees in Classes U1-U3) is automatically reinvested into the city's development. This model is inspired by real-world purpose-driven companies. (Source: Purpose Economy, "What is Steward-Ownership?", https://purpose-economy.org/what-is-steward-ownership/)
+*   **Transparent Operations:** All financial records, development milestones, and administrative decisions of the Trust are public and accessible to all residents in real-time, upholding the principle of transparency.
+*   **Phased Devolution of Power:** The Trust's charter includes a clear, milestone-based plan for its own dissolution, transferring its functions to the fully-automated systems as the city matures into Class U5.
+
 Citizens do not vote on policies, laws and rules. However, they can influence the administration and development of their city in a few ways:
 - through their preferences - This mechanism is encoded in the blueprint of the city. As part of the automation, the city administration will collect information about preferences by the residents, through monitoring of usage of services and direct feedback, and will activate the configurations and automations of the blueprint that best reflect the preferences of the residents.
 - through direct feedback - The city keeps its blueprint and current state readily available to all its residents, similar to how the public transport in modern sity shows the lines and schedules in realtime. Residents can look into the details of how the city operates in any aspect and any level they want through personal smart devices, public interactive screens, or even AI guide tour. This system doubles as a portal to raise incidents, issues, ideas for improvements - all automatically directed to the developers of the blueprint.
