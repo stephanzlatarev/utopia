@@ -19,6 +19,19 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+#### Conflict and Dispute Resolution
+
+While the city automation is designed to minimize friction, interpersonal and community-level conflicts are an inevitable part of human society. To ensure the safety and well-being of all residents without immediate and often disproportionate reliance on external state apparatus, Utopia implements a tiered internal conflict resolution framework. This system is designed to be restorative and accessible, prioritizing de-escalation and mutual understanding.
+
+*   **Tier 1: AI-Assisted Mediation**
+    For low-level disputes, such as disagreements over the use of shared spaces or noise complaints, residents can initiate an AI-mediated process. The system acts as a neutral third party, facilitating communication, clarifying the city's encoded rules, suggesting compromises, and documenting agreed-upon resolutions. This process is voluntary, private, and available on demand.
+
+*   **Tier 2: Community Council Mediation**
+    For more complex interpersonal conflicts that require nuanced human understanding, residents may escalate the issue to a Community Council. These councils consist of trained resident volunteers who act as mediators. The city's automation facilitates the process by providing neutral summaries (with the consent of all parties), scheduling, and ensuring the process adheres to the city's principles of fairness. The goal is not to assign blame, but to facilitate dialogue and find a mutually agreeable path forward, reinforcing the community's social fabric.
+
+*   **Tier 3: Formal Escalation to State Rule**
+    The internal framework is designed to handle civil and community disputes. Matters that constitute serious crimes under the governing state's laws (e.g., violence, significant theft of luxury property) are immediately and transparently escalated to the appropriate state authorities. In such cases, the city administration provides a resident advocate to help the involved parties navigate the external legal system, ensuring they are supported throughout the process.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
