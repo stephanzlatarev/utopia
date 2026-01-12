@@ -38,6 +38,30 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Community & Justice
+
+While early-class cities rely on an external state for final legal adjudication, a robust internal framework for handling disputes and upholding community standards is essential for the city's health and the residents' well-being. This framework is designed to resolve issues internally whenever possible, focusing on restorative principles over punitive action. It operates on a tiered system that evolves with the city's class.
+
+**Core Principles:**
+*   **Restoration-focused:** The primary goal is to repair harm and restore relationships within the community, rather than simply to punish offenders. (Source: Zehr, H. (2002). *The Little Book of Restorative Justice*).
+*   **Proportionality:** The response to a conflict is proportional to the harm caused.
+*   **Transparency:** All processes and their underlying rules are fully transparent and accessible to residents via the city's information portals.
+*   **Developmental:** The system is designed to evolve, with human involvement decreasing and AI sophistication increasing as the city advances from Class U1 to U6.
+
+**Tiered Resolution System:**
+
+*   **Tier 1: AI-Assisted Mediation**
+    *   **Scope:** Minor interpersonal disagreements, noise complaints, disputes over shared space usage.
+    *   **Process:** Residents can initiate a mediation session through their personal devices. An AI mediator facilitates a structured dialogue, presents relevant blueprint rules, suggests compromises, and logs the mutually agreed-upon resolution. This process is voluntary.
+
+*   **Tier 2: Community Council**
+    *   **Scope:** Unresolved Tier 1 issues, harassment, minor property damage, repeated breaches of community guidelines.
+    *   **Process:** A case is reviewed by a Community Council, composed of trained resident volunteers (a form of "civil work") and an AI moderator. The council facilitates a restorative circle with all affected parties to discuss the harm and collectively agree on a path to repair it. This may include apologies, restitution, or community service.
+
+*   **Tier 3: Adjudication & State Interface**
+    *   **Scope:** Serious offenses involving harm to personal safety, major property damage, or persistent anti-social behavior that threatens community well-being.
+    *   **Process:** These cases are handled by a formal internal adjudication process. In later-stage cities (U4+), this may involve a hybrid council of AI and human jurors. The council's primary role is to establish facts and determine a just resolution, which could include temporary restriction of access to non-essential services or mandated participation in rehabilitative programs. For criminal matters defined by state law, this tier also serves as the formal interface for escalating the issue to external state authorities, providing them with a comprehensive and impartial record of the events.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
