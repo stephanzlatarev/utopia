@@ -21,6 +21,20 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### The Rule Governance Framework
+
+To ensure the automated rules governing the city are fair, transparent, and robust, the blueprint development and city administration processes will adhere to the following framework. This framework is designed to translate resident feedback and developer innovation into a safe and continuously improving set of operational principles.
+
+*   **Rule Proposal and Versioning:** Any proposed change to the city's rules—from traffic management to resource allocation—must be submitted as a formal proposal. All rules and their historical changes will be publicly accessible in a version-controlled repository, ensuring full transparency.
+
+*   **Automated Impact Analysis:** Before consideration, every proposal undergoes a rigorous, AI-driven simulation to model its potential impact on city operations, resource consumption, social dynamics, and adherence to the Founding Principles. This analysis identifies potential unintended consequences and conflicts with existing rules.
+
+*   **Community Review and Comment:** All proposals, along with their impact analyses, are published for a mandatory public comment period. Residents can review, discuss, and provide structured feedback through the city's information portal, ensuring their perspectives are considered before any implementation.
+
+*   **Ethical Oversight Council:** A rotating council, composed of randomly selected residents, AI ethics specialists, and social scientists, provides a final review of significant rule changes. This council is tasked with evaluating the proposal's alignment with Utopian principles and the long-term well-being of the community, serving as a critical human-in-the-loop check on the automation.
+
+*   **Phased Rollout and Reversibility:** Approved rules are implemented in controlled, phased rollouts, starting with limited trials. Their real-world performance is continuously monitored against pre-defined metrics. Any rule demonstrating negative outcomes can be automatically and safely reverted to its previous state.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
