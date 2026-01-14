@@ -28,6 +28,18 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+#### Blueprint Governance
+
+To ensure the blueprint's development is transparent, accountable, and resistant to centralized control, a formal governance model is established. This model is inspired by successful, large-scale open-source projects and standards bodies that require robust consensus-building mechanisms.
+
+*   **Utopia Enhancement Proposals (UEPs):** All significant changes to the blueprint must be introduced through a public UEP. Each UEP will detail the proposed change, the rationale behind it, its potential impacts on residents and city systems, and implementation details. This process ensures all proposals are well-documented and open for public scrutiny.
+
+*   **Public Review and Consensus:** Every UEP undergoes a mandatory public review period where any resident or developer can provide feedback, raise concerns, and suggest modifications. Changes are not approved by a simple vote, but through a consensus-seeking process, ensuring that critical concerns are addressed before implementation. The process will be moderated to be constructive and inclusive.
+
+*   **Blueprint Council:** An elected and rotating Blueprint Council, composed of residents and developers from across the network of Utopia cities, serves as the final steward of the blueprint. Their role is not to dictate changes, but to ensure the UEP process is followed correctly, to mediate disputes, and to formally ratify proposals that have achieved broad consensus. This provides a crucial layer of human oversight accountable to the residents.
+
+*   **Core Principles Lock:** The Founding Principles of Utopia are enshrined in a digital constitution. The Blueprint Council is empowered to reject any UEP that violates these core principles, protecting the fundamental rights and guarantees provided to all residents.
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
