@@ -21,6 +21,24 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Cohesion and Conflict Resolution
+
+While the automation and governance structures are designed to prevent systemic conflicts of interest, interpersonal and community-level disagreements are a natural part of human interaction. To ensure a harmonious and just environment, Utopia implements a multi-tiered, internal conflict resolution system that prioritizes de-escalation, mutual understanding, and restorative outcomes rather than punitive measures. This system allows residents to address issues internally, fostering a stronger community and reducing reliance on external state systems.
+
+The system is structured as follows:
+
+*   **Tier 1: AI-Assisted Dialogue**
+    *   For minor disagreements, residents have access to AI-powered communication tools. These tools can help facilitate constructive conversations by suggesting neutral language, identifying points of agreement, and providing frameworks for finding a mutually acceptable compromise. The goal is to empower residents to resolve issues on their own.
+*   **Tier 2: Voluntary Community Mediation**
+    *   If direct dialogue is unsuccessful or inappropriate, residents can engage a neutral third party through the city's mediation service. This service is staffed by trained resident volunteers as a form of "civil work."
+    *   The process is confidential and focuses on restorative principles, aiming to repair harm and relationships. This approach is modeled on successful restorative justice programs that prioritize community healing (see principles from the Centre for Justice and Reconciliation).
+*   **Tier 3: Algorithmic Adjudication**
+    *   For disputes involving clear violations of pre-defined and publicly documented city protocols (e.g., misuse of a shared resource, breach of noise agreements), an automated adjudication system is used.
+    *   This system operates transparently, with its logic and decision-making criteria available for all to review. Its decisions are based solely on verifiable data and are accompanied by a clear explanation. An appeals process, which may escalate to Tier 2 or Tier 4, is available to ensure fairness.
+*   **Tier 4: Community Review Panel**
+    *   For complex, nuanced conflicts that fall outside established protocols, a temporary review panel can be convened. The panel consists of a randomly selected group of residents who volunteer for this form of civil work.
+    *   The city's information systems provide the panel with all relevant, anonymized data. The panel's role is not to punish, but to provide a recommended resolution that aligns with the city's founding principles. This introduces a human-centric check and balance for issues that automation cannot adequately resolve.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
