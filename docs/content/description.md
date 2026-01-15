@@ -33,6 +33,14 @@ This design choice is inspired by the Linux operating system for computers. The 
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
+#### Jurisdictional and Emergency Services Interface
+
+To ensure resident safety and seamless integration with the host state, each city (Class U1-U5) must establish a formal State-City Interface Protocol (SCIP), codified in a public Memorandum of Understanding (MOU) with relevant state and local agencies. This protocol will, at a minimum, define:
+
+*   **Legal Jurisdiction:** A clear delineation of legal responsibilities. This includes defining the process for serving warrants, conducting investigations, and the authority of state law enforcement within city boundaries.
+*   **Emergency Response Coordination:** A detailed Emergency Response Plan (ERP) that outlines procedures for different incident types (e.g., medical, fire, criminal, natural disaster). The plan will specify the chain of command, communication channels, and how the city's automation will assist state responders (e.g., providing real-time building schematics, controlling utility systems, ensuring access for emergency vehicles).
+*   **Designated Liaison Office:** In cities below Class U6, a physical office staffed by trained human liaisons will serve as the 24/7 point of contact for all state agencies. This office is responsible for facilitating communication and coordinating on-the-ground action between city automation and state personnel during any incident.
+
 The downside is that the city can isolate its residents from state corruption only to the extent that it guarantees all basic needs and the living atandard. The most mature future stages of Utopia cities, Class 6, will have sufficiently advanced automation to handle nuanced resolution of disputes and conflicts fairly and without human bias.
 
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
