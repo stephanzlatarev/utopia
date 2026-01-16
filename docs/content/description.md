@@ -71,6 +71,17 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+
+
+### Water
+
+To guarantee a resilient and sustainable water supply, Utopia implements an Automated Integrated Water Cycle Management (AIWCM) system. This system provides a clear process and control framework for the city's entire closed-loop water cycle, addressing sourcing, purification, distribution, and reclamation.
+
+#### Key Features:
+*   **Real-time Monitoring & Control:** A city-wide network of IoT sensors continuously monitors water quality (purity, pH, microbial content), pressure, and flow rates. The central AI uses this data to dynamically adjust purification processes, manage distribution, and instantly detect anomalies like leaks or contamination.
+*   **Circular Resource Management:** The system is designed for maximum water circularity. It automates the collection, purification, and redistribution of greywater from residential and group spaces for non-potable uses (e.g., vertical farming, cleaning). Advanced filtration and atmospheric water harvesting technologies are integrated to ensure self-sufficiency, a key goal for Class U5+ cities.
+*   **Predictive Maintenance & Emergency Response:** The AI analyzes system performance data to predict potential equipment failures (pumps, valves, filters) and schedules robotic maintenance preemptively, preventing service disruptions. In emergencies, such as a fire, the AIWCM automatically reroutes water flow and boosts pressure to the affected area, following pre-defined protocols without compromising the water supply to other critical services.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
