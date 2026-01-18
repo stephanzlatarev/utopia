@@ -94,3 +94,17 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Energy
+
+The city's energy infrastructure is built on a foundation of resilience, sustainability, and automated management to reliably power all aspects of Utopia. The system is designed as a decentralized smart grid, ensuring no single point of failure can cause a city-wide blackout.
+
+#### Key Features:
+*   **Decentralized Smart Grid:** The city operates on a smart grid that uses AI to manage energy flow in real-time. Power generation is distributed across the city through a mix of integrated solar paneling on all buildings, geothermal plants, and localized wind turbines where geographically appropriate.
+*   **Microgrid Architecture:** The city is segmented into multiple, interconnected microgrids. Key functional areas, such as healthcare districts, administrative cores, and vertical farming centers, can operate as self-sufficient islands, disconnecting from the main grid during emergencies to maintain critical services.
+*   **Energy Storage:** Each microgrid is supported by high-capacity battery storage facilities. This allows for the storage of excess energy generated during peak production times (e.g., sunny days) for use during the night or periods of high demand, guaranteeing a stable 24/7 power supply.
+*   **Phased Implementation:** The energy plan evolves with the city's class:
+    *   **Class U1-U3:** The city initially connects to the host state's power grid while building out its own renewable generation and microgrid infrastructure. The focus is on supplementing external power and ensuring resilience for critical services.
+    *   **Class U4-U5:** The city achieves energy self-sufficiency, operating its decentralized smart grid independently but retaining an external connection for emergency backup.
+    *   **Class U6-U7:** The grid is fully autonomous and optimized, generating a surplus that can be used for research, development, or supporting the founding of new Utopia cities.
