@@ -19,6 +19,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Community and Conflict Resolution
+
+To ensure social harmony and provide fair, accessible avenues for resolving disagreements, Utopia implements a tiered internal conflict resolution system. This system is designed to handle issues ranging from interpersonal disputes to community-level disagreements and personal crises, prioritizing de-escalation, mediation, and restorative outcomes over punitive measures. The reliance on external state systems is reserved for serious criminal matters as a last resort.
+
+-   **Tier 1: AI-Facilitated Mediation** - For low-level disputes (e.g., noise complaints, disagreements over shared space usage), residents can initiate an anonymous or identified mediation process through the city's interface. An AI mediator guides the involved parties through a structured dialogue, proposing compromises based on the blueprint's fairness principles and established community agreements. This provides an immediate, 24/7 accessible first step for resolving minor friction.
+
+-   **Tier 2: Restorative Circles** - For more complex or emotionally charged conflicts that are not resolved by AI mediation, residents can opt into a Restorative Circle. This is a voluntary process where affected parties, along with trained community facilitators (as a form of 'civil work'), meet to discuss the issue, express its impact, and collaboratively decide on a solution to repair harm and restore balance. The goal is mutual understanding and community-led resolution, not punishment.
+
+-   **Tier 3: Crisis Response Team** - For acute situations involving mental health crises, domestic distress, or severe personal difficulties, the city's monitoring systems or resident requests can dispatch a specialized Crisis Response Team. This team consists of healthcare and social work professionals, not law enforcement. Their role is to provide immediate, compassionate care, de-escalate the situation, and connect the individuals with appropriate city-provided health and support services.
+
+-   **Escalation to State Rule** - Only when an issue involves serious criminal acts as defined by the governing state's laws (e.g., severe violence) and cannot be resolved internally, will the city's administration formally interface with external state authorities. This process is governed by strict protocols that ensure resident privacy while providing necessary data for legal proceedings.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
