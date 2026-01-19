@@ -38,6 +38,15 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Transitional Authority
+
+For cities in Classes U1 through U4, where full automation has not yet been achieved, a transitional governing body is required. This entity, referred to as the Utopia Development Authority (UDA), replaces the informal 'hosting company' concept mentioned in the roadmap and provides a formal governance structure accountable to the city's founding principles.
+
+*   **Legal Structure:** The UDA is established as a **Public-Benefit Corporation** or a similar special-purpose legal entity. Its legally-binding charter mandates that all profits and operational surpluses are reinvested directly into the development of the city's automation and infrastructure, with the ultimate, explicit goal of achieving Class U5 automation and triggering the UDA's own dissolution.
+*   **Mandate & Oversight:** The UDA's primary function is to administer the city and manage the human labor necessary for its operation during the transitional phases. It is subject to radical transparency, with all its operational data, financial records, and development progress made available to residents in real-time through the same feedback portal used for the city automation. An independent, external auditor will periodically verify that the UDA is adhering to its chartered mandate.
+*   **Resident Rights:** Individuals living in a UDA-governed city are considered **Resident-Stakeholders**. They are guaranteed the full scope of needs and services defined by their city's Class level. While they do not vote on UDA corporate policy, they have legally protected rights to the feedback and blueprint development mechanisms, ensuring their influence over the city's evolution remains intact.
+*   **Dissolution Protocol:** The UDA's charter includes a 'sunset clause' that is automatically triggered when the city's automation meets the operational benchmarks for Class U5. At this point, a predefined, automated protocol will transfer all administrative and operational control from the UDA to the city's fully automated systems, and the UDA legal entity will be formally dissolved.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
