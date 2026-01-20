@@ -30,6 +30,22 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Civic Safety and Justice
+
+To bridge the gap between delegating all disputes to an external state and the promise of providing "personal security," Utopia implements a tiered Civic Safety and Justice (CSJ) framework. This framework ensures timely, appropriate, and scalable responses to incidents ranging from minor disagreements to life-threatening emergencies, evolving in sophistication with the city's class.
+
+#### Tier 1: Automated Mediation and Resource Management (AMRM)
+For non-violent interpersonal disagreements (e.g., noise complaints, disputes over shared spaces), the city automation provides AI-driven mediation platforms. The system can suggest compromises, log grievances for pattern analysis, and dynamically re-allocate modular resources (e.g., reconfiguring spaces via MARS) to de-escalate conflict. The goal is resolution, not punishment.
+
+#### Tier 2: Automated Emergency Response (AER)
+For immediate physical threats such as fires, medical crises, or structural failures, the city's core automation deploys an AER protocol. This involves dispatching specialized drones and robotics for containment, first aid, search and rescue, and evacuation. The system's priority is the preservation of life and mitigation of harm, with all actions and sensor data logged for transparent review.
+
+#### Tier 3: Professional Crisis Intervention (PCI)
+For complex situations involving potential violence, severe mental health episodes, or domestic crises where automation is insufficient, the system alerts a team of trained, on-site human professionals (or advanced androids in higher-class cities). This PCI team is skilled in de-escalation, social work, and emergency psychology. Their role is to provide nuanced, empathetic intervention, distinct from a traditional law enforcement role, and to authorize physical restraint only as a last resort to prevent imminent harm.
+
+#### Tier 4: State Interface Protocol (SIP)
+For incidents that require the jurisdiction of the external state (e.g., felonies as defined by state law), the CSJ framework includes a clear SIP. This protocol defines the precise triggers for contacting state authorities, the secure and audited transfer of relevant data, and the procedures for coordinating with external responders upon their arrival. This ensures that while Utopia manages its internal safety, it remains a responsible and cooperative entity within the larger state.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
