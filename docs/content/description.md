@@ -71,6 +71,14 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+The city implements a Closed-Loop Integrated Water Management System to ensure a sustainable and resilient water supply.
+
+*   **Sourcing:** Water is primarily sourced from rainwater harvesting on all available surfaces and atmospheric water generation, minimizing reliance on external aquifers or rivers.
+*   **Segregation & Recycling:** Water is segregated at the point of use. Greywater from sinks and showers is treated and recycled locally within residential blocks for non-potable uses such as toilet flushing, automated cleaning, and landscape irrigation.
+*   **Resource Recovery:** Blackwater from toilets and kitchens undergoes advanced treatment in decentralized facilities. This process not only purifies the water to potable standards but also recovers valuable resources: biogas for energy production and concentrated nutrients for use in the city's automated food production systems.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
