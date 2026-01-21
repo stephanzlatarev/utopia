@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Community Co-Creation Sandbox (CCS)
+
+To complement the personalized nature of MARS housing, Utopia implements Community Co-Creation Sandboxes to ensure that shared public and group spaces possess a genuine sense of resident ownership and organic character.
+
+#### Key Features:
+*   **Dynamic Zones:** Certain public areas are designated as 'Sandboxes'—intentionally unfinished spaces.
+*   **Modular Toolkit:** These Sandboxes come with access to a library of safe, reconfigurable modules, such as seating, planters, stages, play equipment, and digital projection surfaces.
+*   **Resident-Led Design:** Residents can collectively propose, design (using intuitive digital tools), and vote on layouts and features for these spaces. The automation system acts as a facilitator and safety-overseer, not a director.
+*   **Empowered Collaboration:** Automation handles the logistics, such as material delivery and heavy lifting, enabling residents of all ages and abilities to participate in the creative process of placemaking. This transforms 'civil work' from simple supervision into a deeply engaging and collaborative community activity.
