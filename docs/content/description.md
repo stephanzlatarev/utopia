@@ -40,6 +40,25 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Transportation
+
+To address the critical need for resilient, safe, and efficient mobility for people, goods, and services, Utopia implements a Multi-Layered Autonomous Mobility System (MAMS). This system segregates traffic by function to prevent single-point failures, enhance safety, and improve the urban environment. This approach is critical for supporting the dynamic reconfiguration of MARS and ensuring rapid emergency response.
+
+### Tier 1: Subterranean Logistics Network
+*   **Function:** Automated movement of goods, construction modules (for MARS), raw materials, and waste management.
+*   **Technology:** A dedicated network of large-scale tunnels utilizing autonomous, electric rail or wheeled cargo carriers. This technology is an evolution of mature systems used in modern logistics hubs and automated ports.
+*   **Impact:** Keeps heavy and noisy traffic out of public and residential spaces, enhancing safety, reducing surface-level congestion, and enabling 24/7 logistical operations without disturbing residents.
+
+### Tier 2: Ground-Level Personal Transit
+*   **Function:** On-demand personal and small-group mobility.
+*   **Technology:** A fleet of shared, autonomous electric pods operating on designated pathways. The system prioritizes pedestrian-friendly design, with low speeds within dense residential zones and higher speeds on arterial routes. This leverages rapidly maturing autonomous vehicle (AV) technology.
+*   **Impact:** Provides convenient, accessible, and energy-efficient personal transportation. The on-demand nature eliminates the need for personal vehicle ownership and vast parking areas, freeing up space for green areas and community facilities.
+
+### Tier 3: Priority Aerial Network
+*   **Function:** Emergency services (medical, fire, security) and time-sensitive critical transport (e.g., organ delivery).
+*   **Technology:** A fleet of Electric Vertical Take-Off and Landing (EV-TOL) vehicles and specialized drones operating in a reserved, high-priority airspace corridor. This is an emerging technology with rapid advancements in autonomous navigation and safety protocols.
+*   **Impact:** Guarantees the fastest possible response times for emergencies, completely bypassing ground-level traffic. This redundancy is a critical safety feature for the city.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
