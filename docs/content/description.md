@@ -21,6 +21,30 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Safety and Justice
+
+While the city automation is designed to prevent conflict over resources, interpersonal disputes and anti-social behaviors are an inevitable part of any human community. To address this, Utopia implements a multi-tiered Community Safety and Justice framework that functions in parallel with, and provides a clear interface to, the external state's legal system, until such a time as Class U6 automation is achieved.
+
+This framework ensures that responses are proportional and focused on restorative outcomes, in line with Utopia's cooperative principles.
+
+**Tier 1: Automated Mediation System (AMS)**
+For low-level disagreements, such as noise complaints or disputes over the use of shared spaces, residents can engage the AMS. 
+- The system acts as a neutral third party, logging both sides of a dispute without bias.
+- It cross-references the city's operational rules and the stated preferences of the involved parties to suggest multiple, equitable resolutions.
+- This process is voluntary and non-binding, designed to de-escalate conflict and find common ground.
+
+**Tier 2: Resident-led Restorative Circles**
+For more complex interpersonal conflicts or repeated minor infractions, residents can request a Restorative Circle. This is considered a form of 'civil work'.
+- Trained resident facilitators guide a structured, voluntary dialogue between the affected parties.
+- The goal is not punishment, but to understand the harm caused, acknowledge responsibility, and collectively agree on a path to repair the harm and relationship.
+- The city's AI can assist with scheduling and providing neutral, anonymized data on similar past resolutions, but the process is fundamentally human-led.
+
+**Tier 3: State Law Interface Protocol**
+For situations involving potential criminal acts as defined by the governing state (e.g., assault, major theft, domestic violence), a clear and unambiguous protocol is in place.
+- Any resident can trigger this protocol, or the city's monitoring systems can flag an incident for human review based on pre-defined triggers (e.g., acoustic sensors detecting sounds of violence).
+- A designated and trained team of human supervisors (part of city administration in early-class cities) is responsible for assessing the situation and acting as the official liaison to state law enforcement and emergency services.
+- This protocol includes strict data-sharing agreements that protect resident privacy while providing law enforcement with the necessary information to perform their duties, ensuring that evidence is handled appropriately and resident rights are protected.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
