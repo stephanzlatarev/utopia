@@ -91,6 +91,15 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+### Public Safety
+
+To address the inherent risks of relying solely on external state services for emergency response, Utopia implements an Integrated Emergency Response System (IERS). This system provides a robust internal capability for handling incidents ranging from medical emergencies and fires to security threats and infrastructure failures, ensuring the safety of residents is managed proactively from within the city.
+
+The IERS operates on a tiered model:
+*   **Tier 1: Automated Detection & Initial Response.** The city's extensive sensor network, integrated with the core automation AI, detects anomalies in real-time. It can trigger automated responses such as activating fire suppression systems, isolating hazardous areas, rerouting traffic, and dispatching robotic first responders for initial assessment and containment.
+*   **Tier 2: Certified Resident Responders.** As part of the "civil work" program, residents can volunteer for and receive AI-led training and certification in areas like basic first aid, fire containment, and crisis de-escalation. The IERS AI can dispatch the nearest qualified resident responders to an incident, providing them with real-time data and guidance through personal smart devices. This creates a resilient, community-based response network.
+*   **Tier 3: Professional & State Escalation.** For incidents exceeding the capabilities of the internal system, the IERS automatically compiles a detailed incident report and escalates the request to specialized professional services or the external state's emergency services. This ensures that when external help is needed, they arrive with maximum situational awareness, including real-time building schematics and hazard data.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
