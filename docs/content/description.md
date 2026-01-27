@@ -28,6 +28,18 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+### Blueprint Governance Process
+
+To ensure the "Fairness" principle is upheld in practice, the development of the blueprint itself is governed by a transparent and participatory process. While day-to-day administration is automated, the evolution of the rules that guide that automation is a deliberate, community-vetted process. This framework ensures that the developers are not an unaccountable elite, but rather custodians of a process open to all residents.
+
+Any significant change to the blueprint's rules follows these mandatory stages:
+
+1.  **Proposal (Utopia Request for Comment - URC):** Any resident or group of residents can submit a URC. The proposal must clearly define the problem, the proposed rule change, and the expected outcomes.
+2.  **Public Comment Period:** The URC is published to a city-wide forum for a fixed period. All residents can review, discuss, and provide feedback on the proposal.
+3.  **Technical & Ethical Review:** An automated system, supervised by a rotating, randomly-selected panel of citizen-developers, reviews the proposal for technical feasibility, security vulnerabilities, and conflicts with existing rules. A parallel review is conducted by an AI ethics engine and human overseers to flag potential negative social impacts or contradictions with founding principles.
+4.  **Simulation & Impact Assessment:** The proposed change is implemented in a continuously running, full-scale digital twin of the city. The simulation runs for an extended period to model long-term consequences and identify unintended side-effects. The results are made public.
+5.  **Ratification:** If the proposal successfully passes all previous stages and demonstrates a clear benefit with minimal negative impact in the simulation, it is scheduled for integration into the live blueprint. This process prevents any single person or group from unilaterally imposing changes, ensuring the blueprint evolves safely and reflects the collective will and wisdom of the community.
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
