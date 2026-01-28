@@ -21,6 +21,14 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+#### Civic Proposal & Ratification (CPR) Process
+
+To bridge the gap between passive feedback and the high barrier of becoming a blueprint developer, a formal process for local rule amendment is established. This enhances direct democracy and ensures the city's administration remains agile and responsive to the specific needs of its resident community. This process is managed by the city's core automation and unfolds in several stages:
+
+- **Proposal:** Any resident or group of residents can draft a formal proposal to amend a specific, localized rule within the city's operational blueprint. The proposal is submitted through the citizen portal and must clearly state the existing rule, the proposed change, and the rationale.
+- **Deliberation & Simulation:** Once submitted, a proposal enters a time-limited public deliberation phase on a dedicated digital forum. AI moderators facilitate discussion, summarize arguments, and ensure constructive dialogue. Concurrently, the proposed rule change is run through a sandboxed digital twin of the city to simulate its potential impacts on infrastructure, resource allocation, and social metrics. The simulation results are made public to inform the deliberation.
+- **Ratification:** Following the deliberation period, the proposal is put to a city-wide vote. To be ratified and implemented as a local patch to the blueprint, the proposal must achieve a pre-defined supermajority consensus (e.g., 60% approval). This ensures that changes reflect a strong community will, preventing frivolous or divisive amendments.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
