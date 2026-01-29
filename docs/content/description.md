@@ -19,6 +19,14 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Conflict and Dispute Resolution
+
+While major criminal matters and legal disputes are delegated to the state in early-class cities, Utopia provides an internal, multi-tiered framework to manage and resolve the majority of resident-to-resident and resident-to-system conflicts. This ensures timely, proportionate, and fair resolutions without overburdening external authorities. The system is designed to be restorative rather than punitive.
+
+*   **Tier 1: AI-Assisted Negotiation:** For minor disagreements (e.g., conflicting preferences for shared space usage, noise levels), an impartial AI mediator analyzes the situation based on blueprint rules and resident profiles. It suggests several fair, data-driven compromises for the parties to voluntarily accept.
+*   **Tier 2: Community Mediation (Civil Work):** If AI negotiation fails or is inappropriate, the issue can be escalated to a trained community mediator. These are resident volunteers, participating as part of their "civil work," who are certified in conflict resolution techniques. The process is facilitated by the system to ensure fairness and proper documentation.
+*   **Tier 3: Automated Adjudication:** For clear violations of the city blueprint's rules or when mediation fails, the system can initiate a formal adjudication process. It automatically gathers relevant data, allows all parties to submit evidence and statements, and renders a binding decision based on pre-defined regulations. Decisions could range from temporary restrictions on service usage to required participation in educational modules. There is a transparent process for appealing these decisions.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
