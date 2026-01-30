@@ -23,6 +23,24 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Community Justice and Mediation
+
+To ensure the principles of Fairness and Safety are upheld within the city from its inception, Utopia implements a multi-layered Community Justice and Mediation (CJM) framework. This framework is designed to handle interpersonal disputes, community disagreements, and minor infractions internally, prioritizing restorative and rehabilitative outcomes over punitive measures. It evolves in sophistication alongside the city's classification.
+
+*   **Core Principles:**
+    *   **Restorative Justice:** Focus on repairing harm, understanding impact, and reintegrating individuals into the community. The primary question is "What harm was done and how can we make it right?" rather than "What rule was broken and what is the punishment?".
+    *   **Voluntary Participation:** Mediation and restorative circles are voluntary for all parties, aiming for mutually agreed-upon resolutions.
+    *   **Transparency:** The framework's processes and guiding principles are fully documented and accessible to all residents. Anonymized case outcomes are published to inform community norms and blueprint improvements.
+    *   **Proportionality:** The response to a conflict is always proportional to the harm caused.
+
+*   **Evolution through City Classes:**
+    *   **Class U1-U2:** The CJM is facilitated by trained human mediators drawn from residents participating in "civil work." They are guided by an AI-powered platform that provides procedural checklists, legal information from the host state, and case management tools to ensure consistency and fairness.
+    *   **Class U3-U4:** The role of the AI expands to include sentiment analysis and suggesting potential restorative solutions based on successful outcomes from across all Utopia cities. Human mediators remain central to the process, but their capabilities are significantly augmented.
+    *   **Class U5-U6:** As automation matures, the system can handle an increasing number of disputes autonomously, with human oversight for complex and sensitive cases. The AI can act as a neutral third-party mediator in digital disputes or resource allocation conflicts, with all parties able to request human intervention at any stage.
+    *   **Class U7:** The fully mature CJM is a cornerstone of the city's self-governance, capable of handling nuanced ethical dilemmas and ensuring justice that is not only fair and unbiased but also compassionate and context-aware.
+
+This framework ensures that while serious criminal matters may be delegated to the state in early stages, the city fosters a robust internal culture of conflict resolution and mutual responsibility from day one.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
