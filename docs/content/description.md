@@ -30,6 +30,29 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Citizenship
+
+The process of becoming a resident of a Utopia city, and the rights and responsibilities therein, is a cornerstone of its governance. The blueprint must ensure this process is transparent, equitable, and aligns with the city's core principles. The protocol is designed to be adaptable, evolving with the city's class.
+
+#### Onboarding Protocol
+
+The process for an individual or family to become a resident is managed by a dedicated, automated system overseen by a neutral, third-party entity in Classes U1-U4, and by the inter-city Utopia network in U5 and above.
+
+1.  **Expression of Interest:** Prospective residents submit an expression of interest through a global portal. This application gathers no discriminatory personal data (e.g., race, wealth, origin) but focuses on an individual's understanding of and alignment with Utopia's principles.
+2.  **Needs-Based Prioritization & Lottery:** To ensure fairness and manage demand, the selection process combines two factors:
+    *   **Prioritization:** A weighted system gives preference to individuals in dire situations, such as refugees or those displaced by climate change, reflecting Principle 03 (Needs). This approach is informed by resettlement frameworks used by organizations like the UNHCR.
+    *   **Lottery:** For the remaining open slots, a cryptographically secure, publicly verifiable lottery system is used to ensure unbiased selection among all other applicants.
+3.  **Integration Period:** New residents undergo a mandatory orientation and integration period. This includes education on the city's operational systems, the philosophy behind the principles, and opportunities for "civil work" to foster community connection. This model is inspired by the structured onboarding processes of established intentional communities like Findhorn Ecovillage.
+
+#### Residency Status & Exit Protocol
+
+*   **Residency:** Residency is a right, not a conditional privilege. Once accepted, a resident is guaranteed all provisions as per the city's class.
+*   **Freedom to Leave:** In accordance with Principle 06 (Freedom), any resident may choose to leave the city at any time. The administration will provide logistical support for a smooth transition, including transfer of any personal property and luxury market assets. No penalties or restrictions are placed on those who choose to depart.
+
+> **Sources for Consideration:**
+> *   UNHCR Resettlement Handbook. (for needs-based selection frameworks).
+> *   Findhorn Foundation. "Experience Week". (for structured community integration models).
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
