@@ -26,6 +26,19 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+### Principle 05 Addendum: The Creative Capital (CC) System
+
+To facilitate a vibrant and fair market for luxuries, Utopia implements an internal micro-economy powered by a digital token called Creative Capital (CC). This system is designed to reward contribution and enable the exchange of goods and services that fall outside the guaranteed standard of living.
+
+*   **Earning CC:** Residents earn Creative Capital in several ways:
+    *   **Basic Creative Stipend:** A small, recurring allocation is given to all residents to encourage participation and provide seed 'capital' for personal projects.
+    *   **Peer-to-Peer Exchange:** The primary method is through providing luxury goods (e.g., art, custom-crafted items) or services (e.g., personalized coaching, unique entertainment) to other residents in exchange for their CC.
+    *   **Community & Blueprint Contribution:** The city's automation awards CC for valuable contributions, such as developing modules for the city blueprint, solving community-identified challenges, or significant acts of civil work.
+*   **Spending CC:** Creative Capital can be used to:
+    *   Acquire luxury goods and services from other residents.
+    *   Requisition non-standard resources or advanced fabrication time from the city's automated systems for personal projects.
+*   **Purpose:** The CC system ensures that the luxury economy is not based on pre-existing wealth but on current, ongoing contribution and creativity. It provides a motivational framework for residents to engage their skills and passions for the benefit of themselves and the community, preventing economic stagnation.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
