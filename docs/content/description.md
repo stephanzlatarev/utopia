@@ -30,6 +30,27 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+To ensure a fair and safe society, Utopia will implement a transparent and accessible justice system for resolving disputes and conflicts among residents and between residents and the city administration. This system is designed to evolve alongside the city's technological and social maturity, always grounded in the core principles of fairness, transparency, and restorativeness. The system will be developed in line with established ethical guidelines for AI in justice, such as the Council of Europe's Ethical Charter on the Use of AI in Judicial Systems.
+
+Our justice framework is structured in three tiers:
+
+*   **Tier 1: AI-Assisted Mediation and Restorative Justice**
+    For minor interpersonal disagreements and disputes, residents will have access to a voluntary AI-powered mediation platform. This system will facilitate communication, help identify common ground, and suggest mutually agreeable solutions. The focus will be on restorative practices that aim to repair harm and rebuild relationships within the community.
+
+*   **Tier 2: Community Council Review**
+    For more complex disputes or when mediation fails, cases can be brought before a Community Council. This council will consist of a panel of randomly selected resident volunteers, who serve for a limited term. An AI legal advisor will assist the council by providing relevant information, analyzing precedents, and ensuring procedural fairness, but the final decision will be made by the human council members, fostering civic engagement and shared responsibility.
+
+*   **Tier 3: Formal Automated Adjudication with Human Oversight**
+    For serious violations of community principles or when other tiers are inappropriate, a formal adjudication process is available. An advanced AI system, operating on a transparent and auditable rule-based logic, will adjudicate the case. Crucially, all decisions made by this tier are subject to appeal to a human oversight board, ensuring a final check against purely algorithmic judgment and preventing miscarriages of justice.
+
+**Evolution through City Classes:**
+
+-   **Class U1-U3:** The justice system will rely heavily on human-led Community Councils (Tier 2), with the state's legal system as the ultimate arbiter, as described in the 'State rule' section.
+-   **Class U4-U5:** The AI-Assisted Mediation (Tier 1) and Formal Automated Adjudication (Tier 3) systems will be introduced and refined. The reliance on external state systems will be progressively reduced as the internal system proves its effectiveness and fairness.
+-   **Class U6-U7:** The system will be fully mature and operate independently of any external state. The AI components will be highly sophisticated, but the principles of human oversight and community involvement through councils will remain central to the system's design, guaranteeing that justice in Utopia remains fundamentally human.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
