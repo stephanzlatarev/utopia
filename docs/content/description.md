@@ -62,6 +62,17 @@ All residents have full access to the resources and services to cover their need
 They are guaranteed to not need to enter survival mode.
 This will encourage them to seek higher standard of living and greater purpose.
 
+### Safety and Security
+
+While the city's design focuses on preventing incidents, preparedness for large-scale emergencies is critical for ensuring resident safety. To address this, Utopia will implement the **Automated Emergency Resilience and Recovery Protocol (AERRP)**, a comprehensive framework to manage catastrophic events where core automation may be compromised or completely offline.
+
+Key components of the AERRP include:
+
+*   **Decentralized Failsafe Systems:** Critical infrastructure, including residential blocks, medical facilities, and water treatment plants, will be equipped with independent, hardened microgrids and local control systems. These are designed to automatically disconnect from the central grid upon detecting a catastrophic failure and provide essential life-support functions (basic climate control, water, emergency lighting) autonomously.
+*   **Civilian Emergency Corps (CEC):** A voluntary program, integrated with the 'civil work' principle, where residents are trained and certified in essential manual skills. This includes advanced first aid, manual operation of critical infrastructure (e.g., water pumps, door overrides), resource distribution, and search and rescue. In an emergency, the CEC provides a structured, skilled human response network.
+*   **Redundant Communication Network:** A low-bandwidth, encrypted, and physically hardened secondary communication network will operate independently of the primary city-wide network. This ensures that emergency alerts, CEC mobilization commands, and critical status updates can be transmitted even during a total network collapse.
+*   **Strategic Resource Caches:** Pre-positioned, environmentally sealed caches containing non-perishable food, potable water, medical supplies, and basic tools will be located throughout the city. These caches will be accessible via simple, non-electronic manual overrides known to CEC members and documented in offline guides available in every residential unit.
+
 ### Shelter
 
 Shelter is provided by residential buildings in the personal spaces.
