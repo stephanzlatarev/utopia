@@ -30,6 +30,28 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Community Safety and Conflict Resolution
+
+To ensure the safety and well-being of all residents and to bridge the operational gap before Class U6, Utopia implements a tiered internal system for safety, emergency response, and conflict resolution. This system is designed to handle issues internally whenever possible, reflecting the city's principle of fairness and self-governance, while maintaining a clear protocol for escalating to state-level authorities when necessary.
+
+This approach is grounded in principles of Restorative Justice, which focuses on mediation and reconciliation rather than punitive measures. The goal is to repair harm and restore relationships within the community. (Source: Centre for Justice and Reconciliation, "Tutorial: Introduction to Restorative Justice", http://restorativejustice.org/restorative-justice/about-restorative-justice/)
+
+The system operates on three primary levels:
+
+*   **Level 1: Automated & Self-Resolution Tools**
+    *   For minor interpersonal or resource-related disputes (e.g., noise complaints, shared space disagreements), residents have access to AI-powered mediation platforms.
+    *   These tools provide neutral, guided communication frameworks to help parties reach a mutually agreeable resolution without formal intervention. The system logs agreements to ensure accountability.
+
+*   **Level 2: Community Mediation & Restorative Circles**
+    *   For conflicts requiring human nuance, residents can engage trained volunteer mediators from the community (as a form of "civil work").
+    *   These facilitated sessions, often in the form of restorative circles, allow all affected parties to voice their perspectives and collaboratively determine a path to repair the harm caused.
+
+*   **Level 3: Emergency & Safety Response Team (ESRT)**
+    *   Utopia maintains its own internal, professionally trained first responders for immediate crises such as medical emergencies, fires, and acute safety threats.
+    *   This team is equipped to stabilize situations and is the designated liaison with external state agencies (e.g., police, advanced medical transport). They handle the formal reporting of incidents that fall under state jurisdiction, ensuring a clear and efficient line of communication and protecting resident privacy.
+
+This tiered system evolves with the city's classification. In early-class cities, it may rely more on human volunteers and basic systems, while higher-class cities will see increasing sophistication in AI assistance and automated response capabilities.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
