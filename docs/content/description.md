@@ -50,6 +50,8 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+*   **Personalization through 'Creative Skins':** To combat uniformity and foster personal expression, MARS modules are equipped with 'Creative Skins.' These are interior surfaces made of smart materials (e.g., full-wall E-ink displays, programmable bio-luminescent materials) that residents can digitally customize. This allows for real-time changes to color, texture, and imagery, turning a standardized space into a unique, personalized home that reflects the resident's identity and mood.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
