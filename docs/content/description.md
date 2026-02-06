@@ -56,6 +56,14 @@ The city manages its resources in a way to provide for the physiological needs o
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
 
+### Emergency Preparedness & Response
+
+While automation is designed for optimal performance and safety, the city recognizes the need for robust contingency plans for unforeseen, large-scale emergencies (e.g., natural disasters, systemic failures, security threats). To ensure resident safety and psychological well-being during such events, Utopia implements a human-centric fallback system.
+
+*   **Citizen Emergency Response Corps (CERC):** A volunteer-based corps of residents trained in essential emergency skills such as first aid, search and rescue, logistics, and crisis communication.
+*   **Decentralized Command:** In a crisis scenario where primary automation is compromised, a pre-defined, decentralized human command structure is activated. CERC members are alerted and organized into local teams to manage on-the-ground response, ensuring every neighborhood has immediate human support.
+*   **Regular Drills:** The city's automation facilitates regular, non-disruptive emergency drills to ensure the CERC is prepared and protocols are effective, giving residents confidence in the system. This system is designed to provide emotional reassurance and a tangible sense of security, knowing that in the worst-case scenario, the community is prepared to help itself.
+
 Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
 
 All residents have full access to the resources and services to cover their needs.
