@@ -94,3 +94,20 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Justice and Conflict Resolution
+
+To ensure fairness, safety, and social cohesion, Utopia implements a transparent and tiered system for resolving disputes and conflicts. This system is designed to evolve alongside the city's technological and social maturity, prioritizing restorative outcomes over punitive measures.
+
+The core principles of Utopian justice are:
+- **Transparency:** All rules, processes, and a non-personal, anonymized record of decisions are publicly accessible.
+- **Restorative Focus:** The primary goal is to repair harm and restore relationships within the community, rather than to simply punish offenders. This approach is inspired by established principles of restorative justice. (Source: Centre for Justice & Reconciliation)
+- **Accessibility:** The system is designed to be easily understood and used by all residents, with AI-powered assistance to guide users through the process.
+- **Right to Appeal:** All decisions made by automated or human-led processes are subject to an appeals process to ensure accountability and prevent errors.
+
+#### Phased Implementation:
+
+- **Class U1-U3 Cities:** All criminal matters and serious civil disputes fall under the jurisdiction of the host state, with a clear protocol for cooperation between city administration and state law enforcement. For internal, minor disputes (e.g., disagreements over shared space usage), the city provides a voluntary mediation service staffed by trained residents (as part of 'civil work') and supervised by the hosting company.
+- **Class U4-U5 Cities:** The city introduces an internal, automated Adjudication System for violations of the city's operational rules. This system handles infractions through a tiered response, from warnings to temporary restriction of access to non-essential services. All decisions can be appealed to a Resident Oversight Committee, a rotating body of citizens performing 'civil work'. State jurisdiction for serious crimes remains, but the city's internal systems handle most community-level issues.
+- **Class U6-U7 Cities:** The "advanced automation" for conflict resolution is implemented as an AI-assisted Restorative Justice System. The AI does not pass judgment but acts as an impartial facilitator. It gathers facts, identifies the harm caused, and facilitates dialogue between affected parties to collaboratively determine a path to resolution. For cases where resolution is not possible or a serious violation has occurred, the case is presented to a randomly selected jury of residents who make the final determination, ensuring human-centric judgment remains at the core of the justice system.
