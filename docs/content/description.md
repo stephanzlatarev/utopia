@@ -94,3 +94,12 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+## Transportation
+
+Utopia features a fully automated, multi-layered Integrated Personal & Public Transit (IPPT) Network designed for efficiency, safety, and seamless integration with the city's architecture. The system eliminates traditional road traffic, freeing ground-level space for parks, pedestrian zones, and community activities. The network operates on three primary levels:
+
+*   **Subterranean Logistics Layer:** A dedicated network for the silent, automated transport of goods, supplies, waste management, and maintenance bots. This ensures that the residential and public spaces remain uncluttered and peaceful.
+*   **Pedestrian-Centric Ground Level:** The surface of the city is primarily reserved for walking, cycling, and other forms of personal mobility. It is rich with green spaces, public art, and community gathering areas, promoting a healthy and social lifestyle.
+*   **Elevated Pod Network:** Personal, group, and public transport occurs on an elevated network of guideways. Residents can summon autonomous, electric pods on-demand directly to docking stations integrated within their MARS residential units or at public hubs. Specialized pods are reserved for emergency services, ensuring unobstructed, high-speed access to any location within the city.
