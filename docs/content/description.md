@@ -94,3 +94,22 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+
+## Energy
+
+To power its extensive automation and guarantee residents' needs, Utopia is built upon a resilient, sustainable, and intelligent energy infrastructure. The system is designed for self-sufficiency and operational continuity, reflecting the core principle of automation and security.
+
+### Grid Architecture
+Utopia employs a Decentralized Smart Grid composed of interconnected microgrids. Each residential block, industrial zone, or public space cluster operates as a distinct microgrid capable of functioning autonomously (islanding) if disconnected from the main grid. This modular architecture, managed by the city's core AI, prevents cascading failures and ensures that localized faults do not lead to city-wide blackouts.
+
+### Energy Generation
+A hybrid generation strategy is utilized to ensure a reliable and clean power supply:
+*   **Localized Renewables:** Building facades, roofs, and public infrastructure are integrated with high-efficiency photovoltaic materials and small-scale wind turbines to meet a significant portion of local demand.
+*   **Baseload Power:** A central, high-density, clean energy source, such as a Small Modular Reactor (SMR) or a deep geothermal plant, provides consistent and reliable baseload power for the entire city. This facility is located in a secured, specialized zone to ensure safety and operational efficiency.
+
+### Energy Storage
+To balance energy supply and demand, a multi-layered energy storage system is integrated throughout the city:
+*   **Short-Term Storage:** Battery systems are embedded within individual residential modules and buildings to manage immediate fluctuations and provide backup power.
+*   **Community-Level Storage:** Larger capacity storage, such as flow batteries or compressed air energy storage, is deployed at the microgrid level to store surplus energy for several hours or days, ensuring stability during periods of low generation.
