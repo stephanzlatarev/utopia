@@ -11,6 +11,18 @@ In order to ensure that the city reflects the needs and preferences of its resid
 
 The city is governed by automated rules that are provided with the blueprint.
 
+### Ethical Framework for Automation and Data Governance
+
+To ensure the city's automation operates in a manner that is fair, transparent, and aligned with human values, all systems are built upon a clear ethical framework. This framework is not merely a guideline but is encoded as a set of constraints and objectives within the automation's core logic. It is subject to continuous public audit and is a primary focus of blueprint development.
+
+The core principles of this framework include:
+
+*   **Human-centricity and Agency:** The automation is a tool to serve human needs and enhance human potential. Residents must have ultimate control over their personal data and the ability to understand, question, and override automated decisions that directly affect them, ensuring the system remains a servant, not a master.
+*   **Privacy and Data Protection:** All resident data is treated as a personal asset. Data collection is minimized to what is necessary for service provision ("data minimization"). All data is anonymized and encrypted wherever possible, and residents have a clear, simple interface to manage consent and view exactly how their data is being used. This approach is inspired by frameworks like the GDPR.
+*   **Transparency and Explainability (XAI):** The logic behind any significant automated decision (e.g., resource allocation, housing reconfiguration) must be explainable to the residents it affects. The city will implement and maintain "Explainable AI" (XAI) systems that can articulate their reasoning in plain language.
+*   **Fairness and Non-discrimination:** The blueprint undergoes rigorous, continuous testing to identify and mitigate biases in data sets and algorithms. This is crucial to prevent the automation from perpetuating or amplifying historical societal inequalities. Proactive algorithmic audits are regularly conducted by independent third-party modules within the open-source community.
+*   **Accountability and Recourse:** Clear protocols exist for addressing failures or harms caused by the automation. This includes a simple process for residents to appeal automated decisions and a dedicated branch of the blueprint development community responsible for investigating incidents and deploying corrective patches.
+
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
 
 Citizens do not vote on policies, laws and rules. However, they can influence the administration and development of their city in a few ways:
