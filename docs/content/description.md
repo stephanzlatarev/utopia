@@ -23,6 +23,18 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Blueprint Innovation Pipeline
+
+To ensure that innovation is both encouraged and managed safely, a structured process governs the lifecycle of any proposed change to the city blueprint. This automated pipeline provides a transparent and controlled path from idea to implementation, ensuring stability and encouraging resident participation.
+
+The pipeline consists of the following stages:
+1.  **Ideation & Submission:** Residents submit ideas for improvements, bug fixes, or new features through the city's feedback portal, as previously described.
+2.  **AI-Assisted Triage:** The system automatically analyzes submissions for feasibility, checks for duplicate proposals, and categorizes them based on impact and required resources.
+3.  **Community Vetting:** Proposals are made public for community discussion, support, and upvoting. This transparent process helps the system prioritize initiatives that have strong resident backing.
+4.  **Sandbox Development:** Approved proposals are assigned to a "Sandbox"—a complete digital twin of the city. Here, developers (either core blueprint maintainers or interested residents) can build and test the new feature in a simulated environment without any risk to the live city.
+5.  **Controlled Rollout:** Once a feature is validated in the Sandbox, it is deployed in controlled stages. It may be released to a small volunteer group (a "beta test") or a single district to monitor real-world performance and gather feedback.
+6.  **Full Integration:** Following a successful controlled rollout, the change is integrated into the master blueprint for city-wide deployment during a scheduled maintenance cycle.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
