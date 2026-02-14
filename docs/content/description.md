@@ -94,3 +94,13 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+
+### Water
+
+The city ensures a perpetual and high-quality water supply through a Smart Integrated Water Cycle System. This automated, closed-loop system operates on the principles of generation, purification, and total recycling, making the city fully water self-sufficient.
+
+*   **Decentralized Sourcing:** Water is sourced sustainably from a combination of atmospheric water generators (AWGs) that pull moisture from the air and extensive rainwater harvesting infrastructure. This removes any dependency on external sources like rivers or aquifers, making the city resilient to drought.
+*   **Advanced Purification & Recycling:** All wastewater, including both greywater from sinks and showers and blackwater from toilets, is collected and routed to automated treatment facilities. A multi-stage process involving nano-filtration, UV sterilization, and re-mineralization purifies the water to a standard far exceeding conventional drinking water, ensuring 100% of the city's water is recycled.
+*   **AI-Powered Smart Grid:** A network of real-time sensors monitors water quality, pressure, and flow throughout the city. The AI administration uses this data to dynamically manage the grid, predict demand, detect and isolate leaks for robotic repair, and instantly reroute water to prioritize critical needs, such as for firefighting or healthcare facilities.
