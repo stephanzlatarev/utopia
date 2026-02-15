@@ -71,6 +71,17 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+Utopia implements an Intelligent Water Cycle & Personalization (IWCP) system to guarantee an inexhaustible and optimal supply of water for all residents and city functions.
+
+*   **Closed-Loop Sourcing:** The system primarily sources water through atmospheric water generation (AWG) and the comprehensive recycling of all greywater and blackwater. This creates a fully self-sufficient and climate-resilient water supply, eliminating dependence on external sources like rivers or aquifers and making the city's water footprint negligible.
+*   **Hyper-Purification:** All collected water undergoes a multi-stage purification process, including advanced filtration, reverse osmosis, and ultraviolet sterilization, to exceed the standards for medical-grade purity. This ensures the complete removal of all contaminants, microplastics, and pathogens.
+*   **Personalized Mineralization:** Following purification, the water is re-mineralized. The automation system, referencing resident health profiles and dietary needs, adds a tailored blend of essential minerals and electrolytes. This turns basic hydration into a proactive wellness tool, seamlessly integrated with the city's personalized healthcare and nutrition programs.
+*   **Real-time Monitoring:** A network of sensors continuously monitors water quality throughout the entire system, from source to tap, ensuring safety and optimal composition at all times. The automation instantly addresses any anomalies, guaranteeing the system's integrity and reliability.
+
+This approach transforms water from a simple utility into a cornerstone of resident health and urban sustainability.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
