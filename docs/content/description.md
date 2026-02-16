@@ -93,4 +93,15 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+### Resource Circulation
+
+To ensure long-term environmental sustainability and support the principle of self-sufficiency, Utopia implements an Integrated Circular Economy Framework. This system is designed to eliminate waste and create closed-loop cycles for all resources within the city.
+
+*   **Automated Waste-to-Resource Management:** All spaces are equipped with automated, multi-stream waste segregation systems. Collected materials (organic, plastics, metals, glass, e-waste) are transported to centralized processing facilities where robotic sorting and advanced recycling technologies are employed.
+*   **Closed-Loop Systems:**
+    *   **Water:** All wastewater is collected, purified, and recycled through a closed-loop reclamation system, meeting or exceeding potable water standards and reducing external water dependency to near-zero.
+    *   **Organics:** Food and other biological waste are processed via anaerobic digestion and composting, producing biogas for energy generation and nutrient-rich substrate for the city's automated food production systems (e.g., vertical farms).
+    *   **Materials:** End-of-life products, including MARS modules and obsolete automation components, are disassembled. Materials like metals, glass, and complex polymers are reclaimed through processes like pyrolysis and urban mining, providing raw feedstock for the city's manufacturing and 3D-printing facilities.
+*   **Digital Product Passport:** All goods provided by the city or sold in the free market are required to have a digital passport. This passport contains factual data on material composition, disassembly instructions, and recyclability, enabling the automation to efficiently manage the product's entire lifecycle.
+
 All residents have access to video and audio communication, the internet, AI assistance.
