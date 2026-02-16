@@ -19,6 +19,19 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Community Resolution
+
+While major criminal matters and complex legal disputes are delegated to the host state's jurisdiction (in city classes U1-U5), a robust internal system is necessary to handle interpersonal disagreements, civil disputes, and rule violations. This prevents minor issues from escalating and empowers the community to maintain a harmonious environment. Utopia implements a Tiered Community Resolution System to ensure responses are proportionate and constructive.
+
+*   **Tier 1: Automated Mediation**
+    For minor disputes (e.g., noise complaints, disagreements over use of shared spaces), residents can initiate a request through the city's administration portal. An AI-driven mediation tool facilitates anonymous or direct communication between the involved parties, suggests compromises based on the city blueprint's rules and principles, and logs the agreed-upon resolution. The goal is de-escalation and mutual understanding.
+
+*   **Tier 2: Community Arbitration (Civil Work)**
+    If automated mediation fails or for more complex non-criminal issues (e.g., disputes over custom module configurations in shared housing, disagreements within the luxury market), the issue can be elevated to community arbitration. This process is handled by a panel of trained resident volunteers as part of their 'civil work'. Guided by an AI facilitator to ensure fairness and adherence to the blueprint, the panel reviews the case and provides a binding resolution based on community standards and principles of restorative justice.
+
+*   **Tier 3: Formal Escalation Protocol**
+    Only when an issue is determined to be of a criminal nature as defined by state law, or if internal resolution fails and contravenes the foundational rights of a resident, is it formally and immediately escalated to the appropriate state authorities. This process is governed by a clear, automated protocol to ensure swift and proper handover, providing all necessary impartial data logs to the external authorities.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
