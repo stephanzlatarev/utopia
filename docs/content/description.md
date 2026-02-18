@@ -71,6 +71,16 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+To guarantee a secure, sustainable, and high-quality water supply, Utopia implements an Integrated and Resilient Water Cycle Management System. This system operates as a closed loop, minimizing external dependencies and environmental impact, and is automated to ensure consistent quality and availability.
+
+#### Key Features:
+*   **Source Diversification:** The primary water source is Atmospheric Water Generation (AWG), supplemented by a rainwater harvesting network. This ensures independence from traditional sources like rivers or aquifers, making the city resilient to drought and ground-source contamination.
+*   **Real-Time Quality Monitoring:** A network of IoT sensors continuously monitors water quality at every stage, from generation to the point of use. The system tests for a comprehensive range of physical, chemical, and biological parameters, ensuring water purity exceeds World Health Organization (WHO) standards. All data is transparently available to residents in real-time.
+*   **Wastewater Recycling & Reclamation:** All wastewater is categorized into greywater (from sinks, showers) and blackwater (from toilets). Greywater is treated and recycled for non-potable uses like irrigation for parks and vertical farms. Blackwater is processed through advanced bio-reactors to reclaim water and extract nutrients, creating a circular economy.
+*   **Dedicated Emergency Reserves:** The system maintains dedicated, decentralized water reserves sufficient to support the city's critical functions, including firefighting and hospital needs, for a minimum of 7 days without new water generation. Water pressure and access points (hydrants) are integrated into the city's emergency response automation.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
