@@ -94,3 +94,32 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Justice and Conflict Resolution
+
+To ensure a safe, fair, and harmonious society, Utopia cities will implement a multi-layered and evolving Justice and Conflict Resolution Framework. This framework is designed to be restorative rather than punitive, focusing on repairing harm, fostering understanding, and promoting community cohesion. The system will evolve alongside the city's technological and social maturity.
+
+#### Early-Stage Cities (Class U1-U3)
+
+In early-stage cities, the framework will be a hybrid model that combines reliance on the host state's legal system with community-led initiatives:
+
+*   **State Law as a Backstop:** For serious crimes and disputes beyond the scope of community resolution, the city will defer to the jurisdiction and legal processes of the state in which it operates.
+*   **Community Mediation and Restorative Circles:** For interpersonal conflicts, minor disputes, and violations of community norms, the city will facilitate voluntary mediation and restorative justice circles. These will be guided by trained human facilitators, with the goal of achieving mutual understanding and agreed-upon resolutions.
+*   **AI-Assisted Support:** Early-stage AI tools will be used to provide residents with legal information, connect them with mediation services, and help document cases and agreements in a secure and transparent manner.
+
+#### Mid-Stage Cities (Class U4-U5)
+
+As the city's automation capabilities advance, the justice system will become more integrated and proactive:
+
+*   **Integrated Digital Justice Platform:** A transparent and auditable digital platform will be established for managing cases, from reporting to resolution. The AI will assist in evidence analysis and identifying patterns of conflict to enable early intervention.
+*   **Human-in-the-Loop Adjudication:** While automation will handle administrative tasks, all significant decisions, especially those involving sanctions or liberty, will be made by a panel of trained human residents or professional adjudicators. An appeals process to a higher human authority will be guaranteed.
+*   **Focus on Rehabilitation:** The system will prioritize rehabilitation and reintegration over punishment. AI-powered personalized programs for education, skill development, and mental health support will be available to individuals who have caused harm.
+
+#### Mature-Stage Cities (Class U6-U7)
+
+In fully mature, stateless Utopia cities, the justice system will be a highly sophisticated, yet humane, automated system with robust human oversight:
+
+*   **AI-Facilitated Restorative Justice:** Advanced AI will be capable of facilitating complex restorative justice processes, analyzing ethical dilemmas, and proposing fair and compassionate resolutions based on the city's founding principles. The AI will act as a neutral facilitator, not a judge.
+*   **Judicial Oversight Council:** A council of residents, selected for their wisdom and commitment to the city's principles, will provide continuous oversight of the automated justice system. They will have the power to review and amend the system's rules, audit its decisions, and intervene in exceptional cases.
+*   **Dynamic and Learning System:** The justice system will be a constantly learning system, adapting its processes based on feedback from the community and the outcomes of past cases to become more effective and just over time.
