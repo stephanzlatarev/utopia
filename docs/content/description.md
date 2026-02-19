@@ -21,6 +21,22 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Conflict and Dispute Resolution
+
+While the city's design aims to minimize sources of conflict by removing resource scarcity, it recognizes that interpersonal and systemic disputes are an inevitable part of any community. To address this in a humane and effective manner, and to avoid overburdening state systems with internal matters, Utopia implements a tiered Conflict Resolution Framework. This system is designed to handle issues at the lowest possible level, empowering residents and preserving community cohesion.
+
+*   **Tier 1: Automated Mediation**
+    For clear-cut rule violations or resource allocation conflicts detected by the system (e.g., excessive noise levels, disputes over shared space scheduling), the automation will first act as a neutral mediator. It will issue alerts to the involved parties, present the relevant blueprint rules, and propose a set of pre-defined, equitable solutions.
+
+*   **Tier 2: Community Ombuds Service**
+    For more complex interpersonal disputes that automated mediation cannot solve, residents can voluntarily request assistance from the Community Ombuds Service. This service consists of fellow residents who have opted into this form of 'civil work' and have been trained in mediation, active listening, and restorative justice practices (supported by AI guidance tools). The goal of an Ombuds is not to pass judgment but to facilitate dialogue and help residents find mutually agreeable solutions.
+
+*   **Tier 3: Systemic Issue Review**
+    When a resident has a dispute with the city's automation itself (e.g., an unfair resource allocation, a malfunctioning service, a perceived bias in an algorithm), they can file a formal grievance. This is automatically routed to the blueprint developers for technical review. Simultaneously, a resident advocacy group, as part of 'civil work', can help the individual document their case and ensure it receives proper attention.
+
+*   **Tier 4: Escalation to State Rule**
+    Only when an issue involves serious criminal activity (e.g., violence, theft of luxury goods) or when all internal tiers of resolution have been exhausted without success, is the matter formally delegated to the state's legal and judicial systems. This ensures that state intervention is reserved for situations that truly require it, respecting the city's autonomy and the state's resources.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
