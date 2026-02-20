@@ -30,6 +30,22 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Safety and Justice
+
+To ensure the safety, security, and well-being of all residents, Utopia implements a multi-layered and evolving system for emergency response and conflict resolution. This system is designed to be responsive, fair, and integrated with the city's automation, while acknowledging the need for human judgment and empathy, especially in early-stage cities.
+
+#### Emergency Response Services (ERS)
+The ERS is a unified system for fire, medical, and rescue emergencies. Its structure evolves with the city's classification:
+*   **Class U1-U2:** ERS is operated by human professionals (e.g., firefighters, paramedics) as part of the hosting company's services. They utilize advanced equipment and AI-driven predictive analytics for risk assessment and resource dispatch.
+*   **Class U3-U4:** The city integrates automated first responders (e.g., fire-suppression drones, medical delivery bots) that work alongside human ERS teams. Residents are encouraged to participate in ERS through "civil work" as trained community responders.
+*   **Class U5+:** A fully automated ERS network handles most incidents. Highly specialized human teams remain on standby to manage novel or complex crisis scenarios that fall outside the automation's parameters.
+
+#### Conflict Resolution and Community Safety
+The blueprint rejects traditional punitive law enforcement in favor of a restorative justice model focused on mediation, restitution, and social cohesion.
+*   **Class U1-U3:** The city employs professional human mediators and social workers to address interpersonal disputes. For acts that cause significant harm and fall under state law, the city cooperates with state authorities while providing support services to all affected parties.
+*   **Class U4-U5:** The system transitions to an AI-assisted model. The AI provides impartial case analysis, suggests restorative actions based on precedent, and facilitates communication. Human mediators make the final decisions, ensuring empathy and context are considered. This system operates as the primary internal justice framework.
+*   **Class U6+:** In state-independent cities, a highly advanced AI serves as an impartial adjudicator for most disputes, with its logic and decisions being fully transparent and auditable by residents. A council of human ethicists and mediators, chosen through a rotating, voluntary basis, reviews and refines the AI's ethical subroutines and handles exceptional appeal cases.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
