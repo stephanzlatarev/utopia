@@ -30,6 +30,22 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+## Safety and Conflict Resolution
+
+To fulfill the guarantee of safety needs, and to provide a clear path to state independence, Utopia implements an integrated, automated system for managing everything from minor disputes to major emergencies. This Automated Justice and Emergency Response System (AJERS) is designed to be fair, transparent, and immediate.
+
+### Tier 1: Automated Mediation
+For interpersonal and minor civil disputes, residents can access an AI-driven mediation platform. The system facilitates communication, identifies points of agreement, and proposes fair, non-binding resolutions based on the city's operational rules and ethical principles. The goal is restorative justice and reconciliation, not punishment.
+
+### Tier 2: Code and Rule Enforcement
+Automated systems monitor public spaces to ensure operational rules are followed, guaranteeing fair access and use for all residents. In case of minor infractions (e.g., improper disposal of materials, misuse of a public facility), the system will issue a notification and guidance. Persistent issues may lead to temporary, automated restrictions on access to the specific service being misused, with a clear process for appeal and restoration.
+
+### Tier 3: Emergency Response
+For immediate threats to health and safety, the AJERS provides a rapid, automated response:
+- **Medical Emergencies:** Health sensors in personal and public spaces can detect falls, cardiac events, or other crises, automatically dispatching medical drones with supplies and teleporting remote medical experts to assist until automated transport arrives.
+- **Fire Suppression:** All modules and public structures are equipped with advanced, localized fire detection and suppression systems that can extinguish fires in seconds without causing widespread water damage.
+- **Security Threats:** In the rare event of physical violence, automated security drones are dispatched to de-escalate the situation using non-lethal containment methods. They create safety barriers, document events, and ensure the safety of all residents while initiating a Tier 1 or state-level resolution process, depending on the city's Class.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
