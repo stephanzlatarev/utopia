@@ -84,6 +84,14 @@ The city provides a personalized diet to every individual resident based on thei
 
 ### Healthcare
 
+### Waste Reclamation & Resource Synthesis
+
+To ensure a pristine environment and achieve maximum resource efficiency, Utopia integrates an Automated Waste Reclamation & Resource Synthesis (AWRRS) system. This system redefines waste as a valuable resource, forming the backbone of the city's circular economy.
+
+*   **Seamless Collection:** All spaces—personal, group, and public—are equipped with multi-stream disposal chutes connected to a city-wide pneumatic tube network. This makes waste disposal instantaneous, hygienic, and invisible to residents, eliminating the need for manual collection and surface-level garbage transport.
+*   **Intelligent Sorting:** Waste is transported to centralized processing facilities where AI-driven robotic systems sort materials with molecular-level precision. This far exceeds the capabilities of human sorting, allowing for the perfect separation of organics, metals, polymers, and complex composites.
+*   **Resource Synthesis:** Sorted materials are channeled into advanced reclamation processes. Organic matter is converted into nutrient-rich soil and biofuel in automated bioreactors. Other materials are broken down to their basic chemical components through processes like molecular recycling and plasma gasification, providing purified raw materials for the city's automated manufacturing systems. This closed-loop process dramatically reduces the need for virgin resource extraction and supports the city's goal of self-sufficiency.
+
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
 All spaces are designed to minimize incidents, including industrial and traffic-related risks.
 There is a clear focus on prevention of health problems.
