@@ -21,6 +21,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Preference and Needs Resolution Framework
+
+To ensure the automation governs equitably and avoids conflicts arising from a simplistic interpretation of 'preferences,' a hierarchical framework is used to process resident input. This model is inspired by deliberative democratic processes and multi-criteria decision analysis, ensuring that the automation prioritizes foundational needs over transient wants. (Source: Concepts adapted from James S. Fishkin's work on Deliberative Polling and the application of Multi-Criteria Decision Analysis in public policy).
+
+The framework is structured in three tiers:
+
+1.  **Tier 1: Core Needs & Rights:** This is the highest priority level. It encompasses the universal requirements outlined in the 'Basic Needs' section (shelter, safety, nutrition, healthcare) and fundamental rights such as accessibility and personal security. These are non-negotiable parameters, and the automation will never allow a lower-tier preference to compromise them. For example, a preference for aesthetic design cannot override the requirement for wheelchair accessibility.
+
+2.  **Tier 2: Declared Community Values:** These are collective goals and rules established through a managed, AI-facilitated deliberative process. Residents can propose, discuss, and signal their support for city-wide values (e.g., sustainability targets, noise level regulations, designation of quiet zones, focus on biodiversity in parks). The automation aggregates this input to establish operational policies that apply to all, providing a mechanism for community-level self-determination without direct voting on every issue.
+
+3.  **Tier 3: Personal Preferences:** This tier includes individual and group desires that do not conflict with Tiers 1 or 2. This is where the 'restaurant menu' analogy applies most directly: personalization of one's own living space (MARS configuration), dietary choices, recreational activities, and consumption of standard-of-living services. When personal preferences conflict (e.g., two residents wanting the same limited resource), the automation will use transparent, pre-defined principles of fairness, such as queuing, rotation, or negotiation facilitated by an AI mediator.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
