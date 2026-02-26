@@ -30,6 +30,20 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+To ensure personal safety and social harmony, Utopia implements a transparent, multi-tiered system for resolving disputes and addressing transgressions, evolving in sophistication with the city's class. The system is founded on principles of restorative justice, which prioritizes repairing harm and reintegrating individuals into the community over punitive measures. This approach is informed by real-world restorative justice practices, which have been shown to increase victim satisfaction and reduce recidivism (Source: Centre for Justice & Reconciliation, restorativejustice.org).
+
+The framework consists of the following tiers:
+
+*   **Tier 1: AI-Facilitated Mediation:** For minor interpersonal or resource-related disputes, an AI mediator is available 24/7. This system provides a neutral, confidential space for residents to communicate, understand each other's perspectives, and collaboratively find a mutually agreeable solution. The AI does not impose a decision but guides the conversation based on established community norms and conflict resolution principles.
+
+*   **Tier 2: Community-Led Restorative Circles:** For more significant conflicts or when mediation fails, the matter can be brought to a Community Restorative Circle. These circles consist of the affected parties, community members, and a trained human facilitator (in early-class cities) or an advanced AI facilitator (in later classes). The focus is on understanding the impact of the actions, acknowledging the harm done, and collectively agreeing on a path to make things right.
+
+*   **Tier 3: Formal Adjudication:** In cases involving severe breaches of community safety principles (e.g., violence or significant harm), a formal adjudication process is initiated.
+    *   **In State-Dependent Cities (Class U1-U5):** This process is handled by the legal system of the host state, as outlined in the "State rule" section. The city's administration will provide all relevant, transparently collected data to the state authorities as required by law.
+    *   **In State-Independent Cities (Class U6+):** A dedicated, fully transparent, and auditable Adjudication AI reviews the case against the city's core, publicly codified principles. Its decisions and reasoning are made public. All decisions from this tier can be appealed to a randomly selected Citizen Review Board, which has the final say, ensuring a critical human check on the automated system.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
