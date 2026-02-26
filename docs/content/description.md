@@ -94,3 +94,15 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+## Innovation & Research
+
+To prevent technological and scientific stagnation and to provide a structured outlet for human curiosity beyond preference-based optimization, Utopia establishes a dedicated framework for foundational research.
+
+### Utopia Institute for Foundational Research (UIFR)
+
+The UIFR is a semi-autonomous institution with a mandate to pursue fundamental science and high-risk, high-reward research projects.
+
+*   **Funding:** The Institute is allocated a fixed percentage of the city's total productive capacity (e.g., energy, computational resources, advanced materials, fabrication time) to ensure its long-term stability and independence from short-term city priorities.
+*   **Governance:** It is governed by a rotating council of leading human and AI researchers. Project selection is based on scientific merit, potential for paradigm-shifting discovery, and intellectual curiosity, rather than direct applicability to current resident preferences.
+*   **Open Access:** All non-hazardous discoveries and data from the UIFR are made publicly available through the blueprint's open-source framework, benefiting all Utopia cities and humanity at large. This ensures that the pursuit of knowledge remains a collective endeavor.
