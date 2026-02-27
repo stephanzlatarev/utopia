@@ -21,6 +21,23 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+
+### Conflict Resolution
+
+While serious criminal matters fall under the jurisdiction of the state in which the city resides (until Class U6), the city itself provides a robust, internal framework for resolving interpersonal disputes and conflicts. This system is designed to be restorative rather than punitive, focusing on understanding, dialogue, and repairing harm. It operates on a tiered model to ensure responses are proportionate to the issue at hand.
+
+*   **Tier 1: AI-Facilitated Dialogue**
+    For minor disagreements (e.g., noise complaints, disputes over shared space usage), residents can access an AI-powered mediation tool. This system provides a neutral platform for parties to state their perspectives, identifies points of misunderstanding, and suggests compromises based on city principles and precedent, all while ensuring privacy.
+
+*   **Tier 2: Community Mediation**
+    For more complex interpersonal conflicts, residents can request a session with trained community mediators. These are fellow residents who have volunteered for this role as a form of 'civil work' and have been trained in non-violent communication and mediation techniques. The process is voluntary and confidential, aimed at reaching a mutually agreed-upon resolution.
+
+*   **Tier 3: Restorative Justice Council**
+    In cases where harm has occurred (e.g., property damage, harassment), a Restorative Justice Council can be convened. This council, composed of a rotating panel of trained residents and guided by an AI administrative assistant to ensure fairness and process consistency, facilitates a structured dialogue between the person who caused harm, the person who was harmed, and affected community members. The goal is to acknowledge the harm, understand the impact, and collectively decide on a path to repair the harm and reintegrate individuals into the community.
+
+*   **Tier 4: Escalation to State Authorities**
+    Escalation to external state authorities is the final step, reserved for when internal processes have been exhausted without resolution or for matters that are legally mandated to be handled by the state.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
