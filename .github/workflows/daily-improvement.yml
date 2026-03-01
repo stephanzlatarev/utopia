@@ -1,9 +1,9 @@
 name: Daily City Design Improvement
 
 on:
-  schedule:
-    # Runs at 09:00 UTC every day
-    - cron: '0 9 * * *'
+  # schedule:
+  #   # Runs at 09:00 UTC every day
+  #   - cron: '0 9 * * *'
   workflow_dispatch: # Allows manual triggering
 
 env:
