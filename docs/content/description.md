@@ -62,6 +62,19 @@ All residents have full access to the resources and services to cover their need
 They are guaranteed to not need to enter survival mode.
 This will encourage them to seek higher standard of living and greater purpose.
 
+### The Charter of Guaranteed Needs
+
+To provide clarity and ensure trust in the system, the provision of all basic needs is governed by a public, transparent, and verifiable "Charter of Guaranteed Needs." This charter explicitly defines the scope, quality standards, and delivery mechanisms for all guaranteed services, transforming a broad promise into a specific, actionable social contract. The charter is a living document, subject to review and enhancement as technology and societal standards evolve, but its core entitlements cannot be diminished.
+
+The standards outlined in the charter are based on established international principles, such as the Universal Declaration of Human Rights' right to an adequate standard of living (Article 25) and World Health Organization (WHO) guidelines for universal health coverage.
+
+**Key Provisions of the Charter:**
+
+*   **Healthcare:** Specifies the exact range of covered services, including preventative, primary, emergency, specialist, mental, and long-term care. It defines the "high-quality" standard by referencing evidence-based medical best practices and guarantees access to all approved diagnostics, treatments, and assistive technologies. It explicitly excludes experimental procedures not yet validated for safety and efficacy.
+*   **Shelter:** Details the minimum standards for the 50 sq. meters of personal space, including environmental controls, accessibility features compliant with universal design principles, and data connectivity specifications.
+*   **Nutrition:** Outlines the process for creating personalized diets, ensuring they meet established nutritional science guidelines while maximizing resident preference. It guarantees access to a specific caloric and micronutrient baseline, regardless of personal taste.
+*   **Dispute and Clarification:** Establishes a transparent, automated process for residents to query the charter's interpretation or file a grievance if they believe their guaranteed needs are not being met, with recourse to the external state legal system in pre-Class U6 cities.
+
 ### Shelter
 
 Shelter is provided by residential buildings in the personal spaces.
