@@ -21,6 +21,30 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Justice and Conflict Resolution
+
+While day-to-day city administration is automated, interpersonal conflicts and breaches of community standards are inevitable. To address this in a way that aligns with Utopian principles of fairness and restorative community, and to provide a clear framework before Class U6 cities achieve state independence, a tiered justice system is established.
+
+This system is designed to resolve issues internally whenever possible, focusing on understanding, mediation, and repairing harm rather than on punitive measures.
+
+**Tier 1: Automated Mediation**
+For minor, non-malicious disputes (e.g., conflicts over shared space usage, noise complaints), an automated mediation system is the first port of call. The system analyzes the situation based on city data, identifies the core conflict based on the blueprint's rules, and proposes several fair, mutually agreeable solutions to the involved parties.
+
+**Tier 2: Restorative Circles**
+For incidents involving interpersonal harm (e.g., harassment, property damage, theft), the city facilitates a voluntary restorative justice process. This involves an AI-facilitated, and in lower-class cities human-supervised, dialogue between the person who caused harm, those affected, and relevant community members. The goal is not punishment, but to:
+- Acknowledge the harm done.
+- Agree on a path for the responsible party to repair the harm and reintegrate into the community.
+- Address the underlying causes of the behavior.
+
+**Tier 3: Community Adjudication**
+In cases where restorative justice is not appropriate or is unsuccessful, a temporary Adjudication Council is formed. This council consists of a rotating, randomly selected panel of resident volunteers who are guided by an AI legal advisor. The AI ensures that all relevant information is presented without bias and that the proceedings adhere to the blueprint's core principles of fairness. The council's role is to determine facts and mandate a resolution within the city's framework.
+
+**Tier 4: Interface with State Rule**
+Only severe crimes that pose an immediate and significant threat to residents' safety (e.g., murder, severe physical violence) are escalated to the external state's legal system. The blueprint includes a strict and transparent protocol for this interface, governing:
+- The specific thresholds for mandatory escalation.
+- The formal procedures for notifying and cooperating with state law enforcement.
+- The rules for data sharing to assist investigations while protecting the privacy of all other residents.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
