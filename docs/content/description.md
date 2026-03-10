@@ -30,6 +30,32 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+Recognizing that a just and transparent method for resolving conflicts is the cornerstone of a stable society, Utopia implements a multi-tiered system designed to be restorative, fair, and adaptable. This framework evolves with the city's maturity, progressively integrating technology while retaining a core focus on human-centric resolution. The system is predicated on a publicly developed and ratified Community Charter, which outlines the rights and responsibilities of all residents.
+
+#### Tier 1: AI-Assisted Mediation
+
+For minor disagreements and interpersonal conflicts, residents have access to a sophisticated AI mediation platform. This tool is designed to:
+-   Facilitate structured, private communication between parties.
+-   Help identify points of contention and common ground.
+-   Suggest mutually agreeable, non-binding solutions based on precedent and restorative principles.
+-   Maintain confidentiality and provide an impartial, 24/7 accessible resource for early-stage conflict resolution.
+
+#### Tier 2: Restorative Community Circles
+
+For conflicts that are more complex or involve harm to an individual or the community, a process of Restorative Community Circles is initiated.
+-   **Facilitation:** These circles are guided by trained resident volunteers who act as neutral facilitators.
+-   **Process:** The process brings together those who have been harmed, those who have caused harm, and affected community members to collectively discuss the event and decide how to repair the harm and address its causes.
+-   **Goal:** The primary goal is not punishment, but healing, accountability, and reintegration of all parties into the community, strengthening social bonds.
+
+#### Tier 3: Formal Adjudication
+
+In rare cases of serious violations of the Community Charter or when restorative processes are not appropriate or successful, a formal adjudication process is available.
+-   **Composition:** An adjudication panel is composed of a diverse, rotating selection of residents, supported by an AI jurist that provides relevant information, checks for biases in the process, and ensures consistency with the Community Charter.
+-   **Principles:** This process guarantees the rights of all involved, including the right to be heard, the right to representation (by a peer or an AI advocate), and a transparent, evidence-based decision-making process.
+-   **Outcomes:** Resolutions are focused on community safety, restorative outcomes, and preventing recurrence, and may include temporary restrictions on access to certain services or spaces, or mandated participation in educational or restorative programs. All decisions are logged transparently and are subject to an appeals process.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
