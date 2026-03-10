@@ -19,6 +19,30 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Ethical Preference & Resource Allocation Framework
+
+To ensure that the processing of resident preferences is transparent, fair, and aligned with the city's founding principles, the automation operates on a multi-layered framework. This framework clarifies how resident input is translated into administrative action, especially in cases of conflicting preferences or when dealing with shared resources.
+
+**Layer 1: Principle-Driven Guardrails**
+
+The automation's absolute highest priority is to uphold the Founding Principles. No preference, even a majority one, can lead to a decision that violates the guarantees of Basic Needs, Fairness, or Safety. For example, a majority preference for a certain food type cannot override the nutritional and health needs of an individual as determined by the healthcare system.
+
+**Layer 2: Deliberative Process for Complex Decisions**
+
+For significant, city-wide decisions involving complex trade-offs and shared resources (e.g., land use, new infrastructure, major changes to public spaces), the system initiates an AI-moderated deliberative process. This process:
+-   Presents all affected residents with clear, unbiased information about the options and their consequences.
+-   Facilitates structured, anonymized discussion to allow for the exchange of perspectives.
+-   Identifies points of consensus and fair compromises that respect the needs of different groups, rather than simply defaulting to the most popular initial preference.
+
+**Layer 3: Weighted Preference for Localized Choices**
+
+For local or personal choices with limited impact on others (e.g., decor of a shared community space, scheduling of local services), the system uses direct feedback and usage monitoring. However, this system is not a simple vote. It uses a weighting algorithm that prioritizes:
+-   **Essential Needs over Wants:** The needs of residents with specific accessibility, health, or safety requirements are given higher weight.
+-   **Impact Proximity:** The preferences of those most directly and frequently impacted by a decision are given more significance.
+-   **Privacy by Design:** All data collected through monitoring is anonymized and aggregated, with strict privacy controls auditable by any resident.
+
+This structured approach ensures that while the city is highly responsive to its residents, it does so in a manner that is equitable, protects minorities, and avoids the pitfalls of simplistic, data-driven majoritarianism.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
