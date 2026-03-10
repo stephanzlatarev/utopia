@@ -50,6 +50,16 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+### Creator Hubs
+
+To foster innovation, creativity, and self-actualization, each Utopia city district will feature Creator Hubs. These are versatile, community-accessible spaces that function as workshops, laboratories, and art studios, designed to empower residents to turn their ideas into reality.
+
+#### Key Features:
+*   **Advanced Tooling:** Hubs are equipped with a dynamic range of cutting-edge, user-friendly tools managed by the city's automation, including 3D printers, bio-fabricators, robotics kits, digital art suites, and scientific research equipment.
+*   **AI-Assisted Guidance:** A specialized AI serves as a collaborator and guide within the hubs, offering project management support, technical tutorials, safety oversight, and creative inspiration to residents of all skill levels.
+*   **Collaborative Environment:** The spaces are designed to encourage collaboration, allowing residents to form teams, share knowledge, and work on complex projects that benefit the community or simply fulfill a shared passion.
+*   **Resource Management:** The city's core automation manages the inventory of materials and tools, ensuring sustainable use and equitable access for all residents. Projects with potential to become luxury goods can interface with the free market.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
