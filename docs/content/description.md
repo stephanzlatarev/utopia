@@ -21,6 +21,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Justice and Conflict Resolution
+
+To ensure a safe and harmonious community, Utopia implements a multi-tiered Justice and Conflict Resolution system that evolves with the city's class. The system is founded on principles of restorative justice, focusing on repairing harm, fostering understanding, and reintegrating individuals into the community, rather than on punishment.
+
+*   **Tier 1: AI-Mediated Resolution:** For minor interpersonal disagreements and rule violations, an impartial AI mediator is available 24/7. This system facilitates communication, identifies common ground, and proposes mutually agreeable solutions based on the city's blueprint and ethical guidelines. All interactions are confidential.
+
+*   **Tier 2: Community-Led Restorative Circles:** For more serious conflicts or when AI mediation is insufficient, trained resident facilitators guide restorative justice circles. These circles bring together the affected parties, community members, and support personnel to collectively address the harm done and agree on a path to resolution and reconciliation. Participation is voluntary but strongly encouraged.
+
+*   **Tier 3: Formal Adjudication (for advanced classes):** In mature-class cities (Class U6 and above), a formal adjudication process will be established for severe violations that threaten the community's safety and well-being. This process will be handled by a council of rotating residents, supported by advanced AI to ensure impartiality, consistency, and a thorough review of all evidence. The focus will remain on restorative outcomes whenever possible.
+
+> The development of this system is a priority in the roadmap. Early-class cities will rely more on human facilitators and established restorative justice practices, with increasing automation and AI support in higher-class cities. This internal system aims to progressively reduce the reliance on external state-level justice systems, fully replacing them in Class U6. This approach empowers residents to resolve their conflicts internally, fostering a stronger and more responsible community.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
