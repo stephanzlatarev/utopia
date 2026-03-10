@@ -94,3 +94,6 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+*   **Personalization (The "Living Canvas" Initiative):** To counteract uniformity and foster creativity, MARS incorporates features for personal expression. Standard modules come with designated interior and exterior 'Customizable Surfaces' that allow for non-structural modifications like attaching approved decorative panels, integrated digital displays, or vertical garden systems. For ultimate personalization, residents can request 'Artisan Modules'—structurally sound shells with utility hookups—which they can design and finish internally using community Maker Hubs, with all designs vetted for safety by the city's automation AI.
