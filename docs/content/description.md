@@ -38,6 +38,33 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Civic Safety & Justice Framework
+
+To address the critical functions of dispute resolution, law enforcement, and emergency response, particularly in Class U1-U5 cities, this framework outlines the necessary protocols and interfaces with the governing state. It replaces ambiguity with a clear, tiered system designed to protect residents while upholding the city's principles.
+
+#### 1. Automated Incident Triage (AIT)
+
+All resident-reported issues, from minor interpersonal disagreements to potential criminal activity, are first processed by the Automated Incident Triage system.
+
+*   **Level 1 (Disputes):** Minor conflicts (e.g., noise complaints, disagreements over shared space use) trigger an automated, opt-in mediation process based on restorative justice principles. The system facilitates communication and suggests mutually agreeable solutions, aiming to repair harm and restore community balance without punitive measures.
+*   **Level 2 (Violations):** Infractions against city blueprint rules (e.g., misuse of automated services) are logged, and the system issues automated warnings or temporary service restrictions. These actions are transparent and appealable to a human-led oversight committee comprised of residents and state representatives in early-class cities.
+*   **Level 3 (Criminal Incidents):** Actions that correspond to crimes under the governing state's law (e.g., assault, theft, significant property damage) are immediately and automatically escalated to the State Authority Interface.
+
+#### 2. State Authority Interface (SAI)
+
+The city's automation does not perform law enforcement but is designed to assist state authorities transparently and efficiently.
+
+*   **Secure Data Portals:** The city maintains a secure, read-only data portal for accredited state law enforcement and judicial bodies. This portal provides access to relevant, anonymized data logs necessary for investigations, subject to state privacy laws and warrant procedures. The system is designed to preserve digital evidence integrity.
+*   **Automated Reporting:** For Level 3 incidents, the system automatically generates a formal report and transmits it to the appropriate state agency, such as the local police department or emergency services, via a secure API connected to the state's Public Safety Answering Point (PSAP) or equivalent system.
+*   **On-site Access Protocols:** The blueprint defines clear protocols for granting state emergency and law enforcement personnel physical access to city spaces when legally required, ensuring automated systems (e.g., doors, transport) cooperate seamlessly during emergencies.
+
+#### 3. Integrated Emergency Response (IER)
+
+For fires, medical emergencies, or natural disasters, the city's automation acts as a force multiplier for state and resident-led response efforts.
+
+*   **Automated Detection & Alerting:** Environmental sensors throughout the city automatically detect hazards like fire, gas leaks, or structural stress, simultaneously alerting residents via personal devices and public displays, and formally notifying state emergency services through the SAI.
+*   **Dynamic Environmental Control:** In a fire, the automation can redirect ventilation to contain smoke, unlock emergency exits, and guide autonomous transport to clear emergency access routes for state first responders. For medical emergencies, it can dispatch automated drones with medical supplies (e.g., defibrillators) and guide human paramedics to the patient's exact location.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
