@@ -38,6 +38,31 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Justice and Conflict Resolution
+
+The city's governance requires a clear framework for managing disagreements, violations of community standards, and criminal acts. While ultimate resolution is delegated to the state in early-class cities, Utopia implements its own internal, transparent, and restorative system to handle issues at the local level. This system is designed to evolve in sophistication along the city's roadmap.
+
+Our approach is based on the principles of restorative justice, focusing on repairing harm, fostering understanding, and reintegrating individuals into the community.
+
+**Tier 1: Automated Mediation System (AMS)**
+- For minor interpersonal and civil disputes (e.g., noise complaints, misuse of shared space).
+- The AMS is an AI-driven platform that facilitates guided, anonymous, or face-to-face communication between parties to help them reach a mutually agreed-upon resolution.
+- The system provides objective data (e.g., usage logs, decibel readings) to inform the discussion and suggests fair compromises based on the city blueprint and established precedents.
+
+**Tier 2: Community Resolution Councils**
+- For more complex disputes or when AMS fails.
+- These councils consist of trained resident volunteers and AI facilitators.
+- Their role is not to punish, but to mediate and determine a path to repair the harm done. This could involve acts of service, educational programs, or other restorative actions agreed upon by the parties and the council.
+- Participation in civil work as a council member is highly encouraged.
+
+**Tier 3: Serious Offenses and State Interface (Classes U1-U5)**
+- For actions that constitute serious crimes under the governing state's laws (e.g., violence, major property destruction).
+- The city's administration is mandated to report such incidents to the relevant state authorities.
+- It will cooperate fully with state investigations, providing transparent and immutable logs from the automation systems as evidence, while protecting the privacy of uninvolved residents.
+
+**Evolution to Class U6 and Beyond**
+As the city matures, the AI's capabilities in nuanced ethical reasoning and dispute resolution will expand. The goal for a Class U6 city is for its internal justice system to be so robust, fair, and comprehensive that it can operate independently, handling all matters internally with a focus on rehabilitation and social harmony, rendering the external state's legal oversight unnecessary.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
