@@ -94,3 +94,31 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Safety and Justice Systems
+
+To ensure the safety, security, and well-being of all residents, Utopia integrates two core systems: the Automated Emergency Response System (AERS) for physical crises and the Mediated Justice and Resolution System (MJRS) for social conflicts. These systems are designed to be transparent, fair, and to evolve in sophistication in line with the city's class progression.
+
+#### Automated Emergency Response System (AERS)
+
+AERS is a city-wide network of sensors, drones, and automated units responsible for detecting, assessing, and responding to all physical emergencies, including fires, medical crises, structural failures, and environmental hazards.
+
+*   **Detection & Assessment:** Embedded environmental and biometric sensors provide 24/7 monitoring. When an anomaly is detected (e.g., rapid temperature increase, a resident's vital signs indicating distress), the AI core instantly assesses the severity and nature of the incident.
+*   **Automated Response:** The system immediately dispatches the appropriate automated units—such as fire-suppression drones, emergency medical transport, or robotic repair teams—while simultaneously securing the area and guiding nearby residents to safety.
+*   **Evolution:**
+    *   **Class U1-U3:** AERS functions as an advanced alert system, routing information to human emergency response teams provided by the host state or a private company. Automation primarily handles detection and communication.
+    *   **Class U4-U5:** The city deploys its own automated response units, supervised by a human command center. Response times are significantly reduced, and the system can handle most common incidents autonomously.
+    *   **Class U6-U7:** AERS is fully autonomous, capable of managing large-scale, complex emergencies without human intervention. The system engages in predictive analysis to prevent incidents before they occur.
+
+#### Mediated Justice and Resolution System (MJRS)
+
+The MJRS is designed to address interpersonal disputes, violations of community standards, and property conflicts, replacing traditional law enforcement and judicial systems with a focus on restorative justice and mediation.
+
+*   **Conflict Reporting:** Residents can report issues through the same feedback portal used for city administration. All parties involved are guaranteed privacy and procedural fairness.
+*   **AI-Facilitated Mediation:** The system first offers AI-guided mediation, helping parties understand each other's perspectives and reach a mutually agreeable solution. The AI is trained on vast datasets of ethics, law, and restorative justice principles to propose fair resolutions.
+*   **Human Oversight and Appeals:** In early-to-mid-class cities, complex cases or appeals are escalated to a council of trained human mediators. In later classes, while the AI can handle most cases, an appeal process to a randomly selected citizen-review panel or a human oversight board is always maintained to ensure accountability.
+*   **Evolution:**
+    *   **Class U1-U4:** The MJRS is primarily a platform to connect residents with professional human mediators and to formalize resolutions. It operates under the laws of the host state.
+    *   **Class U5-U6:** The AI takes on the primary mediation role for most disputes. The system develops its own body of precedent based on successful resolutions, creating a transparent and evolving set of community standards independent of the host state.
+    *   **Class U7:** The MJRS is a highly sophisticated and nuanced system, capable of understanding complex social dynamics and proposing creative, restorative solutions that strengthen community bonds rather than simply punishing infractions.
