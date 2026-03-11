@@ -76,6 +76,16 @@ Depending on the preferences of the residents, all spaces may have close access 
 
 ### Heating
 
+### Water
+
+To ensure a resilient and sustainable water supply, Utopia implements a Bio-Integrated Sentient Water Grid. This system moves beyond traditional centralized infrastructure to create a closed-loop, self-sufficient water economy.
+
+#### Key Features:
+*   **Decentralized Sourcing:** Each building and district contributes to the water supply through a combination of atmospheric water generators (AWGs), rainwater harvesting, and integrated water features, reducing reliance on any single source.
+*   **Hyper-Local Recycling:** Advanced filtration and purification systems at the building level treat greywater and blackwater for immediate reuse in non-potable applications (e.g., vertical farming, sanitation, climate control). This drastically reduces overall water demand.
+*   **Sentient Grid Management:** An AI-powered network of sensors continuously monitors water quality, pressure, and flow throughout the city. This system can predict maintenance needs, instantly detect contaminants, and dynamically reroute water to meet demand or respond to emergencies like fires.
+*   **Bio-Integration:** The purification process is partially handled by living systems integrated into the city's architecture, such as purifier living walls in public atriums and bio-filter green roofs. These elements are not only functional but also contribute to air quality, aesthetics, and resident well-being, making the infrastructure a visible and beautiful part of the city.
+
 Air-conditioning with cooling and heating systems is available in all spaces in the city.
 
 ### Food
