@@ -91,6 +91,16 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+
+
+#### Sanctuaries of Care: Integrating Empathy and Automation
+
+To address the critical emotional and psychological needs inherent in healthcare, Utopia supplements its automated medical systems with 'Sanctuaries of Care.' These are not sterile clinics, but welcoming, warm environments designed for comfort, healing, and human connection, particularly for chronic illness, mental health, and palliative care.
+
+*   **Human-Centric Design:** Facilities prioritize natural light, biophilic design, and adaptable private rooms that feel more like personal spaces than hospital wards, reducing patient stress and anxiety.
+*   **Empathetic Companionship:** The city's 'Civil Work' framework encourages residents to volunteer as 'Community Companions.' An AI system handles the logistics of matching companions with patients based on personality and preferences, but the core interaction is purely human-to-human, providing emotional support, advocacy, and a comforting presence.
+*   **Technology in Support of Humanity:** Automation handles all clinical and logistical tasks—from administering treatments to managing environmental controls—freeing human companions to focus entirely on providing empathy and emotional care. Non-intrusive ambient sensors monitor patient well-being and can alert staff to needs without sacrificing privacy, ensuring safety without a feeling of constant surveillance.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
