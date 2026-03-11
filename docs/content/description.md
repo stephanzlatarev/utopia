@@ -50,6 +50,9 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+
+*   **Dynamic Emergency Response & Shelter System (DERSS):** To bolster emergency preparedness, MARS includes a specialized subset of modules designed for crisis response. These hardened modules (e.g., mobile medical units, power generators, communication hubs, high-density emergency shelters) are stored in decentralized, strategic locations throughout the city. In an emergency, the automation system can rapidly deploy and assemble these modules to create fully functional response centers or to replace and fortify damaged residential areas, ensuring the safety and well-being of all residents even during catastrophic events.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
