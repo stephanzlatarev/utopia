@@ -91,6 +91,17 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+### Emergency Preparedness
+
+To ensure resident safety during unforeseen large-scale emergencies that could compromise the primary city automation, Utopia incorporates an Autonomous Emergency Resilience System (AERS). This system is designed to function as a parallel, hardened, and decentralized network, activating automatically when critical city infrastructure is detected to be offline or at risk. The AERS represents the ultimate commitment to the principle of guaranteed safety.
+
+#### Key Features of AERS:
+*   **Decentralized Operation:** The AERS is not reliant on the central city core. It operates on a distributed network of hardened nodes, ensuring it remains functional even with partial system failures.
+*   **Autonomous Response Fleets:** Dedicated fleets of multi-purpose drones are on standby for immediate deployment. Their functions include search and rescue, delivery of medical supplies and food, damage assessment, and establishing ad-hoc communication relays.
+*   **Modular Emergency Shelters (MES):** Leveraging the MARS architecture, designated modules throughout the city are pre-equipped as hardened emergency shelters with independent power, water, air filtration, and supply caches. The AERS can also coordinate the rapid robotic conversion of standard modules into MES units as needed.
+*   **Resilient Communication Grid:** A low-bandwidth, high-redundancy mesh network provides a failsafe communication channel for the AERS and for residents, ensuring information and coordination can continue even if primary networks fail.
+*   **Guided Civil Participation:** The system can provide real-time guidance to residents' personal devices, enabling them to contribute safely and effectively to the community response, transforming potential panic into coordinated, life-saving action.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
