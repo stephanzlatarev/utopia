@@ -94,3 +94,13 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+#### Community Spaces: Co-Creation and Stewardship
+
+To complement the adaptability of personal residences, Utopia implements a structured process for the co-creation and ongoing stewardship of shared community spaces such as parks, plazas, workshops, and recreational facilities. This process is managed by the city's automation to ensure fairness and feasibility while empowering residents to shape their local environment.
+
+*   **Process Initiation:** The core automation identifies opportunities for new community spaces or the under-utilization of existing ones based on usage data and resident feedback. It then invites residents of a specific locale to form a temporary 'Stewardship Pod' to guide the space's development.
+*   **AI-Assisted Design:** Stewardship Pods are granted access to intuitive, AI-powered design platforms. These tools allow them to collaboratively create and modify plans for the space, with the AI ensuring all proposals meet safety standards, accessibility requirements, and resource constraints.
+*   **Virtual Simulation:** Proposed designs are rendered into immersive virtual or augmented reality simulations. This allows the wider local community to experience the potential space and provide structured feedback, which the automation aggregates to help the Pod refine its vision.
+*   **Automated Implementation & Adaptation:** Once a design is finalized, the city's automated construction systems build or reconfigure the space. The automation continues to monitor usage patterns and environmental data, providing the Stewardship Pod with insights to propose ongoing adaptations, ensuring the space evolves with the community over time.
