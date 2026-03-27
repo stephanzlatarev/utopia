@@ -21,6 +21,24 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+
+### Community Accord and Conflict Resolution
+
+While the city automation is designed to minimize friction, the blueprint acknowledges that a society of residents will inevitably face interpersonal disputes, disagreements, and violations of community norms. To address this in a way that is fair, transparent, and aligned with Utopia's principles, a tiered internal conflict resolution system is established. This system ensures that issues are handled at the lowest effective level, prioritizing mediation and restorative outcomes over punitive measures, and provides a clear protocol for when external state intervention is necessary.
+
+**Tier 1: Automated Mediation & Reporting**
+For minor disputes (e.g., noise complaints, misuse of shared space), residents can use an automated system. This system serves two functions:
+- **Reporting:** It logs the issue formally within the city's transparent ledger.
+- **Mediation:** It provides an AI-facilitated, double-blind communication platform for the involved parties to reach a mutually agreeable solution without direct confrontation, suggesting compromises based on the city's operational rules and successful past resolutions.
+
+**Tier 2: Community Council Review**
+If automated mediation fails or for more complex issues (e.g., repeated infractions, accusations of harassment), the case can be elevated to a Community Council. 
+- **Composition:** The council is a rotating body of resident volunteers, guided and anonymized by the governance AI to prevent personal bias. The AI ensures a diverse and impartial selection of council members for each case.
+- **Function:** The council reviews the facts presented by the system and involved parties, and recommends a binding resolution, which could range from temporary restrictions on access to certain services to mandated participation in community work. This process remains internal to the city.
+
+**Tier 3: State Delegation Protocol**
+For severe issues that fall outside the scope of community resolution, such as violent crime or actions that threaten the city's core infrastructure, a formal and transparent protocol for involving the external state's legal and enforcement bodies is activated. This is considered a last resort. The city administration's role is to provide all relevant, unbiased data to the state authorities while ensuring the resident's fundamental needs and rights under the state's jurisdiction are protected.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
