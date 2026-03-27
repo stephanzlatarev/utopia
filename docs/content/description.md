@@ -47,6 +47,8 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 #### Key Features:
 *   **Modularity:** Residential buildings are constructed from standardized, prefabricated modules (e.g., living space modules, kitchen modules, accessible bathroom modules).
 *   **Adaptability:** Based on declared resident preferences and needs (such as family growth, aging, or disability), the automation system can reconfigure, add, or remove modules from a residential unit. This ensures a resident's home evolves with their life-cycle.
+
+*   **Stability & Safety Protocol:** To mitigate the risks associated with dynamic structural changes, reconfigurations are not performed in real-time on occupied or adjacent units. Major modular adaptations are batched and executed during scheduled, city-wide 'Adaptation Cycles'. Residents are notified well in advance, must approve any changes to their personal unit, and may be temporarily relocated to an equally equipped 'swing' unit for the duration of the work to ensure absolute safety and system integrity.
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
