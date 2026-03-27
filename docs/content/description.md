@@ -21,6 +21,14 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Conflict Resolution and Community Safety
+
+To ensure the safety, security, and well-being of all residents, Utopia implements a tiered approach to resolving disputes and conflicts, creating a bridge between internal community issues and the legal framework of the host state. This system is designed to be proportionate, accessible, and to provide a learning framework for future automation.
+
+*   **Tier 1: AI-Assisted Mediation:** For minor grievances and rule clarifications (e.g., disputes over shared space use, noise levels, resource allocation), residents first engage with an AI-driven mediation tool via the city's feedback portal. This system logs the issue, provides relevant blueprint rules, facilitates communication between parties, and proposes standardized, impartial solutions.
+*   **Tier 2: Voluntary Community Arbitration:** For more complex interpersonal conflicts that are not criminal in nature, residents may opt into a formal arbitration process facilitated by trained resident volunteers as a form of "civil work." This process focuses on restorative justice principles to mend community relationships, with outcomes recorded to help refine the blueprint's social protocols.
+*   **Tier 3: Formal State Interface:** For issues that are criminal under the host state's laws (e.g., theft, violence) or where lower-tier resolutions fail or are rejected, a clearly defined protocol exists for interfacing with state authorities. Each city is required to establish a formal Jurisdictional Interface Agreement (JIA) with the host state, outlining specific procedures, points of contact, and data-sharing agreements for escalating matters to state law enforcement and judicial systems.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
