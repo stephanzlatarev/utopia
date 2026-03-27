@@ -30,6 +30,16 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Digital Infrastructure Governance
+
+To ensure the foundational principle of "No person controls the city" is upheld at the operational level, the city's core digital infrastructure is managed by a formal governance framework, distinct from the blueprint's application-level rules. This framework is built on a Zero Trust security model, where no system or user is trusted by default.
+
+Key components of this framework include:
+
+*   **Verifiable Infrastructure-as-Code (IaC):** All changes to the city's core systems—including network configurations, server provisioning, and security policies—are managed exclusively through code committed to a publicly auditable repository. This ensures all modifications are transparent and traceable.
+*   **Decentralized Update Authority:** Critical updates to the core infrastructure require cryptographic consensus from a quorum of independent, automated auditors. This prevents any single entity or compromised system from pushing malicious changes. All approved changes are recorded on an immutable public ledger.
+*   **Continuous Compliance Auditing:** An autonomous system continuously monitors the live infrastructure, comparing its state against the approved IaC definitions. Any unauthorized deviation triggers an immediate alert and automated rollback protocol, ensuring the integrity and stability of city services.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
