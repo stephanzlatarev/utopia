@@ -94,3 +94,11 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+#### Digital Infrastructure: The Utopia Twin-Mesh
+
+To ensure resilience, privacy, and resident autonomy, Utopia's digital fabric is built on a hybrid 'Twin-Mesh' model:
+
+*   **Central Digital Twin:** A master, city-level AI maintains a real-time simulation (a Digital Twin) of the city for large-scale optimization, resource management, and long-term planning. This system operates on anonymized or aggregated data.
+*   **Decentralized Mesh Network:** At the local level (building, neighborhood), all devices, sensors, and personal assistants operate on a resilient, peer-to-peer mesh network. This network can function independently of the central system, ensuring that critical services like housing module controls, local resource distribution, and emergency communications are never compromised by a central failure.
+*   **Data Sovereignty:** Resident data is stored in personal, encrypted data 'pods' (based on Solid - Social Linked Data principles) that are controlled by the individual. Instead of the city collecting data, residents grant specific, revocable permissions to the city's automation systems for necessary functions, ensuring privacy and control are the default.
