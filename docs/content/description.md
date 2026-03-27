@@ -94,3 +94,11 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Emergency Preparedness: Analog Failsafe & Community Resilience
+
+While Utopia's automation is designed for prevention and efficiency, the city acknowledges the potential for unforeseen catastrophic events or systemic failures. To ensure residents' safety, which is a core basic need, a robust emergency preparedness framework is integrated into the city's design, focusing on human agency and community resilience. This framework is built on two core components:
+
+*   **Analog Failsafe Protocols (AFP):** Every residential block, public space, and critical infrastructure node is equipped with a non-digital emergency kit. This includes printed maps detailing evacuation routes and resource caches, manual override instructions for essential systems (e.g., doors, water valves), basic first-aid supplies, and long-term storage food and water. These resources ensure that residents can navigate and survive even during a total loss of power and network connectivity.
+*   **Community Emergency Response Teams (CERTs):** Residents are encouraged to volunteer for CERT training, a program managed by the city's automation in partnership with state emergency services (in lower-class cities). This training empowers citizens with skills in basic first aid, light search and rescue, fire suppression, and disaster psychology. In an emergency, these trained teams can self-organize to assist their neighbors and support automated/professional responders, creating a resilient community network that functions independently of the central automation.
