@@ -82,6 +82,14 @@ Air-conditioning with cooling and heating systems is available in all spaces in 
 
 The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
 
+#### Food Production Resilience
+
+To mitigate the risks of a single point of failure in a fully automated system, Utopia employs a Tiered Food Production and Resilience Strategy:
+
+*   **Tier 1: Centralized Personalization System:** This is the primary system, a highly-efficient, large-scale automated facility responsible for producing the wide variety of personalized meals based on resident data. It operates on principles of maximum efficiency and nutritional precision.
+*   **Tier 2: Decentralized Agri-Hubs:** Located in each residential district, these smaller, automated vertical farms and protein synthesis labs focus on producing a limited range of robust, high-yield staple crops (e.g., grains, legumes, leafy greens) and basic proteins. During normal operation, they supplement the central system and provide fresh ingredients for community kitchens, but their primary purpose is to scale up production rapidly to feed the city with essential nutrition if the Tier 1 system is compromised.
+*   **Tier 3: Emergency Rations:** A distributed network of secure caches stores long-shelf-life, nutrient-complete rations. These are a last-resort buffer, ensuring immediate food availability for several days in the event of a city-wide production and power failure.
+
 ### Healthcare
 
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
