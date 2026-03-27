@@ -19,6 +19,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Dispute and Conflict Resolution
+
+While early-class cities rely on the legal framework of their host state, a core component of the Utopia blueprint is the internal Automated Mediation and Resolution System (AMARIS). This system is designed to handle internal disputes—from interpersonal disagreements to conflicts with automated city decisions—justly and transparently, ensuring the city's social fabric remains strong.
+
+AMARIS operates on a tiered model:
+
+*   **Tier 1: AI-Assisted Mediation:** For minor disputes, the system acts as a neutral third-party mediator. It facilitates communication between residents, analyzes the situation based on city principles and logs, and proposes multiple potential resolutions. The goal is a voluntary, mutually-agreed-upon outcome.
+*   **Tier 2: Community Review:** If mediation fails, the case can be elevated. A summary of the conflict, stripped of personal identifiers to reduce bias, is presented to a small, randomly selected panel of resident volunteers. They provide input and recommendations, adding a layer of human-centric common sense to the process.
+*   **Tier 3: Formal Adjudication:** For serious conflicts or appeals from Tier 2, a formal process is initiated. An adjudicatory AI, operating on a transparent and auditable ethical and legal framework codified in the blueprint, reviews all evidence and testimony. Critically, residents involved have the right to be represented by a human advocate or a specialized 'advocate AI' to ensure their case is presented effectively. All decisions at this tier are public record and come with a detailed justification, and there is a defined process for appealing to a higher-level review board (composed of both human and AI members).
+
+This framework ensures that even in a highly automated city, justice is not a black box. It prioritizes de-escalation, community involvement, and the right to a fair hearing, directly upholding the principle of Fairness.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
