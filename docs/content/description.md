@@ -56,6 +56,18 @@ The city manages its resources in a way to provide for the physiological needs o
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
 
+### Resilience and Emergency Response
+
+While the city's design focuses on proactive safety and incident prevention, it is built on a foundation of resilience to prepare for, respond to, and recover from inevitable failures and emergencies. The strategy is built on the following pillars:
+
+*   **System Redundancy and Failsafes:** All critical life support systems (e.g., power, water, air purification, food production) are designed with a minimum of triple redundancy. At least one of these redundant systems is physically isolated and capable of being operated via manual, non-networked controls to protect against city-wide cyber or infrastructure attacks.
+
+*   **The Sentinel Protocol:** A hardened, independent AI subsystem, the 'Sentinel', operates on a separate, hardened network. Its sole purpose is to monitor the primary city administration for critical anomalies, predict cascading failures, and initiate emergency protocols. It can isolate failing systems and activate alerts without being compromised by the primary system's failure.
+
+*   **The Civilian Response Corps (CRC):** As part of 'civil work', residents can volunteer for the CRC. Members are trained by specialized AI and human experts in critical skills such as advanced first aid, localized fire suppression, manual system overrides, and search and rescue. In a crisis, the Sentinel AI can direct and coordinate CRC members, integrating human ingenuity and action with automated response.
+
+*   **Graceful Degradation:** The blueprint specifies protocols for 'graceful degradation' of services during a prolonged crisis. Instead of a complete shutdown, the city's automation will begin to strategically curtail non-essential services to preserve core life support functions, ensuring the survival and well-being of residents until full functionality is restored.
+
 Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
 
 All residents have full access to the resources and services to cover their needs.
