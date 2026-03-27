@@ -35,6 +35,18 @@ The benefit is that the state laws and policies will cover the dynamics that the
 
 The downside is that the city can isolate its residents from state corruption only to the extent that it guarantees all basic needs and the living atandard. The most mature future stages of Utopia cities, Class 6, will have sufficiently advanced automation to handle nuanced resolution of disputes and conflicts fairly and without human bias.
 
+### Justice and Safety System
+
+While the city operates within a state, a robust internal framework is essential to manage day-to-day conflicts, ensure resident safety, and uphold community standards. The Justice and Safety System (JSS) is a multi-tiered system designed for de-escalation and restorative outcomes, operating as a transparent and integrated part of the city's administration.
+
+*   **Tier 1: AI-Assisted Mediation:** For minor interpersonal or resource-use disputes, residents can access an impartial AI mediation platform. The system facilitates dialogue, suggests compromises based on the blueprint's rules and established precedents, and formally logs resolutions. This ensures privacy and immediate availability.
+
+*   **Tier 2: Community Resolution Panels:** For more complex issues that require human nuance, residents can opt into a mediation process led by a panel of fellow residents. These volunteers are trained in conflict resolution, ethics, and blueprint governance as a form of "civil work." An AI moderator assists the panel to ensure impartiality and consistency, preventing personal bias.
+
+*   **Tier 3: Utopia Safety Service (USS):** The USS is a professional, unarmed service focused on de-escalation, emergency response (medical, fire, environmental), and crisis intervention. They are the primary responders to immediate safety threats and act as the sole, official liaison with external state law enforcement when a situation (e.g., a serious crime under state law) requires it. This provides a clear jurisdictional interface and protects residents from direct engagement with external authorities.
+
+This tiered system ensures that responses are proportional, conflicts are resolved at the lowest possible level, and a culture of mutual responsibility and safety is actively fostered within the community.
+
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
