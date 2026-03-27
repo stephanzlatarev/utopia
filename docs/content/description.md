@@ -93,4 +93,24 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+## Resilience and Emergency Management
+
+While Utopia is designed to minimize everyday risks and incidents, it must be prepared for unforeseen crises, including natural disasters, large-scale technical failures, and medical emergencies. The city's resilience is built on a multi-layered approach that integrates automation with trained human response, inspired by real-world "Whole Community" emergency management frameworks.
+
+### Layered Response System
+
+The city employs a tiered response system to ensure swift and effective action during a crisis.
+
+*   **Level 1: Automated Response:** The city's core automation provides the first line of defense. This includes integrated sensor networks for early detection (e.g., fire, seismic activity, biohazards), automated fire suppression systems in all modules, and autonomous drones for initial assessment, medical supply delivery, and search and rescue.
+*   **Level 2: Citizen Responder Corps (CRC):** As part of "civil work," residents can volunteer and receive training in specialized emergency roles such as advanced first aid, light search and rescue, psychological first aid, and manual system overrides. During an emergency, the city's AI coordinates and dispatches members of the CRC to assist where human ingenuity and compassion are most needed.
+*   **Level 3: State and Mutual Aid Integration:** For early-class cities (U1-U5), the blueprint includes clear protocols for requesting and integrating with external state-level emergency services. For mature-class cities (U6+), this evolves into mutual aid agreements with other Utopia cities, forming a resilient network.
+
+### Crisis Governance Protocol
+
+In a declared state of emergency, a pre-defined Crisis Governance Protocol is activated. This protocol temporarily elevates the priority of safety and survival directives within the city's automation. It establishes a clear chain of command within the AI system and designates specific human oversight roles for CRC leaders to manage situations requiring nuanced, ethical decision-making that cannot be fully automated. All actions taken under this protocol are transparently logged and are subject to community review post-crisis.
+
+### System Redundancy and Failsafes
+
+Critical life-support systems (air filtration, water, power, physical access) are designed with robust redundancy. This includes decentralized power grids, backup water reserves, and non-networked, manual overrides for doors and ventilation systems to prevent catastrophic failure and ensure inhabitant safety even if the primary automation network is compromised.
+
 All residents have access to video and audio communication, the internet, AI assistance.
