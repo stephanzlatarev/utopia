@@ -30,6 +30,20 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+
+### Internal Community Accord
+
+To address conflicts and disputes that arise within the city, and to bridge the gap before Class U6 cities become independent of state rule, Utopia implements a **Community Accord and Restorative System (CARS)**. This system is designed to handle internal matters ranging from interpersonal disagreements to minor violations of community standards, without immediate delegation to external state authorities.
+
+#### Core Principles of CARS:
+*   **Restorative, Not Punitive:** Inspired by restorative justice principles, the focus is on understanding the context of the conflict, acknowledging the harm caused, and mediating a resolution that repairs relationships and community trust. The goal is rehabilitation and reconciliation, not punishment.
+*   **Tiered Response:** The system operates on a tiered model:
+    1.  **AI-Mediation:** For minor disputes (e.g., noise complaints, resource usage disagreements), the city's AI can act as a neutral third-party mediator, suggesting compromises based on resident preferences and blueprint rules.
+    2.  **Resident Mediation:** For more complex issues, residents can volunteer for mediation and restorative justice panels as part of their 'civil work'. These residents are trained in conflict resolution and guided by the AI to ensure fairness and consistency.
+    3.  **Escalation Protocol:** Only when a resolution cannot be reached internally, or when the issue involves serious crimes that fall clearly under state jurisdiction (e.g., violence causing severe harm), is the matter escalated to the external state rule system through a clearly defined protocol.
+
+*   **Evolving Autonomy:** The scope and capability of CARS will grow with the city's class. In Class U1-U3 cities, it will handle a limited set of issues, with more frequent escalation. By Class U5, the fully automated system will be capable of handling the vast majority of internal conflicts, making the city socially, as well as technically, self-sufficient.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
