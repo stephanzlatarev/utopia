@@ -21,6 +21,17 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+
+### Stewardship and Transition Model
+
+To ensure the city's evolution aligns with its founding principles and to prevent the concentration of power described in the roadmap's early stages (Class U1-U3), a Stewardship Trust Model is established from the city's inception.
+
+*   **The Utopia Stewardship Trust:** A non-profit, chartered legal entity is the perpetual owner of the city's land and core automated infrastructure. The Trust's sole mandate, encoded in its charter, is to ensure the city operates according to the Utopia blueprint and serves the best interests of its residents.
+
+*   **Operational Contracts:** For early-stage cities requiring external expertise and capital (e.g., a "hosting company"), the Trust will issue time-bound, performance-based operational contracts. These contracts will explicitly link the operator's remuneration and authority to achieving specific automation and self-sufficiency milestones as defined in the Roadmap (e.g., reaching Class U3, U4, etc.).
+
+*   **Phased Power Transfer:** The contract legally mandates a phased transfer of administrative functions from the commercial operator to the city's increasingly capable automated systems. As milestones are met, the operator's control is systematically reduced, and their role shifts from administration to specialized consultation, until the contract concludes upon reaching a state of high automation (e.g., Class U5). This mechanism guarantees that the profit motive serves as a temporary catalyst for development, rather than becoming a permanent and corrupting power structure.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
