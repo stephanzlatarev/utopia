@@ -24,6 +24,15 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 ## 05. Luxury - Luxuries come from the free market
 
+
+### 05a. Civic Contribution - The Engine of the Luxury Market
+
+To power the free market for luxuries, Utopia implements a system of Civic Contribution Credits (CCC). This is a digital currency earned by residents through voluntary contributions that enhance the community, innovate on the blueprint, or create cultural value.
+
+- **Earning Credits:** Residents earn CCCs by completing tasks or projects posted on a city-wide 'Contribution Marketplace'. These can range from artistic creation and scientific research to community organization and mentoring.
+- **Community Valuation:** The value of a contribution, and thus the CCCs awarded, is determined by community-driven mechanisms, such as direct peer-to-peer appreciation or collective funding of proposed projects. This ensures that the luxury economy is aligned with the residents' shared values.
+- **Fair Access:** This system provides every resident with an equal opportunity to participate in the luxury market, based on their passion and creativity rather than pre-existing capital. It provides the essential link between contribution and consumption in the non-essential part of the economy.
+
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
 ## 06. Freedom - People have the freedom over their citizenship
