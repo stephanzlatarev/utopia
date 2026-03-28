@@ -30,6 +30,24 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+The principle of Fairness requires a transparent, accessible, and just system for resolving disputes. While early-class cities will rely on the host state for criminal law, Utopia will cultivate its own internal system based on principles of restorative justice, which seeks to repair harm by involving all stakeholders. This system will evolve with the city's technological capabilities.
+
+*   **Class U1-U3: Hybrid Mediation Model**
+    *   **Community Mediation Service:** For interpersonal and minor community disputes, a service staffed by trained resident volunteers and professional mediators (as part of "civil work") will be the first point of contact. The focus will be on dialogue, understanding, and mutually agreed-upon resolutions.
+    *   **State-Level Protocol:** For actions that constitute crimes under the host state's laws, a clear Memorandum of Understanding (MOU) will be established with state law enforcement. This MOU will define jurisdiction, evidence-sharing protocols, and the role of city automation in investigations, ensuring a seamless and predictable interface.
+
+*   **Class U4-U5: Augmented Adjudication**
+    *   **Introduction of AI Adjudicator:** An AI system will be introduced to handle well-defined, lower-stakes conflicts, such as disputes over shared space configurations or resource usage. Its decisions will be explainable and based on the city's blueprint and established community norms.
+    *   **Human Review Panel:** A rotating panel of residents will review a random sample of the AI's decisions for fairness and efficacy. This panel will also serve as an appeals board for AI-adjudicated cases, providing crucial human oversight and generating training data for improving the system.
+
+*   **Class U6-U7: Autonomous Restorative Justice**
+    *   **Fully Integrated AI System:** The mature city will operate a sophisticated AI justice system capable of handling complex disputes. The system will be designed not to punish, but to understand the root cause of a conflict and facilitate a restorative process. It will propose solutions that repair harm and reintegrate individuals into the community, in line with established restorative justice principles.*
+    *   **Ethical Oversight and Evolution:** The AI's ethical framework will not be static. It will be subject to continuous audit by a dedicated Ethical Oversight Board and can be amended through the blueprint development process, ensuring it reflects the evolving values of the residents.
+
+> * The design of the AI justice system will draw from established frameworks like those promoted by the Centre for Justice & Reconciliation, emphasizing repairing harm over assigning blame.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
