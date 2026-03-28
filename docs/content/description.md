@@ -40,6 +40,32 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Transportation
+
+To connect all of Utopia's spaces and facilitate the movement of people and resources, the city implements a Dynamic Integrated Velocity-differentiated Ecosystem (DIVE). This is a multi-layered, fully automated network designed for maximum efficiency, safety, and convenience, while preserving the aesthetic and tranquility of the city's public spaces.
+
+### Subterranean Logistics & Transit Layer
+
+Beneath the city, a high-speed network of tunnels serves as the backbone for all major logistics. This layer is dedicated to:
+*   **Resource Distribution:** Transport of water, energy, and raw materials.
+*   **Goods & Waste Management:** Automated delivery of food and supplies, and the efficient removal of waste and recyclables.
+*   **MARS Module Transport:** Movement of the large residential modules for construction and reconfiguration without disrupting surface life.
+*   **Mass Transit:** High-speed shuttles connecting major hubs within the city and linking to other Utopia cities.
+
+### Surface Personal Mobility Layer
+
+The ground level is designed for people, not for vehicles. It features a network of dedicated, unobtrusive pathways for a fleet of autonomous, electric pods.
+*   **On-Demand Service:** Residents can summon a pod of a suitable size and configuration directly to their location via their personal devices.
+*   **Seamless Integration:** Pods can navigate to the entrance of any building and are designed to be fully accessible for individuals with mobility challenges, families with strollers, and service robots.
+*   **Safety & Serenity:** The pods operate at safe speeds, are virtually silent, and produce zero emissions, allowing public spaces to be vibrant parks and plazas rather than traffic corridors.
+
+### Aerial Emergency & Priority Layer
+
+A dedicated, regulated airspace above the city is reserved for specialized drone traffic.
+*   **Emergency Response:** Drones are used for immediate deployment of medical supplies (e.g., defibrillators), fire suppression equipment, and situational assessment, drastically reducing response times.
+*   **Priority Deliveries:** Used for urgent transport of medical samples or time-sensitive luxury goods from the free market.
+*   **Automated Maintenance:** Drones can access and service building exteriors and infrastructure with minimal disruption.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
