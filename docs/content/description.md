@@ -94,3 +94,11 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+#### Sovereign Digital Mesh
+
+To ensure ultimate resilience and data sovereignty, the city's digital infrastructure is built upon a Sovereign Digital Mesh (SDM). This is a private, multi-layered, decentralized network that handles all core city operations, from administrative automation to residential services, independently of the global internet.
+
+*   **Resilience:** The mesh topology means there is no single point of failure. If one node or connection is disrupted, data is automatically rerouted, guaranteeing continuity for critical services like healthcare, resource management, and emergency response.
+*   **Performance:** By keeping data local, the SDM provides ultra-low latency and high-bandwidth connectivity for all residents and systems, enabling seamless interaction with AI, high-fidelity communication, and complex automation.
+*   **Sovereignty:** Resident data and core operational data remain within the city's network, shielded from external state or corporate surveillance. Access to the global internet is treated as a service that gateways through the SDM, not the foundation upon which the city is built.
