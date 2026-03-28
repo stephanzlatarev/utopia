@@ -91,6 +91,14 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+#### Compassionate Care Sanctuaries
+
+To address the emotional and psychological needs inherent in healing and end-of-life care, all healthcare facilities will include 'Compassionate Care Sanctuaries.' These are specialized wings designed to feel less like a clinical facility and more like a tranquil retreat. Key features include:
+
+*   **Biophilic Design:** Integration of natural light, indoor gardens, water features, and natural materials to create a calming, restorative environment that reduces stress and anxiety.
+*   **Human-Centric Spaces:** Private rooms with comfortable, non-clinical furnishings and ample space for family and friends to stay. Communal areas like shared kitchens, lounges, and quiet reflection rooms encourage social connection and mutual support.
+*   **Community Companion Program:** A structured 'Civil Work' opportunity for residents to volunteer as companions. These individuals provide emotional support, engage in conversation, read to patients, or simply offer a comforting human presence, ensuring no one feels isolated during their most vulnerable moments.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
