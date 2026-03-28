@@ -91,6 +91,16 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+
+
+#### Human-Centric Care Sanctuaries
+
+To address the emotional and psychological dimensions of health, specialized Sanctuaries will be established for palliative care, long-term illness management, and recovery. These facilities are designed to be warm, non-clinical environments that prioritize human connection and comfort over sterile efficiency.
+
+*   **Compassionate Support:** While core medical procedures remain automated for precision and safety, these Sanctuaries are staffed by residents engaged in 'civil work' as trained companions and empathy providers. Their role is to offer emotional support, companionship, and a reassuring human presence.
+*   **Healing Environments:** The architecture will incorporate biophilic design, with natural light, indoor plants, and calming aesthetics to create a peaceful atmosphere conducive to mental and emotional healing.
+*   **AI-Enhanced Connection:** The city's automation will support, not replace, human interaction. AI systems will handle all logistics and can help match residents with compatible support companions based on personality and preferences, freeing humans to focus entirely on compassionate care.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
