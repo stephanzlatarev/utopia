@@ -45,6 +45,11 @@ Utopia city has different spaces - personal spaces, group spaces, and public spa
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
 
 #### Key Features:
+
+
+#### Dynamic Aesthetic & Community Expression Layer
+
+Building upon the adaptability of MARS, a dedicated aesthetic layer is integrated into residential modules and communal building surfaces. This system utilizes high-resolution, dynamic projection mapping and automation-managed reconfigurable decorative panels for both interior walls and designated exterior 'Community Canvas' zones. Residents can, via their smart devices, select from an extensive library of visual themes, personal artwork, or AI-generated designs to instantly transform their personal spaces. For external communal areas, residents can collectively propose and display larger-scale dynamic art installations, community messages, or ephemeral visual identities, fostering a unique character for each residential cluster and encouraging collaborative creative expression. This feature will begin implementation in Class U3 with basic automated projection and panel changes, maturing to fully AI-guided, immersive environments by Class U5.
 *   **Modularity:** Residential buildings are constructed from standardized, prefabricated modules (e.g., living space modules, kitchen modules, accessible bathroom modules).
 *   **Adaptability:** Based on declared resident preferences and needs (such as family growth, aging, or disability), the automation system can reconfigure, add, or remove modules from a residential unit. This ensures a resident's home evolves with their life-cycle.
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
