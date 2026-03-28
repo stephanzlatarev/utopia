@@ -21,6 +21,16 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Justice and Conflict Resolution
+
+While the city's design aims to minimize friction, the blueprint recognizes that disputes and conflicts are an inevitable part of human interaction. To address this, Utopia implements an internal, transparent, and humane justice framework based on the principles of Restorative Justice, which focuses on repairing harm and reconciling relationships rather than on punishment. (Source: [Centre for Justice & Reconciliation](http://restorativejustice.org/)). This framework operates in tiers, scaling with the severity of the issue:
+
+*   **Tier 1: AI-Mediated Resolution:** For minor interpersonal disagreements or resource disputes, the administration AI acts as a neutral mediator. It analyzes the preferences and feedback of all parties involved to propose mutually agreeable solutions, facilitate communication, and document outcomes. This process is voluntary and transparent to the participants.
+
+*   **Tier 2: Community Circles:** For more complex conflicts or when AI mediation is insufficient, residents can opt into a Community Circle. These are facilitated by trained resident volunteers (as a form of "civil work") who guide a structured dialogue between the affected parties and community members. The goal is to understand the root cause of the conflict, acknowledge the harm done, and collectively agree on a path to repair and reintegration.
+
+*   **Tier 3: Interface with State Rule:** In early-class cities (U1-U5) and for actions that cause severe harm (e.g., physical violence) which fall under the jurisdiction of the governing state, a clear protocol is established. The city administration's role is to securely document the incident, ensure the immediate safety of all residents, and act as a transparent liaison with state authorities. This protocol ensures that residents' rights are protected while adhering to the legal obligations of the state, clearly defining the boundaries of responsibility. In later-class cities (U6+), this tier evolves into a specialized internal body guided by the advanced conflict resolution AI.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
