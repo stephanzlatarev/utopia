@@ -94,3 +94,28 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Justice and Conflict Resolution
+
+To ensure a safe, fair, and cohesive society, Utopia implements a multi-tiered system for justice and conflict resolution. This system is designed to be accessible, transparent, and focused on restorative outcomes rather than punitive measures. It evolves with the city's class, progressively integrating automation as a supportive tool for a human-led process.
+
+#### Guiding Principles
+- **Restorative Justice:** The primary goal is to repair the harm caused by conflict and crime. It focuses on the needs of the victims, the offenders, and the community, rather than on abstract legal principles or punishment. (Source: Centre for Justice & Reconciliation)
+- **Community Involvement:** Residents are encouraged to participate in the justice process through mediation and community councils, fostering a sense of shared responsibility for community well-being.
+- **Proportionality:** The response to a conflict is proportional to the harm caused.
+- **Transparency:** All processes and decisions are documented and accessible to the involved parties and, where appropriate, the wider community, ensuring accountability.
+
+#### The Multi-Tiered System
+
+*   **Tier 1: Assisted Self-Resolution**
+    For minor disagreements and interpersonal conflicts, an AI-powered platform is available to all residents. This tool facilitates communication, provides conflict-resolution resources, and helps parties reach a mutually agreeable solution. The platform does not make judgments but acts as a neutral facilitator.
+
+*   **Tier 2: Certified Mediation**
+    For disputes that cannot be self-resolved, residents can request a certified human mediator. Mediators are residents who have undergone training in conflict resolution and restorative justice as a form of 'civil work'. They facilitate dialogue between parties to find a resolution that addresses the needs of everyone involved.
+
+*   **Tier 3: Community Justice Councils**
+    For more serious issues, including those involving significant harm or repeated breaches of community agreements, a Community Justice Council is convened. These councils are composed of a representative and randomly selected group of residents. They hear all sides of an issue, determine the harm done, and facilitate a restorative plan, which might include restitution, community service, or therapeutic programs. This tier is the primary mechanism for justice in Class U4 and above cities.
+
+*   **Tier 4: Interface with State Law (Classes U1-U5)**
+    In early-stage cities that operate within a state, serious crimes (e.g., those involving severe physical violence) will be referred to the state's legal system. The city administration will provide support and advocacy for its residents involved in such processes. The long-term goal is to develop a fully comprehensive Utopian legal framework for Class U6 cities that can handle all types of conflicts internally, based on the principles outlined above.
