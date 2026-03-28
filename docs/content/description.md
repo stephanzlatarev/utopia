@@ -40,6 +40,19 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+
+
+## Infrastructure
+
+To support the city's high degree of automation and guarantee the provision of basic needs, Utopia is built upon a foundation of resilient and sustainable infrastructure.
+
+### Energy: Decentralized Smart Grid
+
+The city's energy is supplied by a decentralized smart grid, a network of interconnected microgrids. This architecture eliminates single points of failure, ensuring that localized disruptions do not cascade into city-wide power outages. Key features include:
+*   **Diversified Generation:** Energy is generated from a mix of high-efficiency, sustainable sources integrated throughout the city. This includes building-integrated photovoltaics (BIPV) on all structures, geothermal energy taps for heating and cooling, and advanced waste-to-energy plasma gasification plants that process all city refuse.
+*   **Localized Storage:** Each microgrid, and in some cases individual buildings, is equipped with its own energy storage system (e.g., high-capacity batteries, thermal storage). This allows them to operate autonomously for extended periods if disconnected from the main grid, and helps to balance load by storing excess energy generated during low-demand periods.
+*   **AI-Powered Management:** The entire grid is managed by the city's core automation AI, which continuously optimizes energy distribution, predicts demand, and schedules maintenance, ensuring maximum efficiency and reliability.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
