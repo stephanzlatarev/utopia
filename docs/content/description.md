@@ -62,6 +62,36 @@ All residents have full access to the resources and services to cover their need
 They are guaranteed to not need to enter survival mode.
 This will encourage them to seek higher standard of living and greater purpose.
 
+### Defining and Evolving Basic Needs
+
+To translate the principle of guaranteed needs into an actionable specification, the blueprint incorporates the **Utopia Basic Needs Standard (UBNS)**. The UBNS is a versioned, publicly-accessible document that provides a clear, detailed, and non-negotiable definition of the services, resources, and environmental conditions guaranteed to every resident. This standard is designed to be machine-readable for the automation systems and human-readable for residents and developers.
+
+#### Core Categories of the UBNS
+
+The UBNS is grounded in established human well-being frameworks, such as the UN's Universal Declaration of Human Rights, ensuring a comprehensive foundation. The categories include:
+
+*   **Physiological & Health:**
+    *   **Nutrition:** Specifies minimum daily caloric and micronutrient intake, delivered via personalized meals, with access to raw ingredients for personal preparation.
+    *   **Shelter & Environment:** Defines standards for the 50m² of personal space, including climate control (20-24°C), air quality (AQI < 20), water purity, and sanitation.
+    *   **Healthcare:** Guarantees access to preventative care, emergency response (target < 5 mins), diagnostic services, common treatments, dental care, vision care, and full mental health support (including therapy and counseling).
+
+*   **Safety & Security:**
+    *   **Personal Safety:** Defines the right to physical security in all spaces, managed by automated monitoring and non-lethal response systems.
+    *   **Data Security:** Guarantees every resident's right to privacy and control over their personal data collected by the city's administration.
+    *   **Resource Security:** Ensures uninterrupted provision of all UBNS items, with defined redundancy and contingency plans.
+
+*   **Social & Community:**
+    *   **Connectivity:** Guarantees high-speed internet access and communication tools.
+    *   **Community Access:** Ensures access to public spaces, social group facilities, and cultural events organized by the city automation.
+
+*   **Growth & Development:**
+    *   **Education:** Guarantees lifelong access to a personalized educational curriculum, from early childhood development to advanced skills training and creative pursuits.
+    *   **Information:** Guarantees unimpeded access to the city's operational data and the global repository of human knowledge.
+
+#### Evolution of the Standard
+
+The UBNS is not static. As a city advances in Class (e.g., from U3 to U4), the corresponding version of the UBNS is upgraded to include higher-quality provisions or new categories, reflecting the increased capacity of the automation. This ensures that the definition of "basic needs" evolves alongside technological and social progress.
+
 ### Shelter
 
 Shelter is provided by residential buildings in the personal spaces.
