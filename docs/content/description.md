@@ -93,4 +93,29 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+## The Three Tiers of Provisioning
+
+To ensure clarity, fairness, and a sustainable path for progress, all goods and services within Utopia are categorized into three distinct, dynamic tiers. This framework forms the basis for the city's resource management and automation.
+
+### Tier 1: Universal Basic Needs (The Guarantee)
+
+This tier encompasses the fundamental resources required for a human to live a healthy, dignified, and secure life. These are non-negotiable and guaranteed to every resident unconditionally. The initial list is determined by established global standards and scientific consensus (e.g., WHO nutritional guidelines, UN standards for adequate housing, and access to information).
+
+*   **Scope:** Includes precisely defined allocations for shelter, nutrition, water, air quality, preventative healthcare, basic communication, and personal safety.
+*   **Evolution:** The scope of Universal Basic Needs can only be expanded as technology makes new services fundamentally essential for life and dignity. It can never be reduced.
+
+### Tier 2: Community Standard of Living (The Consensus)
+
+This tier includes goods and services that are not strictly essential for survival but are considered integral to a high-quality, comfortable, and fulfilling life by the community. The city's automation provides these to all residents based on collective preference and available production capacity.
+
+*   **Scope:** Includes advanced education, high-speed entertainment, diverse culinary options, access to specialized creative tools, and advanced public transport.
+*   **Evolution:** A product or service 'graduates' from the Luxury Market to the Community Standard when two conditions are met: (1) Preference data shows a sustained supermajority of residents desire it, and (2) the city's automation can produce and maintain it for everyone sustainably without compromising Tier 1 provisions. This mechanism ensures the standard of living continuously improves in a democratic and resource-aware manner.
+
+### Tier 3: The Luxury Market (The Frontier)
+
+This tier is the domain of the free market and represents all goods, services, and experiences beyond the first two tiers. It is the engine of innovation, personal expression, and specialized enterprise. Money is used exclusively within this tier.
+
+*   **Scope:** Includes highly personalized items, unique artistic creations, niche services, and experimental technologies.
+*   **Evolution:** Successful and widely adopted luxuries are the primary candidates for graduation into the Community Standard of Living, providing a direct incentive for market participants to create things of broad public value.
+
 All residents have access to video and audio communication, the internet, AI assistance.
