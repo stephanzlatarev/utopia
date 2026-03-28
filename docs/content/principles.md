@@ -26,6 +26,16 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+
+
+### Civic & Creative Contribution Exchange (C3E)
+
+To bridge the gap between automated provisions and the external free market, Utopia integrates a Civic & Creative Contribution Exchange (C3E). This system is designed to foster community, creativity, and personal purpose.
+
+*   **Contribution Credits:** Residents can earn non-monetary "Contribution Credits" by engaging in valued activities such as creating unique art, providing personal services (like tutoring or crafting), or participating in advanced "civil work" that enhances the community.
+*   **Peer-to-Peer Exchange:** These credits facilitate a vibrant internal economy, allowing residents to exchange unique goods and services directly with one another. This empowers artisans, innovators, and mentors to contribute their skills in a recognized and valued way.
+*   **Fostering Purpose:** The C3E system provides a powerful incentive for self-actualization and social connection, ensuring that even in a post-labor society, human creativity and effort are celebrated and form the basis of a dynamic community life.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
