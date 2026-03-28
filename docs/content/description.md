@@ -19,6 +19,11 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+
+- **through the Digital Agora & Privacy-by-Choice Protocol** - To counter the emotional coldness of pure data collection and to empower residents with digital autonomy, this protocol is established. It allows residents to:
+    - **Engage in the Digital Agora:** Participate in community-level deliberation spaces (both virtual and physical) to discuss and collectively signal preferences for public spaces, community services, and shared standards. This fosters a sense of community ownership and ensures the city's evolution feels collaborative, not just reactive to individual data.
+    - **Exercise Privacy-by-Choice:** Residents can activate a personal 'anonymity cloak' at any time. This allows them to use city spaces and non-critical services without their actions contributing to their preference profile, giving them the freedom to explore, create, or simply exist without feeling constantly monitored. This ensures a resident's right to privacy and spontaneity is protected, fostering a greater sense of trust and well-being.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
