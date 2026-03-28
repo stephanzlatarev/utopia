@@ -19,6 +19,29 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+
+### Conflict Resolution and Emergency Response
+
+While the city automation is designed to prevent conflict and hazards, a comprehensive blueprint must account for exceptions, disputes, and emergencies. To address this, a Justice and Emergency Response Framework (JERF) is integrated into the city's administration. This framework is designed to evolve with the city's class, but its principles remain constant: accessibility, fairness, and safety.
+
+#### Tier 1: Automated Mediation and System Adjudication
+For minor interpersonal disagreements, rule clarifications, or disputes arising from an automated decision (e.g., resource allocation, module reconfiguration), an AI-driven mediation system is the first point of contact. This system provides:
+- **Impartial Analysis:** It reviews system logs and resident feedback to provide an objective summary of the event.
+- **Guided Resolution:** It proposes solutions based on the blueprint's principles and precedents, aiming for a restorative and mutually agreeable outcome.
+- **Transparent Reporting:** All parties receive a clear explanation of the decision-making process. Residents can always appeal to Tier 2.
+
+#### Tier 2: Community Council Review
+For complex disputes requiring human nuance, emotional intelligence, or ethical judgment, cases can be escalated to a rotating Community Council. 
+- **Composition:** The council consists of resident volunteers who have undergone training in mediation and blueprint principles. An AI facilitator assists the council to prevent bias and ensure consistent application of rules.
+- **Mandate:** The council hears appeals from Tier 1 and addresses sensitive community issues. Its focus is on restorative justice rather than punishment.
+- **Binding Decisions:** Decisions are binding within the city's administrative framework, with a final appeal to external state authorities as defined in Tier 3.
+
+#### Tier 3: State and Emergency Services Protocol
+For criminal matters falling under the jurisdiction of the host state and for all critical emergencies (e.g., fire, major medical events, security threats), the city automation operates under a strict and explicit protocol.
+- **Defined Interface:** A dedicated, secure API allows authenticated state emergency services (police, fire, medical) to access necessary city systems.
+- **Emergency Access:** In a verified crisis, responders are granted override access to navigation, communication, and building control systems to ensure an effective response.
+- **Data Handover:** A clear legal framework, compliant with state law, governs the process for requesting and handing over data for criminal investigations, protecting resident privacy while ensuring lawful cooperation.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
