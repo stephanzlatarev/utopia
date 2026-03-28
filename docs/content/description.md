@@ -94,3 +94,16 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Public Safety
+
+While the city is designed to minimize incidents, a comprehensive and immediate response to emergencies is a fundamental safety need. Utopia will implement an Automated Emergency Response and Coordination System (AERCS) integrated directly into the city's core automation.
+
+#### Key Features of AERCS:
+*   **Automated Detection:** A network of integrated sensors (e.g., smoke, heat, air quality, biometric monitors in personal spaces based on opt-in preferences) and AI-powered analysis of public audio/video feeds will detect emergencies in real-time. This includes fires, medical emergencies (e.g., a fall or sudden collapse), structural failures, and security breaches.
+*   **Tiered Response Protocol:** Upon detection, AERCS initiates a multi-tiered response:
+    1.  **Immediate Automated Action:** The system takes instant, localized action, such as activating fire suppression systems, unlocking emergency exit routes, or dispatching a drone with a defibrillator or first-aid kit.
+    2.  **Coordination with Human Responders:** For all emergencies requiring human intervention (standard in Class U1-U5 cities), AERCS automatically transmits a detailed data packet—including location, incident type, number of people affected, and a live data feed—to the relevant state emergency service (Fire, Police, EMS).
+    3.  **Dynamic Environmental Control:** The system will dynamically manage city infrastructure to assist first responders, such as rerouting traffic to clear a path for emergency vehicles, increasing lighting in an incident area, and providing responders with override access to automated doors and systems.
+*   **Resident Communication:** In the event of a public-space or building-wide emergency, AERCS will broadcast clear, actionable instructions to residents' personal devices and public announcement systems, ensuring orderly evacuations or shelter-in-place procedures.
