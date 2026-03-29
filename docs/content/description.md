@@ -30,6 +30,32 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+To ensure the safety, security, and well-being of all residents, Utopia implements a multi-layered and evolving framework for justice and conflict resolution. This framework is designed to handle disputes internally whenever possible, promoting restorative outcomes, while maintaining a clear and structured interface with external state legal systems when necessary.
+
+#### Utopia Charter of Rights and Responsibilities
+
+All residents of a Utopia city agree to a foundational charter that outlines their rights (e.g., right to personal space, security, fair treatment) and responsibilities (e.g., respect for community norms, non-interference with automation). This charter serves as the primary legal and ethical guide for internal governance and conflict resolution.
+
+#### Phased Implementation
+
+The approach to justice evolves with the city's classification:
+
+*   **Class U1-U3 (Hybrid Model):**
+    *   **Community Mediation Service (CMS):** For internal disputes, disagreements, and minor infractions of the Charter, the city provides a CMS. This service is staffed by trained resident volunteers (as a form of 'civil work') and supported by AI tools for case management and guidance. The focus is on restorative justice principles—repairing harm and reconciling parties—rather than punishment.
+    *   **Utopia-State Legal Interface Protocol:** For serious crimes or disputes that fall outside the scope of the CMS or require state-level legal authority, a clear protocol governs the interaction with the host state's law enforcement and judicial systems. This protocol ensures that residents' rights are protected and that the process is transparent and efficient.
+
+*   **Class U4-U5 (Enhanced Automation):**
+    *   The CMS is enhanced with more sophisticated AI that can act as a neutral mediator in a wider range of disputes, providing data-driven insights and suggesting equitable resolutions. Human oversight remains critical.
+    *   The city begins to develop its own automated systems for recording and verifying evidence in a secure and tamper-proof manner, which can be used in both internal and external legal proceedings.
+
+*   **Class U6-U7 (Automated Justice System):**
+    *   In a state-independent Utopia, the city operates a fully-developed Automated Justice System (AJS). The development of the AJS is a core focus of the blueprint's open-source community, with a strong emphasis on:
+        *   **Ethical AI:** Continuously audited for bias and grounded in the Utopia Charter.
+        *   **Transparency:** All AJS decisions and their underlying logic are fully auditable by residents.
+        *   **Human Oversight:** A council of resident-appointed ethicists and legal experts oversees the AJS's operation and can intervene in complex or contested cases.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
