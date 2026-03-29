@@ -19,6 +19,15 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+
+### Community Deliberation & Configuration
+
+To bridge the gap between individual preference aggregation and global blueprint development, a 'Community Council' module is integrated into the city administration process. This system provides a structured framework for localized, collective decision-making on configurable aspects of the city's operation.
+
+- **AI-Facilitated Deliberation:** When a significant local issue arises (e.g., the use of a new public space, adjusting noise policies in a residential block), the system can initiate a deliberative process. An AI moderator ensures discussions are fair, on-topic, and inclusive, summarizing arguments and identifying points of consensus.
+- **Sortition-Based Councils:** For specific decisions, a temporary council is formed via sortition (a civic lottery). A representative, random sample of affected residents is invited to participate, ensuring fair representation without creating career politicians. Participation is voluntary.
+- **Scoped Authority:** These councils do not create new laws. Instead, they vote on how to configure pre-approved variables and policies within the blueprint for their local area (e.g., setting a park's operating hours, designating a group space for a specific purpose). All decisions are transparent, logged, and auditable by any resident, and are often time-bound to allow for future review.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
