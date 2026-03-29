@@ -71,6 +71,16 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+Utopia implements a Closed-Loop Automated Water System (CLAWS) to guarantee a resilient and sustainable water supply. This system operates on the principles of resource independence and real-time quality assurance.
+
+#### Key Features:
+*   **Source Independence:** Water is primarily sourced through a distributed network of atmospheric water generators (AWGs) and advanced rainwater harvesting systems. This eliminates dependency on external, and often unpredictable, sources like rivers or aquifers.
+*   **Comprehensive Recycling:** All wastewater is processed through a decentralized treatment system. Greywater from sinks and showers is treated and reused for irrigation and industrial needs, while blackwater undergoes a multi-stage purification process, including membrane bioreactors and reverse osmosis, to be returned to potable quality. This creates a circular water economy with near-zero discharge.
+*   **Real-time Quality Monitoring:** A network of embedded sensors continuously monitors water quality throughout the entire system—from source generation and treatment plants to the final point-of-use taps. This data is transparently available to all residents, providing factual assurance of water safety that exceeds conventional standards.
+*   **Automated Management:** The entire water grid, including pressure regulation, leak detection, and maintenance dispatch for robotic repair units, is managed by the city's core automation. This ensures optimal efficiency and immediate response to any system anomalies, guaranteeing uninterrupted service.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
