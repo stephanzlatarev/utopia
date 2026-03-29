@@ -56,6 +56,14 @@ The city manages its resources in a way to provide for the physiological needs o
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
 
+### Emergency Preparedness: The Aegis Protocol
+
+To ensure resilience against systemic failures or large-scale disasters where the primary automation may be compromised or overwhelmed, Utopia implements the Aegis Protocol. This protocol establishes a decentralized, human-centric fallback system designed to safeguard residents during the most critical events.
+
+*   **Civil Response Corps (CRC):** A voluntary cadre of residents who receive standardized training in first aid, light search-and-rescue, crisis communication, and resource management. The CRC forms the backbone of the city's emergency response, providing organized, on-the-ground support and leadership when automated systems are unavailable.
+*   **Decentralized Mesh Network:** A secondary, low-power, hardened communication network operates independently of the city's main infrastructure. In an emergency, this network automatically activates, allowing CRC members and residents to communicate and coordinate via their personal devices even if primary internet and power grids are down.
+*   **Aegis Hubs:** Strategically located throughout the city, often integrated into public or group spaces, these hubs serve as pre-stocked caches. They contain essential supplies like medical kits, analog tools, water purifiers, and emergency power sources. During a crisis, they become physical coordination points for the CRC.
+
 Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
 
 All residents have full access to the resources and services to cover their needs.
