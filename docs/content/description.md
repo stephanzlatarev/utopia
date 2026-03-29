@@ -50,6 +50,9 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 *   **Efficiency:** The use of standardized modules allows for automated mass production, high energy efficiency standards, and simplified robotic maintenance. It also creates a circular economy where modules from downsized or vacated units are refurbished and redeployed, minimizing waste.
 *   **Allocation:** Initial housing allocation and subsequent modifications are managed by the city's core automation, based on resident profiles and needs assessment, ensuring equitable and appropriate distribution of living space.
 
+#### Enhanced Features:
+*   **Creative Canvas Modules:** In addition to standard functional modules, residents can request 'Creative Canvas Modules.' These are structurally sound, utility-ready, but internally unfinished spaces. This allows residents, as part of their 'civil work,' to design and build out personalized or communal areas—such as art studios, workshops, greenhouses, or shared libraries—fostering creativity, skill development, and a deeper sense of ownership and community.
+
 ## Basic needs
 
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
