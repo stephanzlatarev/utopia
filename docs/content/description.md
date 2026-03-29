@@ -94,3 +94,16 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Water
+
+Utopia implements a Symbiotic Water Cycle System, a decentralized, closed-loop network designed for maximum resilience, sustainability, and efficiency. This system treats water not as a consumable, but as a continuously recycled resource integrated into the city's metabolism.
+
+#### Key Features:
+*   **Three-Tiered Architecture:**
+    1.  **Potable Water Grid:** A smart, redundant mesh network delivers high-quality drinking water, primarily sourced from atmospheric water generators (AWG) and advanced purification of reclaimed water. Real-time sensors at every point-of-use (taps, showers) continuously monitor and guarantee quality.
+    2.  **Hyper-Local Greywater Recycling:** Water from sinks, showers, and laundry is treated and recycled on-site within residential blocks (MARS units) or public buildings for non-potable uses like toilet flushing, vertical farm irrigation, and maintaining public green spaces.
+    3.  **Distributed Resource Recovery:** Blackwater (from toilets) is not sent to a central treatment plant but to smaller, distributed Resource Recovery Hubs. These automated bio-reactors use microbial processes to purify the water while simultaneously harvesting valuable resources like biogas for energy and nutrient-rich biosolids for agriculture.
+*   **Resilience and Self-Sufficiency:** The decentralized nature of the system eliminates single points of failure. In the event of a local contamination or maintenance issue, the smart grid can instantly reroute water, and individual blocks can operate temporarily on their own recycled greywater and stored potable water, ensuring uninterrupted service.
+*   **Aesthetic Integration:** The system is designed to be a visible and beautiful part of the urban landscape. Rainwater harvesting is integrated into building facades as artistic waterfalls, and public spaces feature bio-filters and ponds that are both functional parts of the water cycle and serene amenities for residents.
