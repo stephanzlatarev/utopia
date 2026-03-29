@@ -19,6 +19,19 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+#### Conflict and Preference Resolution Protocol
+
+While the automation system is designed to configure the city based on resident preferences, conflicts are inevitable (e.g., competing uses for a public space, differing opinions on noise levels). To address this, the blueprint encodes a transparent and tiered Conflict and Preference Resolution Protocol (CPRP) to ensure decisions are fair, understandable, and not simply a matter of majority rule.
+
+- **Tier 1: Automated Negotiation & Compromise**
+  For simple, localized conflicts between individuals or small groups, the system will first act as an impartial mediator. It will analyze the preferences, identify potential compromises (e.g., time-sharing a resource, alternative locations), and propose solutions to the involved parties. The goal is to find a mutually agreeable outcome without escalating the issue.
+
+- **Tier 2: Deliberative Polling for Community Issues**
+  For larger-scale decisions affecting a whole neighborhood or the entire city, the system will initiate a Deliberative Poll. A statistically representative, random sample of residents will be invited to participate. They are provided with balanced briefing materials and engage in moderated discussions (both AI- and human-facilitated) to explore the nuances of the issue before their informed preferences are registered. This ensures that the collective preference is reflective and considered, rather than a top-of-mind reaction.
+
+- **Tier 3: Citizen Review Panels for Appeals & Edge Cases**
+  Any automated decision from Tier 1 or 2 can be appealed. Furthermore, issues with significant ethical implications that the AI cannot resolve (e.g., a novel land-use dilemma) are automatically flagged for human review. A Citizen Review Panel, composed of a randomly selected jury of residents, is convened. This panel reviews all relevant data, the AI's reasoning, and the arguments of the involved parties, and makes a binding decision. This provides a crucial human-in-the-loop failsafe, ensuring accountability and contextual understanding.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
