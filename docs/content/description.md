@@ -94,3 +94,28 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Justice and Conflict Resolution
+
+To ensure a harmonious and fair society, Utopia implements a transparent, multi-tiered framework for resolving disputes and conflicts. This framework is designed to be accessible, restorative, and to evolve with the city's technological capabilities, moving from state-delegated authority towards a self-sufficient and humane system.
+
+#### Guiding Principles
+*   **Restorative Focus:** The primary goal is to repair harm and restore relationships within the community, rather than to be purely punitive.
+*   **Accessibility & Transparency:** All residents have easy access to the resolution process, and the rules, procedures, and non-confidential outcomes are transparent.
+*   **Proportionality:** The response to a conflict is proportional to the harm caused.
+*   **Human Oversight:** While leveraging automation for efficiency, critical decisions and appeals are subject to human review to ensure empathy, fairness, and common sense.
+
+#### The Multi-Tiered System
+1.  **Tier 1: AI-Assisted Mediation (For Minor Disputes)**
+    -   An AI-powered Online Dispute Resolution (ODR) platform is available 24/7 for minor interpersonal or service-related conflicts (e.g., disputes over shared space usage, disagreements about service personalization).
+    -   The AI acts as a neutral facilitator, guiding residents through a structured dialogue to help them reach a mutually agreeable solution.
+
+2.  **Tier 2: Community-Led Restorative Circles (For Interpersonal Conflicts)**
+    -   For more significant interpersonal conflicts, residents can opt for restorative justice circles.
+    -   These are voluntary, confidential processes facilitated by trained community members (as a form of 'civil work'), where all parties involved can express themselves and collaboratively decide how to repair the harm.
+
+3.  **Tier 3: Formal Adjudication (For Blueprint Violations)**
+    -   For clear violations of the city's established code of conduct (which is part of the blueprint and accessible to all), a formal process is initiated.
+    -   In early-class cities (U1-U3), this is handled by the designated state legal system.
+    -   In advanced-class cities (U4+), an automated system analyzes the case against the blueprint's rules and suggests a resolution. This resolution is then reviewed and must be approved by a rotating, randomly-selected Citizen Review Board to prevent purely algorithmic judgment and provide human oversight. An appeals process to a different board is always available.
