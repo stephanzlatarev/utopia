@@ -19,6 +19,24 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Preference Management Framework
+
+To ensure the preference-driven administration of Utopia is transparent, equitable, and effective, the blueprint includes a Preference Management Framework (PMF). The PMF provides the guiding principles for the automation that collects, analyzes, and acts on resident preferences. It addresses the inherent complexities of aggregating individual desires into collective action, a challenge long recognized in social choice theory (e.g., Arrow's Impossibility Theorem). The framework is built on the following core principles:
+
+*   **Transparency and Auditability:** All algorithms used for preference aggregation and decision-making are open source and fully documented within the city's blueprint. Residents can access a personalized dashboard to see how their expressed preferences have been factored into administrative decisions and understand the rationale behind outcomes, especially when preferences conflict.
+
+*   **Hierarchy of Needs:** The system differentiates between types of preferences, prioritizing them based on a hierarchy.
+    *   **Core Needs:** Preferences directly related to a resident's basic health, safety, and accessibility as defined in the 'Basic Needs' section are given the highest priority.
+    *   **Community Standards:** Preferences that affect shared spaces and community well-being are evaluated collectively through a system of weighted polling and participatory budgeting simulations.
+    *   **Personal Wants:** Individual aesthetic or lifestyle preferences for personal spaces are accommodated as long as they do not infringe upon the Core Needs or Community Standards of others.
+
+*   **Conflict Resolution Mechanisms:** When direct conflicts between preferences arise, the automation initiates a tiered resolution process:
+    1.  **Automated Compromise:** The system first proposes optimized compromises that aim for a "win-win" or "minimal-loss" scenario for all parties involved.
+    2.  **Mediated Dialogue:** If no automated compromise is accepted, the system can facilitate a voluntary, anonymized, or AI-moderated dialogue between the concerned residents to find common ground.
+    3.  **Community Deliberation:** For persistent conflicts affecting a larger group, the issue can be elevated to a community-level deliberation forum, where residents can review data, discuss trade-offs, and vote on potential solutions.
+
+*   **Privacy by Design:** The preference collection system operates on the principle of data minimization. It collects only the necessary information to provide services and aggregates data anonymously whenever possible. Residents have granular control over their data, with clear options to opt-in or opt-out of different levels of data sharing for specific services.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
