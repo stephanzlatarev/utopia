@@ -23,6 +23,23 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Conflict Resolution and Preference Arbitration
+
+To ensure social harmony and uphold the principle of Fairness, the city employs a transparent, multi-tiered system for resolving interpersonal conflicts and arbitrating between contradictory resident preferences. The system is designed to be restorative and understandable, with its logic and principles fully accessible to all residents.
+
+*   **Tier 1: AI-Facilitated Mediation:** For most conflicts (e.g., noise disputes, shared space disagreements), the system's AI acts as a neutral mediator. It analyzes the context based on the city's operational data and stated principles, explains the trade-offs to the involved parties, and proposes a series of potential compromises. The goal is to reach a mutually agreeable solution without escalation.
+
+*   **Tier 2: Principled Arbitration:** If mediation fails or the issue involves the allocation of public resources based on conflicting preferences (e.g., use of a public space), the automation arbitrates a decision based on a clearly defined and public hierarchy of principles. This hierarchy is encoded in the blueprint and prioritizes:
+    1.  **Safety and Security:** Actions that compromise the health or safety of any resident are prohibited.
+    2.  **Guaranteed Basic Needs:** The fulfillment of a resident's guaranteed basic needs takes precedence over another's preference.
+    3.  **Accessibility and Equity:** The needs of vulnerable or minority groups are weighted to ensure equitable access and prevent marginalization.
+    4.  **Community Well-being:** The solution that provides the greatest benefit to the wider community, with minimal negative impact, is favored.
+    5.  **Personal Preference:** Individual preferences are accommodated where they do not conflict with higher-priority principles.
+
+*   **Tier 3: Adjudication:** For severe disputes involving harm or significant loss of property, the process is delegated to the relevant external authority.
+    - **In Class U1-U5 cities:** The matter is referred to the legal and judicial system of the host state.
+    - **In Class U6+ cities:** A dedicated, fully-auditable AI adjudication module, operating on principles of restorative justice, will handle the case. All of its reasoning and decision-making processes will be made transparent to the involved parties and the community.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
