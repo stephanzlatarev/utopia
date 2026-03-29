@@ -23,6 +23,26 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Justice and Conflict Resolution
+
+To ensure social harmony and uphold the principle of personal security, Utopia implements a multi-tiered system for resolving disputes and addressing blueprint violations. This framework is designed to be restorative rather than punitive, focusing on repairing harm and strengthening community bonds. It replaces the undefined dependency on external 'state rule' with a clear internal process that evolves with the city's class.
+
+#### Tier 1: Automated Assistance & Mediation
+For minor, non-malicious conflicts (e.g., disputes over shared space usage, noise complaints), residents can access an AI-driven assistance tool. This system acts as an impartial digital mediator that:
+-   Clarifies the relevant blueprint rules and guidelines.
+-   Analyzes data (with consent) to identify patterns and suggest compromises.
+-   Facilitates anonymous or moderated communication between parties to find a mutually agreeable solution.
+
+#### Tier 2: Community-Led Restorative Circles
+If automated assistance is insufficient or inappropriate, the issue can be escalated to a voluntary, human-led process. This is managed by the Community Justice Council (CJC), a body of residents who have undergone certified training in mediation and restorative justice (a form of advanced 'civil work'). The process involves:
+-   **Mediation:** A neutral third party from the CJC facilitates a conversation to help disputing parties reach an agreement.
+-   **Restorative Circles:** For incidents involving harm, the CJC convenes a circle including those who were harmed, those who caused harm, and affected community members. The goal is to acknowledge the harm, understand the impact, and collectively decide on a path to repair the harm and reintegrate individuals into the community.
+
+#### Tier 3: Formal Adjudication & Host State Integration
+For serious blueprint violations (e.g., acts causing significant physical or psychological harm) or when restorative processes are rejected or fail, a formal process is required.
+-   **In Class U1-U5 Cities:** These incidents are formally referred to the legal and judicial system of the host state in which the city operates. The city administration's role is to cooperate fully with state authorities while providing support services (e.g., counseling, temporary re-housing) to affected residents.
+-   **In Class U6+ Cities:** As a city becomes independent of a host state, its CJC will evolve to include a formal adjudication branch. This branch will operate based on a constitutional framework developed as part of the blueprint, ensuring due process, rights of the accused, and transparent proceedings. The focus remains restorative, but with the authority to enact binding resolutions, including temporary or permanent removal from the city in extreme cases, upholding Principle 05.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
