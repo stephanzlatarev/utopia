@@ -91,6 +91,16 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+
+### Emergency Preparedness
+
+To ensure resident safety during unforeseen large-scale emergencies such as natural disasters, pandemics, or critical infrastructure failures, Utopia integrates an **Automated Resilience & Emergency Network (AREN)**.
+
+*   **Decentralized Intelligence:** AREN operates as a redundant, decentralized AI network, separate from the primary city administration AI. This ensures it remains operational even if central systems are compromised.
+*   **Dynamic Resource Allocation:** The network can instantly re-prioritize and re-route automated supply chains for food, water, and medical supplies to where they are needed most.
+*   **Adaptive Infrastructure:** In an emergency, AREN can commandeer the Modular and Adaptable Residential System (MARS) and other public spaces, automatically reconfiguring them into temporary emergency shelters, triage centers, or quarantine zones based on the nature of the crisis.
+*   **Coordinated Response:** It deploys and coordinates a fleet of specialized robotic first responders for search and rescue, firefighting, and medical assistance, while also communicating with and guiding a trained **Civilian Aid Corps**—resident volunteers who are empowered with tools and information to assist in community-level response efforts.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
