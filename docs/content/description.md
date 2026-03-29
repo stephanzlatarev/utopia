@@ -93,4 +93,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+### Waste and Water Management
+
+To ensure long-term environmental sustainability and resource self-sufficiency, Utopia integrates a modular, closed-loop Bio-Circular Resource System at the block or building level. This system is designed to manage all water and organic waste generated within the city, transforming them into valuable resources.
+
+#### Key Features:
+*   **Water Reclamation:** All wastewater (greywater and blackwater) is collected and treated on-site using a multi-stage process, including membrane bioreactors and advanced oxidation. This automated process recycles water to potable standards, drastically reducing the city's reliance on external freshwater sources. Real-time water quality data is continuously monitored and made available to residents.
+*   **Waste-to-Energy Conversion:** Organic waste, including food scraps and biosolids from water treatment, is processed through anaerobic digestion. This biological process produces biogas (primarily methane), which is captured and used as a localized energy source for heating or power generation, supplementing the city's primary energy grid.
+*   **Nutrient Cycling:** The solid byproduct of anaerobic digestion, known as digestate, is a nutrient-rich and pathogen-free fertilizer. This is automatically collected and distributed to vertical farms and parks within the city, creating a closed nutrient loop that supports the urban food production system mentioned in the "Food" section.
+*   **Modular Integration:** These resource recovery modules are designed to integrate seamlessly with the Modular and Adaptable Residential System (MARS). As residential blocks expand or contract, the resource management capacity scales accordingly, maintaining peak operational efficiency.
+
 All residents have access to video and audio communication, the internet, AI assistance.
