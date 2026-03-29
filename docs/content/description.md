@@ -28,6 +28,21 @@ This guarantees the founding principle of Utopia that no person or group of peop
 
 This design choice is inspired by the Linux operating system for computers. The developers of Linux distributions encode automation rules for how the computer resources are used for certain tasks. Yet, they don't have any control over the computers on which I install the Linux OS.
 
+### Conflict Resolution
+
+To ensure social harmony and provide residents with a fair and accessible justice system aligned with Utopian principles, the city implements a tiered internal conflict resolution framework. This system is active from Class U1 and evolves with the city's technological capabilities, emphasizing restorative justice—an approach focused on repairing harm and reconciling relationships rather than on punishment. The resolution of major violent crimes remains under the jurisdiction of the governing state, but all other interpersonal and community disputes are handled internally.
+
+This framework consists of three tiers:
+
+*   **Tier 1: AI-Assisted Mediation**
+    For minor disputes, such as disagreements over the use of shared spaces or interpersonal misunderstandings, residents can initiate an AI-mediated dialogue. The system provides a neutral platform, suggests compromises based on community agreements and anonymized precedents, and helps guide the involved parties toward a mutually agreeable, voluntary resolution.
+
+*   **Tier 2: Community Mediation**
+    If AI mediation is insufficient or if parties prefer human interaction, the dispute can be elevated to community mediation. This involves trained resident mediators, participating as a form of 'civil work,' who facilitate a restorative dialogue. The goal is for the person who caused harm to understand the impact of their actions and for those affected to have their needs addressed.
+
+*   **Tier 3: Restorative Council**
+    For more serious non-violent conflicts or breaches of community standards, cases can be brought before a Restorative Council. This council is composed of a rotating panel of residents selected by lottery, advised by a specialized AI on ethics and precedent. The Council's mandate is not to punish, but to determine a consensus-based plan for repairing the harm done to individuals and the community.
+
 ### State rule
 
 Until the automation advances sufficiently, the city operates within a state.
