@@ -93,4 +93,19 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+
+## Economic Model
+
+Utopia operates on a dual-economy model designed to eliminate survival-based anxiety while fostering creativity and purpose.
+
+### The Foundational Economy
+This is a resource-based, non-monetary system managed entirely by the city's automation. It covers all services and goods related to the guaranteed basic needs and the established standard of living. Residents access these resources freely, without cost or debt, ensuring universal security and well-being.
+
+### The Luxury Market and Community Contribution Credits (CCCs)
+To power the free market for luxuries (Principle 05), Utopia uses an internal digital currency called Community Contribution Credits (CCCs). This system is designed to reward creativity and community enrichment, not labor.
+
+*   **Earning Credits:** Residents earn CCCs by engaging in voluntary activities that enrich the community. Examples include creating public art, conducting novel research, organizing cultural events, or developing enhancements for the city's open-source blueprint. The AI administration impartially assesses and awards credits based on transparent, community-validated metrics.
+*   **Function:** CCCs are the sole medium of exchange within the luxury market. This allows residents to commission unique goods, access bespoke services, or support the creative endeavors of others.
+*   **Fairness and Incentive:** This model ensures the luxury market is accessible to all residents based on their contributions, not pre-existing wealth. It provides a powerful incentive for personal growth and social enrichment, directly linking self-actualization with the vibrancy and dynamism of the community.
+
 All residents have access to video and audio communication, the internet, AI assistance.
