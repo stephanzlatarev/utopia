@@ -21,6 +21,20 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Adjudication and Conflict Resolution
+
+While the automation is designed to prevent conflicts by meeting needs, disputes between residents or violations of community standards are inevitable. To address this, the city's governance includes a transparent framework for justice.
+
+#### Charter of Resident Rights and Digital Justice
+
+All administrative and judicial actions are governed by a public charter that outlines:
+
+*   **Right to Transparency:** Residents have the right to understand the rules that govern them and the logic behind any automated decision that directly affects them.
+*   **Right to Due Process:** A clear, tiered process for handling disputes, starting with automated mediation and escalating to human-reviewed arbitration for complex cases. The system will prioritize restorative justice practices aimed at repairing harm and relationships over punitive measures.
+*   **Hierarchy of Needs and Rights:** The blueprint encodes a clear hierarchy to resolve conflicts. The right to safety and the provision of basic needs (e.g., quiet enjoyment of personal space for sleep) will always take precedence over non-essential preferences (e.g., the desire to host a loud party after a certain hour).
+*   **Right to Appeal:** All automated adjudications can be appealed to a rotating panel of resident arbitrators or a professional ombudsman service, especially in early-class cities. This ensures human oversight and a path for recourse against unforeseen errors in the automation's logic.
+*   **Data Privacy in Disputes:** All data used in conflict resolution will be anonymized and minimized to protect the privacy of those involved, used only for the purpose of resolving the specific dispute.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
