@@ -19,6 +19,17 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Contingency and Emergency Response Framework (CERF)
+
+While the city administration is designed for seamless automated operation, the blueprint accounts for unforeseen events, system failures, and large-scale emergencies through the Contingency and Emergency Response Framework (CERF). This framework ensures resident safety and system integrity when standard automated protocols are insufficient.
+
+Key components of CERF include:
+
+- **System State Alerts:** The city's core automation continuously monitors for anomalies. It can declare different System States (e.g., State 1: Normal, State 2: Minor Anomaly, State 3: System-wide Failure, State 4: External Crisis) which automatically trigger predefined protocols.
+- **Human Oversight Council (HOC):** In Class U1-U4 cities, a trained and certified council of resident volunteers is granted temporary, auditable authority during State 3 or 4 emergencies. Their role, modeled on the Incident Command System (ICS), is not to create policy but to direct a crisis response, authorize manual overrides of automated systems (e.g., re-routing transportation, opening emergency shelters), and serve as a human interface for external state agencies.
+- **Transparent Failsafes:** All critical systems (e.g., water, air, housing module locks) are designed with documented, physically accessible manual overrides. The procedures for using these are made available to residents based on the declared System State to prevent cascading failures.
+- **Post-Incident Review:** Every activation of the CERF is logged in its entirety and made public to all residents. The data is used by the blueprint developers to improve the automation and reduce the likelihood of future, similar failures.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
