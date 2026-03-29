@@ -21,6 +21,21 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Dispute and Conflict Resolution
+
+While automation and the provision of all basic needs are designed to minimize social friction, conflicts are an inevitable part of any human community. To ensure fair and timely resolution that aligns with Utopia's principles, the city implements a multi-tiered internal justice system, escalating only to external state authorities as a final resort for serious criminal matters. This approach empowers residents and maintains the city's operational sovereignty.
+
+**Tier 1: AI-Assisted Mediation**
+For minor infractions of city protocols (e.g., noise levels, misuse of public space) or simple disagreements, the city's administration AI initiates a mediation process. It alerts the involved parties, presents the relevant blueprint rules, and proposes a set of standard, restorative solutions. The goal is rapid, unbiased resolution for low-level issues.
+
+**Tier 2: Community Mediation Council**
+For interpersonal disputes that require human nuance (e.g., personal disagreements, ongoing harassment), residents can voluntarily bring their case to a rotating council of trained resident mediators. These mediators are citizens performing "civil work" who are trained in conflict resolution, restorative justice, and the blueprint's ethical framework. Their role is to facilitate dialogue and help parties reach a mutually agreeable solution, strengthening community bonds.
+
+**Tier 3: Blueprint Arbitration Board**
+Disputes that are complex, involve a direct conflict with a core automation decision (e.g., a housing reconfiguration), or are not resolved by mediation can be escalated to an Arbitration Board. This board consists of a panel of senior blueprint developers and elected resident representatives. They review the technical and social aspects of the case, and their binding decisions serve as precedents that can inform future updates to the blueprint. All proceedings are transparently logged and available for resident review.
+
+This internal system ensures that the majority of conflicts are handled in a way that is restorative, community-focused, and consistent with the city's core principles, preserving the external state's involvement for only the most serious issues.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
