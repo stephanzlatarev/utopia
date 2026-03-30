@@ -30,6 +30,15 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### State Interface Protocol (SIP)
+
+To ensure the safety of residents and the stable, lawful operation of the city within a host state, a formal State Interface Protocol (SIP) must be established prior to the city's founding. This protocol is a foundational legal and technical agreement between the city's administration and the host state's government. It is a critical component for all city classes up to U6 and must, at a minimum, define the following:
+
+*   **Jurisdictional Concordat:** A legally binding charter that clearly delineates jurisdictional authority. It specifies which matters fall under the city's automated administration (e.g., resource allocation, module configuration, minor code-of-conduct violations) and which remain under the exclusive jurisdiction of the host state (e.g., violent crime, civil disputes between residents, enforcement of national law).
+*   **Emergency Services Keystone:** A secure, audited, and reliable system (both technical and procedural) that grants credentialed state emergency personnel (police, fire, medical) sanctioned and immediate access to necessary areas and information within the city during a verified emergency. This includes the ability to override specific automated functions (e.g., door locks, transportation routes) when required for life-saving or law-enforcement activities.
+*   **Data Governance & Exchange Framework:** A strict protocol governing the request, approval, and transfer of data between the city automation and state authorities. This framework will be designed to provide necessary information for criminal investigations or emergency response while upholding the privacy of residents, ensuring all data sharing is lawful, logged, and subject to oversight.
+*   **Designated Liaison Roles:** For city classes U1-U4, the administration will include designated and trained human liaison officers responsible for managing the SIP, facilitating communication with state officials, and serving as the primary point of contact during major incidents.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
