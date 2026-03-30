@@ -91,6 +91,14 @@ This is the basis for a healthier population.
 
 In addition, all residents have access to high-quality medical equipment and expertise.
 
+### Emergency Response
+
+While Utopia's design focuses on proactive incident prevention, the city also incorporates a robust, semi-automated Emergency Response and Resilience Framework to manage incidents that do occur. This framework combines the speed and data-processing power of automation with the critical thinking, adaptability, and empathy of human responders.
+
+*   **Integrated Command System:** An automated system continuously monitors city sensors for anomalies (e.g., smoke, structural stress, bio-signs of distress, security breaches). Upon detecting a critical event, it instantly dispatches automated first-responder units (drones for fire suppression, medical supply delivery, and situational awareness) and simultaneously alerts a dedicated corps of trained resident responders.
+*   **Human-in-the-Loop Corps:** As part of 'civil work', residents can volunteer for and receive advanced training in specific emergency roles (e.g., medical triage, search and rescue, fire containment, crisis de-escalation). In an emergency, alerted corps members are guided by the AI, which provides real-time data, optimal routes, and recommended actions to their personal devices, allowing them to act as an effective and coordinated on-the-ground force.
+*   **Resilience and Redundancy:** This hybrid approach ensures operational continuity even if parts of the central automation are compromised or fail. The human corps can operate with a degree of autonomy, using their training to adapt to unforeseen circumstances that fall outside the blueprint's pre-defined protocols.
+
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
