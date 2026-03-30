@@ -21,6 +21,16 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community & Conflict Resolution
+
+To ensure a safe, harmonious, and responsive social environment, Utopia implements a multi-tiered system for resolving disputes and upholding community norms. This framework evolves with the city's class, progressively integrating automation while preserving human-centric processes for empathy and understanding. The system is grounded in principles of Restorative Justice, which focuses on repairing harm and addressing the needs of all involved parties. (Source: Centre for Justice and Reconciliation, "A Little Book of Restorative Justice").
+
+*   **Tier 1: AI-Assisted Mediation:** For minor interpersonal issues (e.g., noise levels, shared space usage), an automated system acts as a neutral first point of contact. It provides objective data, facilitates communication between residents, and suggests mutually agreeable solutions, such as resource reallocation (e.g., automated module soundproofing) or scheduling adjustments for shared amenities.
+
+*   **Tier 2: Voluntary Community Circles:** For more complex disputes requiring nuanced understanding and empathy, residents can initiate or be invited to a Community Circle. These are facilitated by trained resident volunteers, with the AI serving as a record-keeper and information provider to ensure fairness and consistency. This process empowers residents to take ownership of their community's well-being and develop social bonds.
+
+*   **Tier 3: Formal Adjudication & The Community Covenant:** For serious breaches of community safety and trust that cannot be resolved through the lower tiers, a formal process is initiated. In early-class cities, this is handled in coordination with state authorities. In mature-class cities (U5+), this is managed by a specialized AI Adjudicator. All formal decisions are made based on a transparent, living document known as the **Community Covenant**. This document, which outlines the core rights, responsibilities, and behavioral norms of residents, is developed and amended via a transparent, consensus-driven feedback process managed through the city's feedback portal.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
