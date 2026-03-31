@@ -21,6 +21,21 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Safety and Conflict Resolution
+
+While the city's design aims to minimize friction, a comprehensive framework is required to manage interpersonal conflicts, policy violations, and emergencies. This is handled through a tiered system designed to resolve issues at the most local and appropriate level possible, while ensuring a clear and robust interface with state-level authorities when necessary.
+
+*   **Tier 1: AI-Assisted Mediation**
+    For low-level disagreements (e.g., disputes over shared space configurations, noise, or resource use), residents can initiate a mediation process through their personal interface. A specialized AI, trained in restorative justice and conflict resolution, acts as a neutral third party. It analyzes the situation based on city data (with consent), clarifies the governing rules of the blueprint, and proposes multiple fair solutions for the parties to agree upon. The entire process is logged for transparency.
+
+*   **Tier 2: Community Responders**
+    If AI mediation fails or is inappropriate for the situation (e.g., ongoing harassment, complex social-emotional issues), the case can be elevated. A team of trained resident volunteers, participating as a form of 'civil work', act as human mediators. These Community Responders are trained in de-escalation, mental health first aid, and advanced mediation. They work with the involved parties to find a resolution, guided by the city's principles of fairness and well-being.
+
+*   **Tier 3: State Interface Protocol**
+    For situations that involve significant harm, criminal activity, or acute emergencies (e.g., violence, severe medical crises), the city has a clearly defined State Interface Protocol. This protocol legally and technically governs the interaction with the external state's emergency services, law enforcement, and judicial system.
+    -   **Emergency Dispatch:** The city's monitoring systems can automatically detect emergencies (e.g., fire, medical distress) and dispatch the appropriate state services, providing them with critical data like location, blueprints, and hazard assessments in real-time.
+    -   **Jurisdictional Hand-off:** The protocol explicitly defines which incidents fall under state jurisdiction. An on-site, human liaison (a 'civil work' role or a professional from the hosting company in early-class cities) is designated to formally interface with state officials, ensuring a smooth transfer of information and evidence that is compliant with state legal standards.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
