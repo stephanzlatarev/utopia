@@ -38,6 +38,28 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+
+## Economic System
+
+Utopia operates on a dual-economic model designed to eliminate survival-based anxiety while fostering creativity, contribution, and personal growth.
+
+### The Core Economy: Guaranteed Living
+
+As outlined in the principles, all basic needs and an evolving high standard of living are guaranteed to every resident without cost. This is managed by the city's core automation, ensuring that food, shelter, healthcare, education, and utilities are treated as inalienable rights, not commodities. This foundational economy removes the need for traditional labor for survival.
+
+### The Contribution Economy: U-Credits
+
+To power the free market for luxuries (Principle 04) and provide residents with a sense of purpose and reward for their unique talents, Utopia incorporates a digital currency called Utopia Credits (U-Credits).
+
+*   **Earning U-Credits:** Residents earn U-Credits not through labor, but through a 'Proof-of-Contribution' system. The city's automation tracks and rewards activities that enrich the community, such as:
+    *   Creating public art, music, and entertainment.
+    *   Organizing social clubs, sports leagues, and cultural events.
+    *   Mentoring, teaching specialized skills, or providing unique personal services.
+    *   Contributing to the open-source blueprint of Utopia or other technological/scientific advancements.
+    *   Undertaking novel environmental or aesthetic improvement projects.
+*   **Fairness and Value:** The value of contributions is determined transparently through a combination of peer-review, community-wide appreciation metrics, and direct patronage from other residents using their U-Credits. This ensures the system is decentralized and reflects the collective values of the community, preventing centralized control over who gets rewarded.
+*   **Purpose:** This system ensures that the free market is accessible to all, preventing a social divide between those with and without "luxuries." It motivates residents to apply their creativity and passion, fostering a vibrant culture where everyone has the opportunity to contribute and be recognized.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
