@@ -94,3 +94,25 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Conflict Resolution and Justice
+
+To ensure personal security and social harmony, a clear framework for resolving conflicts is required. This framework evolves alongside the city's class, transitioning from state-integrated processes to a fully automated, independent system built on transparent principles.
+
+#### State Integration Protocol (Classes U1-U5)
+
+For cities operating within a host state, a formal Jurisdictional and Operational Protocol will be established. This protocol will clearly define:
+
+*   **Jurisdictional Boundaries:** A clear delineation of which matters fall under the city's automated administration (e.g., resource allocation disputes, violations of service use) and which fall under state law (e.g., violent crime, major property disputes).
+*   **Law Enforcement Interface:** Rules of engagement for state law enforcement access to the city, ensuring resident privacy is balanced with public safety needs. This includes protocols for serving warrants, conducting investigations, and emergency response coordination.
+*   **Mediation and Dispute Resolution Services:** While major conflicts are delegated, the city will provide AI-assisted mediation services for minor interpersonal and community disputes, aiming for resolution before escalation to state authorities. This system will be based on the principles of **Restorative Justice**, focusing on repairing harm and rebuilding community trust.
+
+#### Automated Justice System Principles (Class U6+)
+
+As the city becomes independent, its automated justice system will not be a 'black box'. Its development will be governed by the following core principles:
+
+*   **Explainability:** All decisions, rulings, and sanctions made by the system must be fully transparent and explainable in human-understandable terms, adhering to **Explainable AI (XAI)** standards. Residents must be able to understand the 'why' behind any judgment.
+*   **Proportionality and Context:** The system will be designed to consider the nuances of each situation rather than applying rigid, absolute rules. It will prioritize de-escalation, rehabilitation, and restorative outcomes over purely punitive measures.
+*   **Right to Appeal:** A robust, multi-layered appeals process will be available. The initial appeal may be to a more advanced AI review board, with a final option for appeal to a council of human residents or blueprint developers serving as an oversight committee.
+*   **Ethical Evolution:** The justice blueprint itself will be a living document, open to review and amendment by residents through the standard feedback and blueprint development channels, ensuring it reflects evolving community values.
