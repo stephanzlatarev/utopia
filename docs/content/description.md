@@ -93,4 +93,12 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+
+### Digital Infrastructure and Data Integrity
+
+To ensure the resilience, security, and integrity of the city's core operations and to protect resident privacy, the digital infrastructure is built upon two key technologies:
+
+*   **Decentralized Rule Ledger:** The city's core blueprint, its automated rules, and critical transactional data (e.g., resource allocation logs) are maintained on a private, permissioned distributed ledger. This creates an immutable, cryptographically secure, and fully auditable record. This design factually prevents unauthorized changes to the governance framework, safeguarding the 'Fairness' principle against manipulation by any single entity.
+*   **Self-Sovereign Identity (SSI):** Each resident is issued a decentralized digital identity that they exclusively control. Instead of the city administration centrally storing personal data, residents grant verifiable, revocable permissions to city services to access specific attributes as needed (e.g., providing dietary needs to the food system without revealing their entire health record). This framework gives residents true ownership and control over their personal information, which is a cornerstone of digital freedom and privacy.
+
 All residents have access to video and audio communication, the internet, AI assistance.
