@@ -26,6 +26,16 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+### The Contribution Credit System
+
+To ensure the free market for luxuries operates in alignment with Utopia's principles of fairness and community, it will be powered by a dedicated digital currency: Contribution Credits (CC).
+
+*   **Earning Credits:** Residents acquire CC in two ways:
+    1.  **Universal Basic Contribution:** A regular, modest stipend of CC is distributed to all residents, guaranteeing a baseline of economic participation.
+    2.  **Verified Contributions:** Residents earn additional CC for actions that demonstrably benefit the community or advance the Utopia blueprint. This includes activities such as developing open-source blueprint modules, creating public art, organizing community-building events, or conducting valuable research. The value of these contributions is assessed transparently by the city's automation based on community-defined metrics.
+*   **Preventing Hoarding:** To encourage active circulation and prevent wealth concentration, accumulated CC is subject to a small, continuous demurrage fee (a gradual decay in value). This incentivizes re-investment, spending, and contribution over passive accumulation.
+*   **Market Dynamics:** This system ensures that participation in the luxury economy is directly tied to enriching the community, preventing the rise of a non-contributory elite and channeling creativity towards collective improvement.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
