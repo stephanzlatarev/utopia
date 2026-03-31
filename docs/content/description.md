@@ -21,6 +21,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
+### Community Justice and Ethics Framework
+
+While major criminal matters and legal status are handled by the state in early-class cities, a framework for internal community justice is essential for social cohesion and fairness. This framework is designed to handle interpersonal disputes, violations of community standards, and ethical questions arising from automation, evolving in sophistication with the city's class.
+
+- **AI-Assisted Mediation (Classes U1-U7):** The primary tool for resolving minor conflicts. An impartial AI mediator facilitates dialogue between residents, analyzes the situation against city principles, and proposes equitable, non-binding solutions. This system ensures all parties are heard and helps de-escalate conflicts before they require further intervention.
+
+- **Community Councils (Classes U2-U7):** For disputes where mediation fails or for more serious issues, a temporary Community Council is formed. Comprised of randomly selected resident volunteers who are guided by the AI to ensure impartiality and access to relevant, anonymized data, these councils hear cases and make binding decisions. This reintroduces civic participation and human judgment in a structured, non-permanent way, preventing the formation of a ruling class.
+
+- **Ethical Oversight (Classes U3-U7):** A standing, rotating body of residents works with blueprint developers to review the actions of the city's automation and justice framework. They provide feedback on the AI's performance, recommend changes to its ethical subroutines, and ensure its decisions align with the founding principles and the evolving values of the residents.
+
+This tiered approach ensures that justice is scalable, accessible, and maintains human-centric values, providing a clear pathway toward the fully automated, fair, and nuanced conflict resolution envisioned for Class U6.
+
 ### Blueprint development
 
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
