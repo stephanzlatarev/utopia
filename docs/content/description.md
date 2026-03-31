@@ -71,6 +71,15 @@ The resident may wish to share a space with a partner, friends, or family.
 
 ### Air
 
+### Water
+
+To guarantee a resilient and safe water supply, Utopia implements an Integrated Smart Water Grid Protocol. This system moves beyond simple provision to active, intelligent management of the entire water cycle.
+
+*   **Decentralized Sourcing & Redundancy:** The grid is not reliant on a single source. It combines traditional water supplies with a network of atmospheric water generators and hyper-efficient, localized water reclamation plants to ensure continuous availability even if one source is compromised.
+*   **Real-time Monitoring & Control:** A dense network of sensors monitors water quality (pH, turbidity, contaminants), pressure, and flow rates in real-time. The automation's control process instantly isolates any section of the grid that deviates from safety parameters, preventing the spread of contaminants.
+*   **Automated Crisis Response:** In case of a pipe rupture or contamination event, the system's pre-defined protocol automatically reroutes water flow to bypass the affected area, ensuring uninterrupted service to all residents. It simultaneously dispatches maintenance drones and alerts relevant supervisory systems.
+*   **Closed-Loop Recycling:** A multi-tiered recycling process treats greywater (from sinks and showers) and blackwater (from toilets) to potable standards, drastically reducing the city's external water dependency and creating a sustainable, circular water economy.
+
 Air-conditioning with purification systems is available in all spaces in the city.
 Depending on the preferences of the residents, all spaces may have close access to a park and use fresh air from nature.
 
