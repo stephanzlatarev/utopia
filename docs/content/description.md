@@ -52,6 +52,27 @@ Utopia implements a Modular and Adaptable Residential System (MARS) to provide h
 
 ## Basic needs
 
+## Economy and Resource Management
+
+In Utopia cities of Class U5 and beyond, the economic model transitions to a fully automated, self-sustaining system. This system is designed to provide all basic needs and the agreed standard of living without charging residents or relying on external imports for core services.
+
+### Resource Generation and Production
+The city's automation manages a closed-loop resource system. This includes:
+*   **Automated Resource Extraction and Processing**: Utilizing advanced robotics and AI, the city efficiently extracts and processes raw materials from its surrounding environment, minimizing environmental impact.
+*   **Decentralized Energy Production**: A network of renewable energy sources (e.g., advanced solar, geothermal, fusion reactors) provides all necessary power, ensuring energy independence and resilience.
+*   **Automated Manufacturing**: All essential goods, from food and water purification systems to housing modules and healthcare equipment, are produced on-demand by highly efficient, automated manufacturing facilities within the city's resource network.
+*   **Advanced Recycling and Waste Management**: Waste is minimized through extensive recycling, upcycling, and biological decomposition systems, feeding back into the resource loop.
+
+### Capital Allocation and Growth
+The "existing network of Utopia cities" (as mentioned in Class U5) operates as a collective, self-funding entity.
+*   **Surplus Resource Allocation**: Any surplus resources, energy, or manufacturing capacity generated beyond the immediate needs and standard of living of an individual city are automatically pooled into a common 'Utopia Network Fund'.
+*   **Network-Driven Investment**: This fund is managed by the collective AI of the Utopia network to finance:
+    *   Research and development for blueprint improvements and new technologies.
+    *   Expansion of existing cities and foundational investments for new cities, based on demand and resource availability.
+    *   Maintenance, upgrades, and resilience building for shared infrastructure.
+    *   Support for cities facing temporary resource deficits due to unforeseen circumstances.
+*   **Value Generation**: The value within this economy is derived from its ability to efficiently convert raw resources and energy into human well-being and technological advancement, rather than monetary profit.
+
 The city manages its resources in a way to provide for the physiological needs of its residents - nature, air, water, shelter, heating, sleep, and clothing.
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
