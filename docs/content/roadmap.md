@@ -1,5 +1,17 @@
 # Roadmap
 
+## Governance and Ownership Transition Protocol
+
+To ensure a clear and trustworthy path from the initial corporate-led development stages to the fully autonomous, community-stewarded later stages, all Utopia cities are established under a 'Stewardship Transition Protocol'. This protocol addresses the critical transfer of power, assets, and governance from the initial 'hosting company' to the city's automated systems and residents.
+
+The protocol is managed by the **Utopia Foundation**, an independent, non-profit entity established with the sole purpose of safeguarding the founding principles.
+
+### Key Mechanisms:
+*   **Chartered Operation:** The initial hosting company operates under a time-bound, milestone-based charter issued by the Utopia Foundation. This charter legally obligates the company to develop the city's automation and infrastructure to meet the criteria for Class U5.
+*   **Asset Trust:** All physical infrastructure and key intellectual property are legally held in a trust managed by the Utopia Foundation. The hosting company is granted a license to operate and develop these assets. This prevents the sale of the city or its core technology to outside interests and ensures assets are preserved for the residents.
+*   **Milestone-Based Handover:** The roadmap's classes (U1-U7) serve as the official milestones. Upon reaching the technical and self-sufficiency requirements of Class U5, the hosting company's charter expires. All operational control is then formally transferred from the company to the city's fully-automated governance systems, under the permanent oversight of the Utopia Foundation's charter.
+*   **Financial Transparency:** Fees collected from residents in Classes U1-U4 are managed transparently. A defined portion is allocated to the hosting company for operational costs and profit (as per their charter), while the remainder is invested by the Utopia Foundation into the R&D required to achieve full automation and self-sufficiency.
+
 This roadmap shows the stages through which the blueprint for Utopia cities will evolve as the employed technologies advance over time.
 It may also be used to guide the implementation phases of newly found Utopia cities.
 
