@@ -94,3 +94,14 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Founding and Stewardship
+
+To bridge the gap between initial implementation and full automation (Classes U1 to U4), each Utopia city is founded and managed by a **Utopian Stewardship Trust** (UST). This is a purpose-driven, non-profit legal entity with a singular, legally-binding mandate: to develop the city to a state of self-sufficient automation (Class U5) and then cease its own existence.
+
+#### Key Characteristics of the UST:
+*   **Purpose-Bound:** The UST operates under a model of steward-ownership. Its charter legally obligates it to reinvest all revenue (e.g., resident fees in Classes U2-U3) directly into the city's development, maintenance, and technological advancement. There are no private shareholders, and no profits can be extracted.
+*   **Transparent Operations:** All financial records, development progress, and milestone assessments of the UST are public and accessible to all residents in real-time, upholding the principle of transparency.
+*   **Automated Dissolution:** The UST's charter includes a "sunset clause" executed via a decentralized smart contract. Upon the city meeting the pre-defined technical and self-sufficiency criteria for Class U5, the UST's control and all city assets are automatically and irrevocably transferred to the city's fully automated administration. This removes the risk of the founding entity clinging to power.
+*   **Initial Funding:** The UST is responsible for securing initial capital for the city's construction through ethical investments, grants, or partnerships with organizations aligned with the Utopian principles.
