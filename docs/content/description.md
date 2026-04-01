@@ -38,6 +38,25 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Justice, Conflict Resolution, and Emergency Protocols
+
+To ensure social cohesion, personal security, and systemic resilience, Utopia implements a transparent and structured framework for managing interpersonal disputes, violations of community standards, and city-wide emergencies. This framework is designed to evolve with the city's class but is founded on principles of restorative justice and proactive crisis management, ensuring that automation serves, rather than dictates, community well-being.
+
+#### The Utopian Code of Conduct
+A living document, accessible to all residents, that outlines the rights, responsibilities, and shared behavioral standards of the community. It serves as the foundational logic for automated monitoring and the basis for all dispute resolution. The Code is developed and amended via the same open-source process as the city blueprint, ensuring it reflects the evolving consensus of its residents.
+
+#### Tiered Resolution System
+Conflicts and Code violations are handled through a multi-tiered system designed to be proportionate and humane:
+*   **Tier 1: AI-Mediated Dialogue.** For minor disagreements or infractions, a specialized AI acts as a neutral third-party mediator. It facilitates conversation between residents, clarifies the Code of Conduct, and proposes mutually agreeable solutions, focusing on understanding and reconciliation rather than punishment.
+*   **Tier 2: Community Resolution Circles.** If AI mediation is insufficient or the issue is more complex, residents can convene a voluntary Community Resolution Circle. These circles consist of the involved parties and trained resident facilitators (as a form of 'civil work'). The AI provides relevant, anonymized data and historical precedents, but the human participants guide the process of repairing harm and reaching a consensus.
+*   **Tier 3: System Arbitration.** In rare cases involving significant harm or persistent non-cooperation, the issue is escalated to System Arbitration. In early-class cities, this may be a human administrative body operating under state law. In mature (Class U6+) cities, this is a dedicated, high-level AI auditor, whose decisions can be appealed to a randomly selected panel of resident overseers to ensure fairness and prevent algorithmic tyranny.
+
+#### Emergency Response Protocols (ERP)
+The city's automation includes a comprehensive set of pre-defined protocols for various emergencies (e.g., fire, medical crisis, infrastructure failure, environmental hazard). These protocols include:
+*   **Automated Containment:** Robotic and systemic responses to immediately mitigate harm (e.g., deploying fire suppression systems, re-routing traffic, isolating contaminated water lines).
+*   **Human Volunteer Activation:** A system for alerting and coordinating trained resident volunteers for tasks requiring human ingenuity, empathy, or physical assistance, ensuring community participation in crisis response.
+*   **Transparent Communication:** Real-time, city-wide updates and instructions provided to all residents through their personal devices and public displays.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
