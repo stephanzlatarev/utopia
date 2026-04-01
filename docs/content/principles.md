@@ -26,6 +26,17 @@ Progress, innovation, and increasing productivity mean that what we can produce 
 
 Any product or service beyond the basic needs and the living standard is considered luxury. These are provided by the free market. Money is used only for luxury items. Money is not necessary for the products and services of the basic needs and living standard. Thus the market doesn't require regulation outside ensuring basic needs, such as safety.
 
+### 05a. The Contribution Credit System
+
+To power the free market for luxuries, Utopia utilizes a digital, non-transferable currency called 'Creative & Contribution Credits' (C&C). This system ensures that the luxury economy is accessible and fair, directly rewarding contributions that enhance the city's vibrancy and collective well-being.
+
+- **Earning Credits:** Residents are not required to work, but they can voluntarily earn C&C by engaging in activities that go beyond the automated standard. This includes:
+    - **Creative Arts:** Producing music, visual art, or performances that are enjoyed by the community.
+    - **Innovation:** Developing new software modules for the city's open-source blueprint or designing novel items for personal or public use.
+    - **Community Building:** Organizing social events, leading educational workshops, or undertaking significant community-enhancing projects.
+- **Value Assessment:** The city's automation assesses the value of a contribution based on transparent metrics of community engagement, such as usage, ratings, and direct feedback. This prevents centralized control and ensures the system reflects collective preferences.
+- **Purpose:** The C&C system is strictly for the luxury market. It cannot be used for basic needs or the living standard, ensuring that survival and comfort are never monetized. This mechanism provides a clear and equitable pathway for residents to participate in the economy of enrichment, turning personal passion and ingenuity into the engine of the luxury market.
+
 ## 06. Freedom - People have the freedom over their citizenship
 
 The blueprint of Utopia cities is public and freely available. It ensures it can be easily replicated and new Utopia cities can be found. As all Utopia cities guarantee the basic needs of their citizens but living standards may differ based on the preferences of the residents, people are free to move or found another city when they don't accept the conditions in their previous city. Thus, nobody can be forced to live in unacceptable conditions against their will.
