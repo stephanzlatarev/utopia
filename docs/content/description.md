@@ -19,6 +19,15 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+### Internal Conflict Resolution
+
+While serious disputes and criminal matters are delegated to the state (in city classes U1-U5), a robust internal framework exists to handle interpersonal conflicts, disagreements over shared resources, and minor rule infractions. This framework is designed to be restorative rather than punitive, focusing on mutual understanding and repairing community harmony. It operates on a tiered model:
+
+1.  **AI-Assisted Dialogue:** For minor disagreements, residents can opt into a guided communication process facilitated by a neutral AI. The system helps de-escalate tensions, clarifies points of contention, and suggests mutually agreeable solutions based on city principles and past precedents. All participation is voluntary and confidential.
+2.  **Community Mediation Council:** For more complex issues, residents can request mediation from the Community Mediation Council. This council consists of fellow residents who have undertaken specialized training in conflict resolution as a form of "civil work." These trained mediators facilitate dialogue and help parties reach a voluntary agreement.
+3.  **Automated Adjudication:** In cases of clear and unambiguous violations of city operational rules (e.g., misuse of automated systems or shared facilities), the city administration AI may issue a formal warning or temporarily restrict access to the specific service being misused. This action is logged transparently and is subject to an appeal process, which can be reviewed by the Community Mediation Council.
+4.  **Escalation:** An issue is only escalated to the host state's authorities if it involves a potential violation of state law, if a party refuses to engage with the internal framework in good faith leading to significant community disruption, or if a resolution cannot be reached and the conflict poses a safety risk.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
