@@ -114,3 +114,12 @@ Utopia Class U7 cities fully meet the priciple of freedom.
 The priciple of Freedom is fully met.
 The automation is so advanced that it can operate on any scale down to population of 1 and can still provide for the basic needs and living standard as a self-sustaining unit without dependencies to human labor or imports.
 Founding of new cities doesn't require significant funding and is accessible to all individuals.
+
+
+### Transitional Governance and Economic Model
+
+To address the inherent conflict of interest in a for-profit entity building a non-profit society, the initial administration of Class U1-U4 cities will not be managed by a traditional "hosting company." Instead, it will be operated by a **Utopia Development Trust**.
+
+*   **Mission-Driven Charter:** The Trust is a legally distinct entity, similar to a B Corporation or a steward-owned company. Its founding charter and legal structure irrevocably bind it to the Utopian principles. The Trust's primary, legally-enforceable mandate is to achieve the technological and social milestones of Class U5.
+*   **Reinvestment Obligation:** All revenue generated from resident fees in Class U1-U4 cities is treated as surplus. After covering operational costs, this surplus *must* be reinvested into research, development, and implementation of the automation systems required to advance to the next Class.
+*   **Path to Dissolution:** Upon reaching the criteria for Class U5 (full automation, no fees required), the Trust's charter dictates that it must transfer all administrative control to the city's automated governance system and dissolve its own authority over the city. This ensures a planned transition of power from the human-led transitional body to the fair and automated final system.
