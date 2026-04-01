@@ -9,6 +9,32 @@ In order to ensure that the city reflects the needs and preferences of its resid
 
 ### City administration
 
+### Conflict Resolution and Justice
+
+While Utopia aims to minimize conflict by providing for all basic needs, it recognizes that disagreements and transgressions are a natural part of any human community. Therefore, the blueprint includes a dedicated framework for conflict resolution and justice that is restorative, community-based, and evolves with the city's level of automation. This system is designed to repair harm, promote understanding, and maintain the social fabric of the city, rather than to punish.
+
+Our framework is built upon the principles of restorative justice, focusing on the needs of the victims, offenders, and the community. It provides a structured process for those involved to communicate and collectively decide how to repair the harm.
+
+#### Tier 1: Mediated Dialogue & Community Circles
+
+For interpersonal disagreements and minor community disputes, residents can initiate a mediated dialogue facilitated by trained community members or a specialized AI. For issues affecting a larger group, Community Circles can be convened, allowing all affected parties to speak and be heard in a safe and structured environment. The goal is to reach a mutually agreeable solution and foster empathy.
+
+#### Tier 2: Restorative Conferences
+
+For more serious incidents where harm has been caused, a Restorative Conference will be convened. This is a formal, facilitated meeting between the person who caused harm, those who were harmed, and their respective support networks and community members. The conference aims to:
+
+*   Acknowledge the harm done and its impact.
+*   Determine how the harm can be repaired and what can be done to prevent its recurrence.
+*   Develop a plan for the responsible party to make amends and reintegrate into the community.
+
+#### The Role of Automation
+
+Automation plays a supportive role in the justice system, ensuring fairness, transparency, and accessibility.
+
+*   **Facilitation:** In early-stage cities, AI can assist human facilitators by providing neutral information and communication tools. In later stages, AI can act as a primary facilitator, ensuring impartiality and adherence to the restorative process.
+*   **Record Keeping:** The system maintains a secure and confidential record of agreements, which can be used to track progress and ensure accountability. The records are anonymized and used for statistical analysis to identify patterns and proactively address potential sources of conflict in the city's design or rules.
+*   **Education:** The city's AI provides all residents with access to educational resources about conflict resolution, empathy, and communication skills, fostering a culture of peace and mutual understanding.
+
 The city is governed by automated rules that are provided with the blueprint.
 
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
