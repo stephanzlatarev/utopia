@@ -93,4 +93,16 @@ In addition, all residents have access to high-quality medical equipment and exp
 
 ### Communication
 
+## Education
+
+The city provides a comprehensive, lifelong learning framework called the Personalized and Adaptive Learning System (PALS). This system is designed to foster intellectual curiosity, critical thinking, social skills, and personal growth, enabling residents to pursue their 'greater purpose' from childhood through adulthood.
+
+### Core Philosophy
+PALS is built on the principle that learning is a personal journey. It rejects a one-size-fits-all model in favor of a flexible, adaptive, and interest-driven approach. The goal is to cultivate well-rounded individuals who are not just skilled for specific tasks but are also collaborative, creative, and emotionally intelligent members of the community.
+
+### Key Features:
+*   **AI-Powered Personalization:** Each resident has a personalized learning path generated and continuously updated by the city's core AI. This AI assesses learning styles, pace, interests, and goals to recommend modules, resources, and projects. It covers foundational knowledge (e.g., literacy, mathematics, science, arts) and allows for deep specialization in any area of interest.
+*   **Collaborative Learning Hubs:** While the core curriculum is AI-driven, learning is a social activity. The city features dedicated Learning Hubs, which are dynamic physical spaces designed for project-based learning, workshops, and collaborative problem-solving. These hubs are equipped with labs, creative studios, and multi-purpose areas, serving a similar community-building function to traditional schools and libraries.
+*   **Human Mentorship:** In early and mid-class cities (U1-U4), human teachers act as mentors, facilitators, and guides, focusing on nurturing social-emotional skills, managing group projects, and providing inspiration. In higher-class cities, their role evolves to that of high-level research guides and Socratic discussion leaders, working alongside the AI to tackle complex challenges with learners.
+
 All residents have access to video and audio communication, the internet, AI assistance.
