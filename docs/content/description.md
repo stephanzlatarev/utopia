@@ -40,6 +40,15 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Transportation
+
+The city utilizes a Hierarchical Automated Transport Network (HATN) to ensure safe, efficient, and equitable mobility for all residents, goods, and services. The network is segregated into distinct layers to prevent congestion and allow for prioritized travel.
+
+#### Key Features:
+*   **Subterranean Logistics Layer:** A dedicated network of tunnels for Autonomous Guided Vehicles (AGVs) handles all city logistics. This includes delivery of goods, transport of MARS housing modules, waste collection, and movement of maintenance bots, keeping service traffic completely separate from residential areas.
+*   **Personal Transit Layer:** A system of on-demand Personal Rapid Transit (PRT) pods operates on a network of surface or elevated guideways. These pods provide private, non-stop, point-to-point travel for residents, and are designed with accessibility as a core feature, with various pod configurations available to accommodate wheelchairs, service animals, and other mobility needs.
+*   **Emergency Priority Protocol:** Authenticated emergency vehicles (automated ambulances, fire suppression units, security patrols) have system-wide priority. When activated, this protocol clears a direct, unimpeded path through the Personal Transit Layer, halting or re-routing all non-emergency traffic to guarantee the fastest possible response times to any location in the city.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
