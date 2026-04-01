@@ -56,6 +56,20 @@ The city manages its resources in a way to provide for the physiological needs o
 
 Safety needs - personal space, personal security, health, and property - are provided in the personal spaces, group and family spaces, and public spaces across the city.
 
+
+#### Civic Safety and Justice Systems
+
+To actively provide for the safety needs of its residents, Utopia integrates a multi-layered Civic Safety and Justice System. This system is designed to handle issues internally, rapidly, and fairly, escalating to external state authorities only for the most severe cases that fall outside its automated protocols. The system operates on three primary levels:
+
+*   **Level 1: Automated Dispute Resolution (ADR):** For minor interpersonal and civil disputes (e.g., noise complaints, disagreements over shared space usage), an AI-driven mediation platform is available to all residents. The system guides participants through a structured, confidential process to find a mutually agreeable solution based on the city's operational rules and restorative justice principles. Participation is voluntary but is the standard first step before an issue can be escalated.
+
+*   **Level 2: Automated Emergency Response System (AERS):** For immediate physical threats, the city is equipped with a network of sensors and AI monitoring systems that can detect fires, medical emergencies, accidents, and security breaches. Upon detection, the AERS automatically dispatches specialized drones and robotic units for immediate containment, first aid, and assistance. For example:
+    *   **Fire Response:** Drones equipped with fire suppressants can be on-site within seconds to control a fire before it spreads, while robotic units clear paths for evacuation.
+    *   **Medical Response:** Medical drones deliver defibrillators or essential first-aid supplies, while a dedicated medical transport automates patient transit to healthcare facilities. AI assistants provide real-time guidance to residents until advanced help arrives.
+    *   **Security Response:** In cases of personal security threats, robotic security units can intervene to de-escalate situations, document events, and ensure the safety of residents. Their actions are strictly governed by rules to prevent excessive force.
+
+*   **Level 3: Human-in-the-Loop Mediation Council:** For complex disputes not resolved by the ADR and incidents requiring nuanced judgment beyond the AERS's capabilities, cases are referred to a Human-in-the-Loop Mediation Council. This council consists of trained resident volunteers and AI advisors who review incidents, facilitate complex mediations, and make binding decisions within the framework of the city blueprint and state law. This provides a layer of human oversight and adaptability, ensuring fairness in exceptional circumstances.
+
 Finally, the city helps its residents fulfill their higher needs of love and belonging, esteem, and self-actualization, by relieving them from the time, efforts, and anxiety for providing for their survival.
 
 All residents have full access to the resources and services to cover their needs.
