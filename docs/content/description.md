@@ -30,6 +30,18 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Community and Conflict Resolution
+
+While the city automation and, in early stages, the state, handle administrative and legal matters, the social health of Utopia depends on its residents' ability to navigate interpersonal and community disagreements constructively. To this end, the blueprint includes a tiered framework for conflict resolution, designed to address issues at the most local and personal level possible before escalation.
+
+This system provides residents with tools and support, fostering a culture of mutual understanding and restorative justice rather than punitive action.
+
+*   **Tier 1: AI-Assisted Mediation** - For interpersonal disputes, residents have access to a 24/7 AI mediation service. This tool can help facilitate conversations, suggest communication strategies, and provide neutral ground for resolving disagreements. It also provides educational resources to help residents develop conflict resolution skills.
+
+*   **Tier 2: Community Circles & Trained Mediators** - For conflicts involving groups or those that cannot be resolved at Tier 1, residents can request a facilitated restorative justice circle. These circles are guided by fellow residents who have undergone voluntary training in mediation and restorative practices. The focus is on understanding perspectives, acknowledging harm, and collectively agreeing on a path to repair relationships and community trust.
+
+*   **Tier 3: Formal Review** - Only when disputes cannot be resolved through the first two tiers do they move to a more formal internal review process managed by city administration. This process is the final step before an issue would be escalated to an external state authority (in Classes U1-U5) or the advanced justice automation (in Class U6 and above).
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
