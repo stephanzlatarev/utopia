@@ -40,6 +40,16 @@ The downside is that the city can isolate its residents from state corruption on
 
 ## Spaces
 
+## Transportation
+
+To complement its dynamic living spaces, Utopia implements a Dynamic Integrated Mobility System (DIMS), an automated, multi-layered network that ensures seamless, efficient, and equitable movement for all residents and goods.
+
+#### Key Features:
+*   **Multi-Layered Network:** The system operates on two distinct layers. A subterranean grid of tunnels is dedicated to high-speed transit, automated logistics (delivery of food, supplies, MARS modules), and emergency services, ensuring the surface remains uncongested and tranquil. On the surface, a network of on-demand, autonomous electric pods provides comfortable, accessible, door-to-door travel for individuals and small groups.
+*   **Seamless Integration:** DIMS is fully integrated with the city's core automation. Residents can summon pods through their personal devices, which automatically coordinate with the MARS system for moving or with public spaces for scheduling visits, creating a frictionless travel experience.
+*   **Pedestrian-First Design:** By moving most traffic underground, the city surface is reclaimed for people. This allows for expansive green parks, safe pedestrian walkways, and vibrant public squares, promoting community interaction, health, and well-being.
+*   **Universal Accessibility:** All surface pods and public transit nodes are designed from the ground up to be fully accessible, accommodating wheelchairs, strollers, and other mobility aids, guaranteeing true freedom of movement for every resident.
+
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
 
 Utopia implements a Modular and Adaptable Residential System (MARS) to provide housing, community, and office spaces that dynamically meet the varied and changing needs of its residents.
