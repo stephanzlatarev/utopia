@@ -38,6 +38,32 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+
+## Community Safety and Conflict Resolution
+
+While Utopia aims to minimize the root causes of conflict by guaranteeing basic needs, it recognizes that a society of individuals will still face disagreements, anti-social behavior, and emergencies. To address this, the city implements a tiered system designed to de-escalate situations, repair harm, and ensure the safety of all residents, supplementing and, in later stages, replacing the reliance on an external state's justice system.
+
+### Tier 1: Automated Mediation and Incident Reporting
+
+For minor disagreements and rule infractions, the primary system is an automated platform accessible to all residents. 
+
+- **Incident Reporting:** Residents can report issues through their personal devices. The system uses AI to analyze the report, ensuring it is directed appropriately and screened for urgency.
+- **AI-Facilitated Dialogue:** For interpersonal conflicts, the system can act as a neutral third-party mediator. It facilitates a structured, asynchronous conversation between the involved parties, suggesting compromises and clarifying misunderstandings based on the city's shared community guidelines and restorative principles.
+
+### Tier 2: Restorative Circles
+
+For conflicts that cause significant community harm or cannot be resolved by automated mediation, a Restorative Circle is initiated. This process is guided by a specialized AI facilitator or, in lower-class cities, a trained human volunteer.
+
+- **Focus on Harm:** The process brings together those who have been harmed and those who have caused harm in a safe and respectful dialogue.
+- **Collaborative Resolution:** The goal is not punishment, but for the parties to collectively understand the impact of the actions, acknowledge the harm done, and agree on how to repair it and prevent recurrence. This strengthens community bonds rather than creating division.
+
+### Tier 3: Automated Emergency and Safety Response
+
+The city's automation is equipped to handle immediate threats to resident safety.
+
+- **Environmental Sensors:** All spaces are monitored for hazards like fire, structural instability, or environmental toxins, with automated systems (e.g., fire suppression, containment drones) responding in seconds.
+- **Personal Safety:** Residents can trigger a personal safety alert, which immediately dispatches automated security and medical drones to their location to assess the situation, provide aid, and document events. Intervention is designed to be non-lethal and focused on de-escalation and containment until the situation is resolved.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
