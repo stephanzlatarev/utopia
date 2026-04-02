@@ -82,6 +82,13 @@ Air-conditioning with cooling and heating systems is available in all spaces in 
 
 The city provides a personalized diet to every individual resident based on their nutrition and taste needs and preferences.
 
+
+To ensure resilience and prevent systemic failure, food production is structured in a decentralized, multi-tiered system:
+
+*   **Tier 1: Centralized Production Hubs.** These large-scale, fully automated facilities (e.g., vertical farms, bioreactors) form the backbone of the food supply, efficiently producing staple calories, proteins, and core nutrients. They are optimized for resource efficiency and output, guaranteeing the city's baseline nutritional needs are met.
+*   **Tier 2: Community Food Hubs.** Distributed throughout the city in group and public spaces, these moderately-sized automated greenhouses and food labs cultivate a diverse range of fresh produce, including fruits, vegetables, herbs, and fungi. These hubs act as a redundant food source and serve as centers for civil work, where residents can learn about botany, experiment with new crops, and engage in the social aspects of food production.
+*   **Tier 3: Personal Food Modules.** Residents have the option to integrate small, automated hydroponic or aeroponic modules into their personal spaces. These units allow for the cultivation of specific high-value items like rare herbs, spices, or medicinal plants, providing a direct connection to food and an immediate, personal buffer supply.
+
 ### Healthcare
 
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
