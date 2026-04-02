@@ -94,3 +94,13 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Waste Management
+
+Utopia implements an Integrated Automated Waste Management and Resource Reclamation System (AWRRS) to manage all waste streams within a closed-loop circular economy.
+
+*   **Automated Source Separation:** Personal and public spaces are equipped with smart disposal units that automatically identify and sort materials (e.g., organics, polymers, metals, glass, e-waste) at the point of disposal.
+*   **Pneumatic Collection Network:** A city-wide network of subterranean pneumatic tubes transports separated materials directly from disposal units to specialized reclamation facilities, eliminating the need for collection vehicles, reducing noise, and minimizing public health risks.
+*   **Resource Reclamation:** Centralized, fully automated facilities process the collected materials. Organic matter is composted for use in vertical farms and parks, while other materials are broken down and reintroduced into the city's automated manufacturing systems as raw feedstock.
+*   **Process Control & Optimization:** The entire system is monitored and controlled by the city's core automation. It analyzes waste generation patterns to provide feedback for optimizing production and consumption, with the ultimate goal of designing out waste entirely.
