@@ -38,6 +38,19 @@ The downside is that the city can isolate its residents from state corruption on
 > Starting-class Utopia cities are very dependent on the states in which they operate. In essence, they operate as a hotel with its rules governing a guest's stay, while the guest is still subject to the state laws governing their citizen's life.
 > Mature-class cities will have advanced automation that will make them independent of any state.
 
+### Internal Conflict Resolution
+
+To bridge the gap between reliance on state-level justice and the future U6 automated system, and to uphold the promise of immediate personal security, Utopia cities will implement a tiered Internal Conflict Resolution (ICR) framework. This system is designed to handle non-criminal disputes and minor infractions internally, ensuring swift, fair, and restorative outcomes.
+
+*   **Tier 1: AI-Facilitated Mediation**
+    For minor interpersonal disagreements (e.g., noise complaints, shared space disputes), residents can initiate a request through their personal interface. An AI mediator will analyze the situation based on anonymized data, city regulations, and principles of restorative justice to propose neutral, equitable solutions or facilitate a structured, anonymous dialogue between the involved parties.
+
+*   **Tier 2: Community Mediation Council**
+    For more complex disputes that cannot be resolved by the AI, the issue can be elevated to the Community Mediation Council. This council consists of residents who have volunteered for this form of 'civil work' and have completed a standardized certification in conflict resolution, ethics, and blueprint principles. Sessions are guided by an AI to ensure procedural fairness, but the final recommended outcome is decided by the human mediators. Participation is voluntary for all parties.
+
+*   **Tier 3: Formal Escalation to State Rule**
+    The ICR framework is not intended to supplant law enforcement for criminal acts. Incidents involving violence, major property crime, or other serious offenses will be immediately and automatically reported to the relevant state authorities. The city's automation will have clear protocols to secure evidence and cooperate fully with the external state investigation. This tiered approach ensures that the majority of day-to-day conflicts are resolved internally, fostering community responsibility while maintaining a necessary connection to state-level justice for serious crimes.
+
 ## Spaces
 
 Utopia city has different spaces - personal spaces, group spaces, and public spaces.
