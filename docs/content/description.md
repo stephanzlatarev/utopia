@@ -19,6 +19,18 @@ Citizens do not vote on policies, laws and rules. However, they can influence th
 - through civil work - Although the city is fully automated and does not rely on human labor, residents are encouraged to put their mind, energy, and creativity in help of the community. They can work alongside the automation. In starting-class cities, they could perform non-automated tasks, train the automation, or supervise it. In higher class cities, they can develop and practice their skills lead by the AI of the automation.
 - through blueprint development - Residents may be interested in becoming developers of the blueprint. Then, they will influence all Utopia cities, not just theirs.
 
+#### Deliberative E-Democracy Module (DEM)
+
+To address complex social dynamics and resolve conflicting collective preferences that go beyond simple automated aggregation, a Deliberative E-Democracy Module is integrated into the city's administration. This provides a structured process for local, issue-specific collective decision-making.
+
+The process is as follows:
+
+1.  **Triggering Condition:** The DEM is activated when the administrative AI detects a significant and persistent conflict in resident preferences for a shared resource (e.g., usage of a public park) or when a citizen-led proposal receives a threshold of support via the direct feedback portal.
+2.  **Information Phase:** The AI compiles a neutral, data-driven impact report outlining the issue, proposed options, and their potential consequences for different resident groups. This is distributed to all affected residents.
+3.  **Deliberation Phase:** Residents can opt into a time-boxed, structured digital forum moderated by an AI to ensure civility and focus. The goal is collaborative refinement of proposals and mutual understanding of different perspectives.
+4.  **Polling Phase:** Following deliberation, a final set of clear, actionable proposals is put to a secure, anonymized digital poll for the directly affected community. The system may use advanced polling methods like ranked-choice or quadratic voting to better capture the nuance of public opinion.
+5.  **Implementation:** The automated city administration is bound to implement the outcome of the poll. The results and implementation plan are made fully transparent to all residents.
+
 The rationale behind this design choice is that people are by nature apolitical and suseptive to corruption. Thus, we offer them an environment where they don't have to actively engage in politics and they cannot assert political power among each other. The environment is similar to a restaurant franchise where people don't get to vote over the recipes and ingredients the chefs use but have freedom over what food they receive by choosing which restaurant they go to and what they order from the menu.
 
 ### Blueprint development
