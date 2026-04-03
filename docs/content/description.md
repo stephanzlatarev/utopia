@@ -30,6 +30,20 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Reconciliation
+
+To ensure personal safety and social cohesion, Utopia establishes a clear framework for resolving disputes and addressing harm. This framework evolves with the city's technological and social maturity, moving from a human-centric model to a human-supervised, AI-assisted system. The core principle is restorative justice, focusing on repairing harm, acknowledging responsibility, and reintegrating individuals into the community.
+
+*   **Early-Stage Cities (Class U1-U3):** Justice is administered through a human-led, community-based model. This includes:
+    *   **Community Mediators:** Trained resident volunteers and professionals who facilitate dialogue and resolution for interpersonal disputes.
+    *   **Restorative Circles:** A structured process for incidents of harm, bringing together the affected parties and community members to collaboratively decide on a path to repair the harm and address its root causes.
+    *   **Digital Ombuds System:** An accessible AI tool that helps residents understand community standards, their rights, and the steps for initiating a mediation or restorative process. All proceedings and outcomes from these human-led processes contribute to a secure, anonymized dataset used to ethically train the future justice AI.
+
+*   **Mature-Stage Cities (Class U4-U6):** The justice system becomes a hybrid model where automation assists and enhances the human-led framework:
+    *   **AI-Assisted Mediation:** The AI can help schedule sessions, provide neutral summaries of events based on verified data, and suggest precedents for restorative outcomes based on the historical dataset, but human mediators guide the process and final decisions.
+    *   **Automated Adjudication for Minor Violations:** The system can handle minor, non-personal infractions (e.g., misuse of a public resource), with a clear and simple human-led appeal process.
+    *   **Human Oversight Council:** An elected or rotational body of residents reviews the AI's performance, audits its decisions for fairness, and guides its continued development, ensuring the system remains accountable to the community it serves.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
