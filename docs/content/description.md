@@ -30,6 +30,20 @@ This design choice is inspired by the Linux operating system for computers. The 
 
 ### State rule
 
+### Justice and Conflict Resolution
+
+To ensure social harmony and provide clear, fair recourse for residents, Utopia implements an evolving framework for justice and conflict resolution. This system is designed to mature alongside the city's technological capabilities, shifting from state-integrated processes to a self-sufficient, restorative model.
+
+**Core Principles:**
+- **Restorative Focus:** The primary goal is to repair harm, address the needs of all parties, and promote reconciliation rather than to assign blame and punishment.
+- **Transparency:** All processes, rules, and decisions are fully documented and accessible to residents, with the logic of automated systems being fully explainable.
+- **Accessibility:** The system is designed to be easily understood and accessed by all residents, regardless of their background or abilities, with clear avenues for appeal.
+
+**Evolutionary Stages:**
+- **Class U1-U3 (Mediated & State-Integrated):** In early-stage cities, a council of trained resident mediators, supported by AI tools for case management, facilitates conflict resolution. This body operates within the legal framework of the host state, which remains the ultimate authority for criminal matters. The focus is on community-led, voluntary resolution for interpersonal and minor property disputes.
+- **Class U4-U5 (Hybrid System):** As city automation matures, a hybrid system is introduced. An 'Automated Adjudication System' (AAS) handles minor, clear-cut rule infractions (e.g., resource misuse, noise violations) based on the city blueprint. More complex interpersonal and community-level disputes are handled by the Restorative Justice Council, which now uses the AAS as an advisory tool but retains human-led decision-making authority. This process provides crucial training data for the AAS on nuanced human conflict.
+- **Class U6+ (Automated & Restorative):** In mature, state-independent cities, the AAS is capable of handling the majority of cases. However, it operates on restorative principles, proposing solutions that repair harm and rebuild community trust. All AAS decisions are appealable to a randomly selected, rotating citizen oversight board, ensuring a permanent human check on the automated system.
+
 Until the automation advances sufficiently, the city operates within a state.
 The benefit is that the state laws and policies will cover the dynamics that the blueprint and its automation is not ready for. Resolution of disputes and conflicts is delegated to the state.
 
