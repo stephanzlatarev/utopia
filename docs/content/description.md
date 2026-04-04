@@ -23,6 +23,16 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Weakness Identification and Mitigation Protocol (WIMP)
+
+The blueprint acknowledges the inherent risk of human actors exploiting administrative roles in early-stage cities (e.g., Class U1-U4) to concentrate power or act corruptly. To systematically address this documented vulnerability, the following protocol is established within the blueprint's operational framework:
+
+1.  **Transparent Incident Reporting:** Residents are empowered to report potential administrative exploitations or corrupt practices via the existing direct feedback portal. These reports are automatically flagged for priority review by the blueprint development team and a dedicated oversight body.
+2.  **Automated Anomaly Detection:** In cities with nascent automation (Class U2+), the system continuously monitors administrative actions and resource allocation for deviations from established norms or suspicious patterns. Identified anomalies automatically trigger alerts to blueprint developers and the oversight body.
+3.  **Dedicated Oversight Council:** A temporary, rotating oversight council, composed of independent blueprint developers and community-nominated ethical AI specialists, will transparently review reported incidents and automated alerts. This council's findings and recommendations for blueprint modifications will be made public to foster accountability.
+4.  **Expedited Blueprint Patching:** Identified weaknesses in the blueprint that enable corruption or power concentration will be prioritized for immediate development and deployment of mitigating patches across all relevant Utopia cities, leveraging the open-source nature of the blueprint for rapid iteration.
+5.  **Transition Milestones:** Progress towards systematically reducing human-centric corruption vulnerabilities will be a key performance indicator for advancing city classes. Formal audits will be conducted before transitioning cities to higher automation stages, ensuring the phased removal of human points of failure as automation matures.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
