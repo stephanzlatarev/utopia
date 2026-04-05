@@ -94,3 +94,12 @@ In addition, all residents have access to high-quality medical equipment and exp
 ### Communication
 
 All residents have access to video and audio communication, the internet, AI assistance.
+
+
+### Waste Management & Resource Reclamation
+
+Utopia redefines waste as a resource through its fully automated, city-wide Integrated Resource Reclamation System (IRRS). This system is as fundamental to the city as its water or data networks.
+
+*   **Automated Collection:** Every residential, group, and public space is equipped with discrete disposal chutes for different material categories (e.g., organics, polymers, metals, glass). A pneumatic tube network automatically transports these materials, eliminating the need for manual collection, garbage trucks, and public bins.
+*   **Intelligent Sorting & Processing:** Materials are routed to decentralized Reclamation Fab-Labs. Here, advanced AI-powered sensors perform fine-grained sorting. Organic matter is converted into nutrient-rich substrate for food production and biogas for energy. Other materials are deconstructed to their base elements—using methods up to and including plasma gasification for complex or non-recyclable items—and returned as pristine raw feedstock to the city's automated manufacturing systems.
+*   **Circular Economy:** The IRRS creates a closed-loop system where nearly 100% of discarded materials are repurposed. This drastically reduces the need for virgin resource extraction, enhances the city's self-sufficiency, and ensures a clean, pest-free, and odorless urban environment.
