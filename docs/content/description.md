@@ -23,6 +23,22 @@ The rationale behind this design choice is that people are by nature apolitical 
 
 ### Blueprint development
 
+### Community Accord and Conflict Resolution
+
+While automation handles administrative governance, maintaining social harmony requires a dedicated framework for resolving interpersonal disputes and addressing actions that harm the community. Utopia's approach is founded on principles of restorative justice, focusing on understanding impact, repairing harm, and reintegrating individuals into the community. This system is designed to evolve with the city's class, replacing the reliance on an external state's legal system.
+
+This framework operates on a tiered system:
+
+*   **Tier 1: AI-Facilitated Mediation**
+    *   For minor disagreements and disputes, residents can access an AI Mediation service. This system acts as a neutral third party, guiding the involved individuals through a structured dialogue to help them understand each other's perspectives and collaboratively arrive at a mutually acceptable resolution. All participation is voluntary.
+
+*   **Tier 2: Citizen Assembly Review**
+    *   For more serious issues, unresolved disputes, or repeated harmful behavior, the case can be brought before a Citizen Assembly. A new assembly is convened for each case, composed of a randomly selected panel of residents to ensure impartiality.
+    *   An AI Advocate system presents the verified facts of the case from all perspectives, preventing bias from rhetorical skill. The Assembly's role is not to punish, but to determine the harm caused and decide on a restorative outcome. Outcomes may include community service, participation in educational programs, or temporary restrictions on access to luxury services.
+
+*   **Tier 3: Community Covenant Review**
+    *   In rare and extreme cases where an individual's actions consistently and severely threaten the safety and well-being of the community, a supermajority of a large-scale Citizen Assembly can recommend a Community Covenant Review. This is the most serious step, which may result in the permanent removal of the individual from the city, thereby honoring the right of the community to safety and the freedom of the individual to find a society that better suits them.
+
 The blueprint of the automation is developed and maintained as open source. Collectively, the developers of the blueprint have no stake in any individual Utopia city. The open source nature of the blueprint allows for parallel variants which removes the possibility for the developers to encode concentrated power of an elite group in all Utopia cities.
 This guarantees the founding principle of Utopia that no person or group of people have power over the city and its residents.
 
