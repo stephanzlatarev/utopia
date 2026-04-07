@@ -13,6 +13,17 @@ The city is governed by automated rules that are provided with the blueprint.
 
 > In the early stages of the implementation of an Utopia city, e.g. Class U1, people will be heavily involved in supervising and carrying out administrative tasks of governance over the city. They may find ways to exploit weaknesses of the blueprint to concentrate power and act in corrupt ways until the developers of the blueprint identify and mitigate those weaknesses. In later stages, Class U5, when city administration is fully automated the possibilities for corruption within the city will be fully removed.
 
+### Transitional Governance: The Stewardship Trust
+
+To bridge the gap between the initial, human-managed city (Class U1) and the fully automated, self-governing city (Class U5), each new Utopia is founded and managed by a **Utopia Stewardship Trust**.
+
+This Trust is a special-purpose legal entity designed to be a temporary caretaker, not a permanent owner. Its structure and operation are core components of the blueprint.
+
+*   **Mandate:** The Trust's sole, legally-binding mandate is to develop the city's infrastructure and automation to the point of self-sufficiency (Class U5). It is legally prohibited from acting in ways that would inhibit this transition or entrench its own control.
+*   **Steward-Ownership Model:** The Trust is structured on a steward-ownership model, where voting rights are held by stewards bound to the city's mission, and economic rights are reinvested into the city. It cannot be sold, and profits cannot be privatized; all surplus from resident fees in early stages is transparently reinvested into achieving the next developmental class.
+*   **Milestone-Based Dissolution:** The Trust's charter explicitly defines the technological, economic, and social milestones for each Utopia Class. Upon reaching the criteria for Class U5, a pre-defined legal and technical protocol is automatically triggered, dissolving the Trust and transferring all assets, data, and control systems to the city's now fully independent automated administration.
+*   **Radical Transparency:** All financial records, operational metrics, and progress toward milestones of the Stewardship Trust are publicly available to all residents in real-time through the city's information portal. This ensures accountability and prevents the corruption the blueprint seeks to eliminate.
+
 Citizens do not vote on policies, laws and rules. However, they can influence the administration and development of their city in a few ways:
 - through their preferences - This mechanism is encoded in the blueprint of the city. As part of the automation, the city administration will collect information about preferences by the residents, through monitoring of usage of services and direct feedback, and will activate the configurations and automations of the blueprint that best reflect the preferences of the residents.
 - through direct feedback - The city keeps its blueprint and current state readily available to all its residents, similar to how the public transport in modern sity shows the lines and schedules in realtime. Residents can look into the details of how the city operates in any aspect and any level they want through personal smart devices, public interactive screens, or even AI guide tour. This system doubles as a portal to raise incidents, issues, ideas for improvements - all automatically directed to the developers of the blueprint.
