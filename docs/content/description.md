@@ -84,6 +84,17 @@ The city provides a personalized diet to every individual resident based on thei
 
 ### Healthcare
 
+
+### Safety and Security
+
+While the city's design focuses on preventing incidents, it is also equipped to respond to emergencies through a Decentralized Emergency Response Network (DERN). This network functions as a redundant, robust backup to the primary city automation, ensuring resident safety during large-scale disruptions.
+
+#### Key Features of DERN:
+*   **Hardened Emergency Hubs:** Distributed throughout the city, these physically protected hubs contain independent power generation, communication arrays, water purifiers, food rations, and advanced first-aid supplies.
+*   **Localized Control:** Each hub is run by a simplified, independent AI controller that can manage essential services within its local zone (e.g., environmental controls, door access, deploying service drones) if disconnected from the central grid.
+*   **Automated Resource Deployment:** In an emergency, a network of specialized drones for medical evacuation, fire suppression, and structural assessment is deployed from these hubs.
+*   **Graceful Degradation Protocol:** If the primary city automation fails, the DERN activates to maintain critical life-support functions, providing a safety net that prevents catastrophic system collapse and ensures a baseline of survival and security until primary systems are restored.
+
 The city provides healthy environment to all residents including provision for all physiological needs, healthy food, healthy sleep.
 All spaces are designed to minimize incidents, including industrial and traffic-related risks.
 There is a clear focus on prevention of health problems.
